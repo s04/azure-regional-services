@@ -1,6 +1,8 @@
 # Azure Regional Services Archive
 
-A small Azure regional services and retail pricing archive that updates itself with GitHub Actions.
+Daily GitHub Actions archive of Azure regional service availability and sampled retail prices, published as a static dashboard.
+
+**Live dashboard:** https://s04.github.io/azure-regional-services/
 
 The repo is intentionally shaped like a mini medallion pipeline:
 
