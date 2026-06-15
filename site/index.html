@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Azure Regional Services Archive</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="min-h-screen bg-base-200 text-base-content">
+    <header class="navbar border-b border-base-300 bg-base-100 px-4 lg:px-8">
+      <div class="flex-1">
+        <div>
+          <p class="text-xs font-bold uppercase text-primary">Azure archive</p>
+          <h1 class="text-xl font-bold lg:text-3xl">Regional services and tracked retail prices</h1>
+        </div>
+      </div>
+      <div class="hidden text-right text-sm text-base-content/70 sm:block">
+        <span id="last-run" class="block">Loading data</span>
+        <a id="summary-link" class="link link-primary" href="../data/gold/latest/summary.json">gold summary</a>
+      </div>
+    </header>
+
+    <main class="archive-shell">
+      <section class="metrics" aria-label="Archive metrics" id="metrics"></section>
+
+      <section class="card border border-base-300 bg-base-100 shadow-sm">
+        <div class="card-body gap-4 p-4">
+          <div class="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
+            <div class="tabs tabs-box" role="tablist" aria-label="Archive views">
+              <button class="tab tab-active" data-tab="overview" role="tab" type="button">Overview</button>
+              <button class="tab" data-tab="regions" role="tab" type="button">Regions</button>
+              <button class="tab" data-tab="services" role="tab" type="button">Services</button>
+              <button class="tab" data-tab="prices" role="tab" type="button">Prices</button>
+              <button class="tab" data-tab="changes" role="tab" type="button">Changes</button>
+            </div>
+            <label class="form-control w-full lg:max-w-sm">
+              <div class="label py-1">
+                <span class="label-text text-xs font-bold uppercase">Filter</span>
+              </div>
+              <input id="search" class="input input-bordered input-sm w-full" type="search" placeholder="Region, service, SKU" autocomplete="off" />
+            </label>
+          </div>
+
+          <div id="view" aria-live="polite">
+            <div class="empty">Loading archive data...</div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="mx-auto flex w-full max-w-[1480px] flex-wrap gap-x-4 gap-y-2 px-4 pb-8 text-sm text-base-content/70 lg:px-8">
+      <span>Data sources:</span>
+      <a class="link link-primary" href="https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table">Azure product availability</a>
+      <a class="link link-primary" href="https://learn.microsoft.com/en-us/rest/api/cost-management/retail-prices/azure-retail-prices">Azure Retail Prices API</a>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
