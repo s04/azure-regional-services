@@ -1,2 +1,3 @@
 date,runAt,availabilityHash,priceHash,availabilityRows,regions,geographies,offerings,skus,priceItems,priceQueries,availabilityAdded,availabilityRemoved,availabilityStateChanged,priceAdded,priceRemoved,priceChanged,priceFailures
 2026-06-15,2026-06-15T20:50:01Z,88cc2760d9a81e0c130eb4ed9892c8b17bc652c20ba256e6a6d29e6c2a4da588,2143ec0a0ff279c7c9c82ac25f4eaa8ca2aba32ecc2aa8c01a712f77c3118539,16534,66,33,191,517,8836,100,0,0,0,0,0,0,0
+2026-06-16,2026-06-16T08:21:58Z,88cc2760d9a81e0c130eb4ed9892c8b17bc652c20ba256e6a6d29e6c2a4da588,2143ec0a0ff279c7c9c82ac25f4eaa8ca2aba32ecc2aa8c01a712f77c3118539,16534,66,33,191,517,8836,100,0,0,0,0,0,0,0
