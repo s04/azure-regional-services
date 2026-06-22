@@ -1,14 +1,177 @@
 {
   "availability": {
     "changes": {
-      "added": 0,
-      "addedSamples": [],
-      "removed": 0,
-      "removedSamples": [],
+      "added": 6,
+      "addedSamples": [
+        {
+          "geography": "France",
+          "offering": "Azure Cloud HSM",
+          "region": "France South",
+          "regionDisplayName": "France South *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Germany",
+          "offering": "Azure Cloud HSM",
+          "region": "Germany North",
+          "regionDisplayName": "Germany North *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Indonesia",
+          "offering": "Azure Arc-enabled servers",
+          "region": "Indonesia Central",
+          "regionDisplayName": "Indonesia Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Azure Arc-enabled servers",
+          "region": "Malaysia West",
+          "regionDisplayName": "Malaysia West",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Norway",
+          "offering": "Azure Cloud HSM",
+          "region": "Norway East",
+          "regionDisplayName": "Norway East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Norway",
+          "offering": "Azure Cloud HSM",
+          "region": "Norway West",
+          "regionDisplayName": "Norway West *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        }
+      ],
+      "removed": 13,
+      "removedSamples": [
+        {
+          "geography": "Australia",
+          "offering": "Backup",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Backup",
+          "region": "Central US",
+          "regionDisplayName": "Central US",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Backup",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Backup",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "Germany",
+          "offering": "Backup",
+          "region": "Germany West Central",
+          "regionDisplayName": "Germany West Central",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Backup",
+          "region": "North Europe",
+          "regionDisplayName": "North Europe",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Backup",
+          "region": "South Central US",
+          "regionDisplayName": "South Central US",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "Asia Pacific",
+          "offering": "Backup",
+          "region": "Southeast Asia",
+          "regionDisplayName": "Southeast Asia",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "Sweden",
+          "offering": "Backup",
+          "region": "Sweden Central",
+          "regionDisplayName": "Sweden Central",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "United Kingdom",
+          "offering": "Backup",
+          "region": "UK South",
+          "regionDisplayName": "UK South",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Backup",
+          "region": "West Europe",
+          "regionDisplayName": "West Europe",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Backup",
+          "region": "West US 2",
+          "regionDisplayName": "West US 2",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Backup",
+          "region": "West US 3",
+          "regionDisplayName": "West US 3",
+          "sku": "Azure Database for PostGreSQL backup",
+          "state": "GA"
+        }
+      ],
       "stateChanged": 0,
       "stateChangedSamples": []
     },
-    "dataHash": "88cc2760d9a81e0c130eb4ed9892c8b17bc652c20ba256e6a6d29e6c2a4da588",
+    "dataHash": "cf78c63e78ca5b11e4cf57e5539fd1619e414d42af2ed903f63d2e1dcaacc68a",
     "summary": {
       "geographies": [
         {
@@ -17,11 +180,11 @@
         },
         {
           "geography": "Asia Pacific",
-          "rowCount": 699
+          "rowCount": 698
         },
         {
           "geography": "Australia",
-          "rowCount": 1035
+          "rowCount": 1034
         },
         {
           "geography": "Austria",
@@ -53,11 +216,11 @@
         },
         {
           "geography": "Europe",
-          "rowCount": 823
+          "rowCount": 821
         },
         {
           "geography": "France",
-          "rowCount": 501
+          "rowCount": 502
         },
         {
           "geography": "Germany",
@@ -69,7 +232,7 @@
         },
         {
           "geography": "Indonesia",
-          "rowCount": 187
+          "rowCount": 188
         },
         {
           "geography": "Israel",
@@ -89,7 +252,7 @@
         },
         {
           "geography": "Malaysia",
-          "rowCount": 173
+          "rowCount": 174
         },
         {
           "geography": "Mexico",
@@ -101,7 +264,7 @@
         },
         {
           "geography": "Norway",
-          "rowCount": 433
+          "rowCount": 435
         },
         {
           "geography": "Poland",
@@ -117,7 +280,7 @@
         },
         {
           "geography": "Sweden",
-          "rowCount": 491
+          "rowCount": 490
         },
         {
           "geography": "Switzerland",
@@ -133,11 +296,11 @@
         },
         {
           "geography": "United Kingdom",
-          "rowCount": 650
+          "rowCount": 649
         },
         {
           "geography": "United States",
-          "rowCount": 3248
+          "rowCount": 3242
         },
         {
           "geography": "Unknown",
@@ -553,10 +716,10 @@
       ],
       "regionCount": 66,
       "retiringSamples": [],
-      "rowCount": 16534,
-      "skuCount": 517,
+      "rowCount": 16527,
+      "skuCount": 516,
       "stateCounts": {
-        "GA": 16032,
+        "GA": 16025,
         "Preview": 440,
         "Unknown": 62
       },
@@ -732,9 +895,9 @@
           "geographyCount": 31,
           "offering": "Backup",
           "regionCount": 64,
-          "skuCount": 4,
+          "skuCount": 3,
           "stateCounts": {
-            "GA": 90,
+            "GA": 77,
             "Preview": 12
           }
         },
@@ -800,9 +963,9 @@
           "offeringCount": 148,
           "region": "East US",
           "regionFlags": [],
-          "skuCount": 406,
+          "skuCount": 405,
           "stateCounts": {
-            "GA": 383,
+            "GA": 382,
             "Preview": 23
           }
         },
@@ -811,9 +974,9 @@
           "offeringCount": 147,
           "region": "West Europe",
           "regionFlags": [],
-          "skuCount": 427,
+          "skuCount": 426,
           "stateCounts": {
-            "GA": 398,
+            "GA": 397,
             "Preview": 29
           }
         },
@@ -822,9 +985,9 @@
           "offeringCount": 139,
           "region": "Australia East",
           "regionFlags": [],
-          "skuCount": 390,
+          "skuCount": 389,
           "stateCounts": {
-            "GA": 376,
+            "GA": 375,
             "Preview": 14
           }
         },
@@ -833,9 +996,9 @@
           "offeringCount": 138,
           "region": "North Europe",
           "regionFlags": [],
-          "skuCount": 396,
+          "skuCount": 395,
           "stateCounts": {
-            "GA": 375,
+            "GA": 374,
             "Preview": 21
           }
         },
@@ -844,9 +1007,9 @@
           "offeringCount": 138,
           "region": "UK South",
           "regionFlags": [],
-          "skuCount": 389,
+          "skuCount": 388,
           "stateCounts": {
-            "GA": 377,
+            "GA": 376,
             "Preview": 12
           }
         },
@@ -855,9 +1018,9 @@
           "offeringCount": 137,
           "region": "Southeast Asia",
           "regionFlags": [],
-          "skuCount": 394,
+          "skuCount": 393,
           "stateCounts": {
-            "GA": 382,
+            "GA": 381,
             "Preview": 12
           }
         },
@@ -866,9 +1029,9 @@
           "offeringCount": 135,
           "region": "East US 2",
           "regionFlags": [],
-          "skuCount": 399,
+          "skuCount": 398,
           "stateCounts": {
-            "GA": 384,
+            "GA": 383,
             "Preview": 15
           }
         },
@@ -877,9 +1040,9 @@
           "offeringCount": 135,
           "region": "South Central US",
           "regionFlags": [],
-          "skuCount": 393,
+          "skuCount": 392,
           "stateCounts": {
-            "GA": 384,
+            "GA": 383,
             "Preview": 9
           }
         },
@@ -888,9 +1051,9 @@
           "offeringCount": 135,
           "region": "West US 2",
           "regionFlags": [],
-          "skuCount": 389,
+          "skuCount": 388,
           "stateCounts": {
-            "GA": 375,
+            "GA": 374,
             "Preview": 14
           }
         },
@@ -932,9 +1095,9 @@
           "offeringCount": 123,
           "region": "Central US",
           "regionFlags": [],
-          "skuCount": 362,
+          "skuCount": 361,
           "stateCounts": {
-            "GA": 348,
+            "GA": 347,
             "Preview": 14
           }
         },
@@ -965,9 +1128,9 @@
           "offeringCount": 121,
           "region": "West US 3",
           "regionFlags": [],
-          "skuCount": 346,
+          "skuCount": 345,
           "stateCounts": {
-            "GA": 335,
+            "GA": 334,
             "Preview": 11
           }
         },
@@ -987,9 +1150,9 @@
           "offeringCount": 117,
           "region": "Sweden Central",
           "regionFlags": [],
-          "skuCount": 333,
+          "skuCount": 332,
           "stateCounts": {
-            "GA": 324,
+            "GA": 323,
             "Preview": 9
           }
         },
@@ -998,9 +1161,9 @@
           "offeringCount": 116,
           "region": "Germany West Central",
           "regionFlags": [],
-          "skuCount": 340,
+          "skuCount": 339,
           "stateCounts": {
-            "GA": 335,
+            "GA": 334,
             "Preview": 5
           }
         },
@@ -1074,7 +1237,7 @@
     }
   },
   "date": "2026-06-22",
-  "generatedAt": "2026-06-22T08:30:18Z",
+  "generatedAt": "2026-06-22T19:27:48Z",
   "price": {
     "changes": {
       "added": 0,
