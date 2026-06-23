@@ -1,173 +1,10 @@
 {
   "availability": {
     "changes": {
-      "added": 6,
-      "addedSamples": [
-        {
-          "geography": "France",
-          "offering": "Azure Cloud HSM",
-          "region": "France South",
-          "regionDisplayName": "France South *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "",
-          "state": "GA"
-        },
-        {
-          "geography": "Germany",
-          "offering": "Azure Cloud HSM",
-          "region": "Germany North",
-          "regionDisplayName": "Germany North *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "",
-          "state": "GA"
-        },
-        {
-          "geography": "Indonesia",
-          "offering": "Azure Arc-enabled servers",
-          "region": "Indonesia Central",
-          "regionDisplayName": "Indonesia Central",
-          "sku": "",
-          "state": "GA"
-        },
-        {
-          "geography": "Malaysia",
-          "offering": "Azure Arc-enabled servers",
-          "region": "Malaysia West",
-          "regionDisplayName": "Malaysia West",
-          "sku": "",
-          "state": "GA"
-        },
-        {
-          "geography": "Norway",
-          "offering": "Azure Cloud HSM",
-          "region": "Norway East",
-          "regionDisplayName": "Norway East",
-          "sku": "",
-          "state": "GA"
-        },
-        {
-          "geography": "Norway",
-          "offering": "Azure Cloud HSM",
-          "region": "Norway West",
-          "regionDisplayName": "Norway West *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "",
-          "state": "GA"
-        }
-      ],
-      "removed": 13,
-      "removedSamples": [
-        {
-          "geography": "Australia",
-          "offering": "Backup",
-          "region": "Australia East",
-          "regionDisplayName": "Australia East",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "United States",
-          "offering": "Backup",
-          "region": "Central US",
-          "regionDisplayName": "Central US",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "United States",
-          "offering": "Backup",
-          "region": "East US",
-          "regionDisplayName": "East US",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "United States",
-          "offering": "Backup",
-          "region": "East US 2",
-          "regionDisplayName": "East US 2",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "Germany",
-          "offering": "Backup",
-          "region": "Germany West Central",
-          "regionDisplayName": "Germany West Central",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "Europe",
-          "offering": "Backup",
-          "region": "North Europe",
-          "regionDisplayName": "North Europe",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "United States",
-          "offering": "Backup",
-          "region": "South Central US",
-          "regionDisplayName": "South Central US",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "Asia Pacific",
-          "offering": "Backup",
-          "region": "Southeast Asia",
-          "regionDisplayName": "Southeast Asia",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "Sweden",
-          "offering": "Backup",
-          "region": "Sweden Central",
-          "regionDisplayName": "Sweden Central",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "United Kingdom",
-          "offering": "Backup",
-          "region": "UK South",
-          "regionDisplayName": "UK South",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "Europe",
-          "offering": "Backup",
-          "region": "West Europe",
-          "regionDisplayName": "West Europe",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "United States",
-          "offering": "Backup",
-          "region": "West US 2",
-          "regionDisplayName": "West US 2",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        },
-        {
-          "geography": "United States",
-          "offering": "Backup",
-          "region": "West US 3",
-          "regionDisplayName": "West US 3",
-          "sku": "Azure Database for PostGreSQL backup",
-          "state": "GA"
-        }
-      ],
+      "added": 0,
+      "addedSamples": [],
+      "removed": 0,
+      "removedSamples": [],
       "stateChanged": 0,
       "stateChangedSamples": []
     },
@@ -3754,7 +3591,7 @@
       ]
     }
   },
-  "generatedAt": "2026-06-22T19:27:48Z",
+  "generatedAt": "2026-06-23T07:33:57Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
