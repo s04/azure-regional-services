@@ -1,20 +1,918 @@
 {
   "availability": {
     "changes": {
-      "added": 0,
-      "addedSamples": [],
+      "added": 725,
+      "addedSamples": [
+        {
+          "geography": "Azure Government",
+          "offering": "API Management",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "App Service",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "App Service",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "App Service Environments",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "App Service",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "App Service Premium v3",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Application Gateway",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Application Gateway",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Application Gateway v2",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Automation",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Automation",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Update Management",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure AI Search",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure AI Search",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "AI Enrichment",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure AI Search",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Semantic Ranker",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Analysis Services",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure App Configuration",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Applied AI Services",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure AI Document Intelligence",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Applied AI Services",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure Video Indexer",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Arc-enabled servers",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Automanage Machine Configuration",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Bastion",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Cloud HSM",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Container Apps",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Cosmos DB",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure DDoS Protection",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure DNS",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure DNS Private Resolver",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure DNS",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure DNS Private Zones",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Data Box",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Data Box",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Data Box 120",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Data Box",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Data Box 525",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Data Box",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Data Box Disk",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Data Explorer",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Data Share",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Data Share",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Snapshot Execution",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database Migration Service",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database for MariaDB",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database for MySQL",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database for MySQL",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure Database for MySQL - Flexible Server",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database for MySQL",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure Database for MySQL - Single Server",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database for PostgreSQL",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database for PostgreSQL",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure Database for PostgreSQL - Flexible Server",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Databricks",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure DevTest Labs",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Files",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Files",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Locally redundant HDD storage",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Files",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Locally redundant SSD storage",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Firewall",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Firewall",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure Firewall Basic",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Firewall",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure Firewall Premium",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Firewall",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Azure Firewall Standard",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Firewall Manager",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Grafana Service",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Health Data Services",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        }
+      ],
       "removed": 0,
       "removedSamples": [],
-      "stateChanged": 0,
-      "stateChangedSamples": []
+      "stateChanged": 1587,
+      "stateChangedSamples": [
+        {
+          "from": "GA",
+          "offering": "Azure Database for MariaDB",
+          "region": "Australia Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Database for MySQL",
+          "region": "Australia Central",
+          "sku": "Azure Database for MySQL - Single Server",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Lab Services",
+          "region": "Australia Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Load Balancer",
+          "region": "Australia Central",
+          "sku": "Basic",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Cloud Services",
+          "region": "Australia Central",
+          "sku": "Av2-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Cloud Services Extended Support",
+          "region": "Australia Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "HDInsight",
+          "region": "Australia Central",
+          "sku": "Enterprise Security Package",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Redis Cache",
+          "region": "Australia Central",
+          "sku": "Redis Cache",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central",
+          "sku": "B-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central",
+          "sku": "D-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central",
+          "sku": "DS-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central",
+          "sku": "DSv2-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central",
+          "sku": "Dv2-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central",
+          "sku": "F-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central",
+          "sku": "FS-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central",
+          "sku": "Fsv2-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Database for MariaDB",
+          "region": "Australia Central 2",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Database for MySQL",
+          "region": "Australia Central 2",
+          "sku": "Azure Database for MySQL - Single Server",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Lab Services",
+          "region": "Australia Central 2",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Load Balancer",
+          "region": "Australia Central 2",
+          "sku": "Basic",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Cloud Services",
+          "region": "Australia Central 2",
+          "sku": "Av2-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Cloud Services Extended Support",
+          "region": "Australia Central 2",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Redis Cache",
+          "region": "Australia Central 2",
+          "sku": "Redis Cache",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central 2",
+          "sku": "B-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central 2",
+          "sku": "D-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central 2",
+          "sku": "DS-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central 2",
+          "sku": "DSv2-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central 2",
+          "sku": "Dv2-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central 2",
+          "sku": "F-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central 2",
+          "sku": "FS-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Virtual Machines",
+          "region": "Australia Central 2",
+          "sku": "Fsv2-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Automation",
+          "region": "Australia East",
+          "sku": "Change Tracking",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Database for MariaDB",
+          "region": "Australia East",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Database for MySQL",
+          "region": "Australia East",
+          "sku": "Azure Database for MySQL - Single Server",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Dedicated HSM",
+          "region": "Australia East",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Health Data Services",
+          "region": "Australia East",
+          "sku": "Azure API for FHIR",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Lab Services",
+          "region": "Australia East",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "Preview",
+          "offering": "Azure Lab Services",
+          "region": "Australia East",
+          "sku": "Azure Lab Services V2",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Load Balancer",
+          "region": "Australia East",
+          "sku": "Basic",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Monitor",
+          "region": "Australia East",
+          "sku": "Azure Monitor SCOM Managed Instance",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Spring Apps",
+          "region": "Australia East",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Spring Apps",
+          "region": "Australia East",
+          "sku": "Basic",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Spring Apps",
+          "region": "Australia East",
+          "sku": "Enterprise",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Spring Apps",
+          "region": "Australia East",
+          "sku": "Standard",
+          "to": "Closing Down"
+        },
+        {
+          "from": "Preview",
+          "offering": "Azure Spring Apps",
+          "region": "Australia East",
+          "sku": "Standard Gen2",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure VMware Solution",
+          "region": "Australia East",
+          "sku": "Azure VMware Solution: AV36 SKU",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure VMware Solution",
+          "region": "Australia East",
+          "sku": "Azure VMware Solution: AV36P SKU",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Cloud Services",
+          "region": "Australia East",
+          "sku": "Av2-Series",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Cloud Services Extended Support",
+          "region": "Australia East",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Functions",
+          "region": "Australia East",
+          "sku": "Consumption Plan Linux",
+          "to": "Closing Down"
+        }
+      ]
     },
-    "dataHash": "cf78c63e78ca5b11e4cf57e5539fd1619e414d42af2ed903f63d2e1dcaacc68a",
+    "dataHash": "7af69504e4962c73234d21ec342e0030cd8ec04332004810bcadf6eb155faf48",
     "summary": {
       "geographies": [
-        {
-          "geography": "Africa",
-          "rowCount": 458
-        },
         {
           "geography": "Asia Pacific",
           "rowCount": 698
@@ -26,6 +924,10 @@
         {
           "geography": "Austria",
           "rowCount": 182
+        },
+        {
+          "geography": "Azure Government",
+          "rowCount": 725
         },
         {
           "geography": "Belgium",
@@ -112,6 +1014,10 @@
           "rowCount": 215
         },
         {
+          "geography": "South Africa",
+          "rowCount": 458
+        },
+        {
           "geography": "Spain",
           "rowCount": 186
         },
@@ -144,441 +1050,493 @@
           "rowCount": 62
         }
       ],
-      "geographyCount": 33,
+      "geographyCount": 34,
       "offeringCount": 191,
       "offerings": [
         {
-          "geographyCount": 33,
+          "geographyCount": 34,
           "offering": "Azure DNS",
-          "regionCount": 66,
+          "regionCount": 69,
           "skuCount": 4,
           "stateCounts": {
-            "GA": 117,
-            "Unknown": 2
+            "GA": 125
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure Cosmos DB",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 65
+            "GA": 68
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure Files",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 5,
           "stateCounts": {
-            "GA": 196
+            "GA": 205
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure Load Balancer",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 3,
           "stateCounts": {
-            "GA": 191
+            "Closing Down": 67,
+            "GA": 133
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure SQL Database",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 65
+            "GA": 68
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "ExpressRoute",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 128,
+            "GA": 134,
             "Preview": 1
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "IP Services",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 5,
           "stateCounts": {
-            "GA": 297
+            "GA": 311
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Key Vault",
-          "regionCount": 65,
-          "skuCount": 3,
-          "stateCounts": {
-            "GA": 185
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Redis Cache",
-          "regionCount": 65,
-          "skuCount": 8,
-          "stateCounts": {
-            "GA": 358
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Service Bus",
-          "regionCount": 65,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 127
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Site Recovery",
-          "regionCount": 65,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Storage",
-          "regionCount": 65,
-          "skuCount": 16,
-          "stateCounts": {
-            "GA": 820
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "VMWatch",
-          "regionCount": 65,
-          "skuCount": 1,
-          "stateCounts": {
-            "Preview": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "VPN Gateway",
-          "regionCount": 65,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Virtual Machines",
-          "regionCount": 65,
-          "skuCount": 158,
-          "stateCounts": {
-            "GA": 4974,
-            "Preview": 58
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Virtual Network",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 3,
           "stateCounts": {
             "GA": 194
           }
         },
         {
-          "geographyCount": 32,
-          "offering": "App Service",
-          "regionCount": 64,
-          "skuCount": 4,
+          "geographyCount": 33,
+          "offering": "Redis Cache",
+          "regionCount": 68,
+          "skuCount": 8,
           "stateCounts": {
-            "GA": 158
+            "Closing Down": 74,
+            "GA": 290
           }
         },
         {
-          "geographyCount": 32,
-          "offering": "Azure Monitor",
-          "regionCount": 64,
-          "skuCount": 7,
+          "geographyCount": 33,
+          "offering": "Service Bus",
+          "regionCount": 68,
+          "skuCount": 2,
           "stateCounts": {
-            "GA": 241,
-            "Preview": 3,
-            "Unknown": 2
+            "GA": 133
           }
         },
         {
-          "geographyCount": 31,
-          "offering": "Backup",
-          "regionCount": 64,
+          "geographyCount": 33,
+          "offering": "Site Recovery",
+          "regionCount": 68,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 68
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Storage",
+          "regionCount": 68,
+          "skuCount": 16,
+          "stateCounts": {
+            "GA": 861
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "VMWatch",
+          "regionCount": 68,
+          "skuCount": 1,
+          "stateCounts": {
+            "Preview": 68
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "VPN Gateway",
+          "regionCount": 68,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 68
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Virtual Machines",
+          "regionCount": 68,
+          "skuCount": 158,
+          "stateCounts": {
+            "Closing Down": 643,
+            "GA": 4563,
+            "Preview": 39
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Virtual Network",
+          "regionCount": 68,
           "skuCount": 3,
           "stateCounts": {
-            "GA": 77,
+            "GA": 203
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "App Service",
+          "regionCount": 67,
+          "skuCount": 4,
+          "stateCounts": {
+            "GA": 167
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Azure Monitor",
+          "regionCount": 67,
+          "skuCount": 7,
+          "stateCounts": {
+            "Closing Down": 15,
+            "GA": 238,
+            "Preview": 4
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Backup",
+          "regionCount": 67,
+          "skuCount": 3,
+          "stateCounts": {
+            "GA": 80,
             "Preview": 12
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Cloud Services",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 7,
           "stateCounts": {
-            "GA": 343
+            "Closing Down": 67,
+            "GA": 292
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Functions",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 9,
           "stateCounts": {
-            "GA": 445,
+            "Closing Down": 35,
+            "GA": 429,
             "Preview": 30
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Service Fabric",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 64
+            "GA": 67
           }
         },
         {
-          "geographyCount": 31,
+          "geographyCount": 32,
           "offering": "Virtual Machine Scale Sets",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 64
+            "GA": 67
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Virtual Network NAT",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 64
+            "GA": 67
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure Database for MySQL",
-          "regionCount": 63,
+          "regionCount": 66,
           "skuCount": 3,
           "stateCounts": {
-            "GA": 163
+            "Closing Down": 50,
+            "GA": 122
           }
         },
         {
-          "geographyCount": 31,
+          "geographyCount": 32,
           "offering": "Azure Database for PostgreSQL",
-          "regionCount": 63,
+          "regionCount": 66,
           "skuCount": 4,
           "stateCounts": {
-            "GA": 141,
+            "GA": 147,
             "Preview": 28
           }
         },
         {
-          "geographyCount": 31,
-          "offering": "Azure Private Link",
-          "regionCount": 63,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 63
-          }
-        },
-        {
-          "geographyCount": 31,
-          "offering": "Container Registry",
-          "regionCount": 63,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 63
-          }
-        },
-        {
-          "geographyCount": 30,
-          "offering": "Event Hubs",
-          "regionCount": 63,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 111
-          }
-        },
-        {
           "geographyCount": 32,
-          "offering": "Azure DDoS Protection",
-          "regionCount": 62,
+          "offering": "Container Registry",
+          "regionCount": 66,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 66
+          }
+        },
+        {
+          "geographyCount": 31,
+          "offering": "Event Hubs",
+          "regionCount": 66,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 121,
+            "GA": 116
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Azure DDoS Protection",
+          "regionCount": 65,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 125,
             "Preview": 1
           }
         },
         {
-          "geographyCount": 29,
+          "geographyCount": 30,
           "offering": "Azure Data Explorer",
-          "regionCount": 62,
+          "regionCount": 65,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 57,
+            "GA": 60,
             "Preview": 5
           }
         },
         {
           "geographyCount": 32,
+          "offering": "Azure Private Link",
+          "regionCount": 65,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 65
+          }
+        },
+        {
+          "geographyCount": 33,
           "offering": "Azure SQL Managed Instance",
-          "regionCount": 62,
+          "regionCount": 65,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 62
+            "GA": 65
           }
         },
         {
-          "geographyCount": 29,
+          "geographyCount": 30,
           "offering": "Azure Web Application Firewall",
-          "regionCount": 62,
+          "regionCount": 65,
           "skuCount": 4,
           "stateCounts": {
-            "GA": 163,
-            "Preview": 1,
-            "Unknown": 1
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Container Instances",
-          "regionCount": 62,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 62
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Virtual WAN",
-          "regionCount": 62,
-          "skuCount": 4,
-          "stateCounts": {
-            "GA": 244
-          }
-        },
-        {
-          "geographyCount": 28,
-          "offering": "Application Gateway",
-          "regionCount": 61,
-          "skuCount": 3,
-          "stateCounts": {
-            "GA": 131,
+            "GA": 173,
             "Preview": 1
           }
         },
         {
-          "geographyCount": 29,
-          "offering": "Azure Firewall",
-          "regionCount": 61,
+          "geographyCount": 33,
+          "offering": "Container Instances",
+          "regionCount": 65,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 65
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Virtual WAN",
+          "regionCount": 65,
           "skuCount": 4,
           "stateCounts": {
-            "GA": 230
+            "GA": 256
+          }
+        },
+        {
+          "geographyCount": 29,
+          "offering": "Application Gateway",
+          "regionCount": 64,
+          "skuCount": 3,
+          "stateCounts": {
+            "GA": 137,
+            "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 30,
+          "offering": "Azure Firewall",
+          "regionCount": 64,
+          "skuCount": 4,
+          "stateCounts": {
+            "GA": 242
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Azure Kubernetes Service (AKS)",
+          "regionCount": 64,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 64
+          }
+        },
+        {
+          "geographyCount": 30,
+          "offering": "Azure Resource Manager",
+          "regionCount": 64,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 64
+          }
+        },
+        {
+          "geographyCount": 30,
+          "offering": "Azure Service Manager (RDFE)",
+          "regionCount": 64,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 64
           }
         },
         {
           "geographyCount": 32,
-          "offering": "Azure Kubernetes Service (AKS)",
-          "regionCount": 61,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 61
-          }
-        },
-        {
-          "geographyCount": 29,
-          "offering": "Azure Resource Manager",
-          "regionCount": 61,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 61
-          }
-        },
-        {
-          "geographyCount": 29,
-          "offering": "Azure Service Manager (RDFE)",
-          "regionCount": 61,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 61
-          }
-        },
-        {
-          "geographyCount": 31,
           "offering": "Azure App Configuration",
-          "regionCount": 60,
+          "regionCount": 63,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 60
+            "GA": 63
           }
         },
         {
-          "geographyCount": 31,
+          "geographyCount": 32,
           "offering": "Azure Firewall Manager",
-          "regionCount": 60,
+          "regionCount": 63,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 60
+            "GA": 63
           }
         },
         {
-          "geographyCount": 31,
+          "geographyCount": 32,
           "offering": "Azure Kubernetes Fleet Manager",
-          "regionCount": 60,
+          "regionCount": 63,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 60
+            "GA": 63
           }
         },
         {
-          "geographyCount": 28,
+          "geographyCount": 29,
           "offering": "Azure Stream Analytics",
-          "regionCount": 60,
+          "regionCount": 63,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 103,
+            "GA": 109,
             "Preview": 11
           }
         },
         {
           "geographyCount": 29,
-          "offering": "Cloud Services Extended Support",
-          "regionCount": 60,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 60
-          }
-        },
-        {
-          "geographyCount": 28,
           "offering": "Event Grid",
-          "regionCount": 60,
+          "regionCount": 63,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 93,
+            "GA": 96,
             "Preview": 1
           }
         },
         {
-          "geographyCount": 29,
+          "geographyCount": 30,
           "offering": "Bandwidth",
+          "regionCount": 62,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 62
+          }
+        },
+        {
+          "geographyCount": 30,
+          "offering": "Cloud Services Extended Support",
+          "regionCount": 62,
+          "skuCount": 1,
+          "stateCounts": {
+            "Closing Down": 62
+          }
+        },
+        {
+          "geographyCount": 31,
+          "offering": "Logic Apps",
+          "regionCount": 61,
+          "skuCount": 4,
+          "stateCounts": {
+            "GA": 106,
+            "Preview": 10
+          }
+        },
+        {
+          "geographyCount": 28,
+          "offering": "Azure Data Box",
+          "regionCount": 60,
+          "skuCount": 5,
+          "stateCounts": {
+            "GA": 219
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Azure Route Server",
+          "regionCount": 60,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 46,
+            "Preview": 14
+          }
+        },
+        {
+          "geographyCount": 31,
+          "offering": "Standby Pool",
+          "regionCount": 60,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 57,
+            "Preview": 3
+          }
+        },
+        {
+          "geographyCount": 26,
+          "offering": "API Management",
           "regionCount": 59,
           "skuCount": 1,
           "stateCounts": {
@@ -586,37 +1544,55 @@
           }
         },
         {
-          "geographyCount": 30,
-          "offering": "Logic Apps",
-          "regionCount": 58,
-          "skuCount": 4,
+          "geographyCount": 25,
+          "offering": "Azure Update Manager",
+          "regionCount": 59,
+          "skuCount": 1,
           "stateCounts": {
-            "GA": 101,
-            "Preview": 10
+            "GA": 44,
+            "Preview": 15
+          }
+        },
+        {
+          "geographyCount": 25,
+          "offering": "Microsoft Defender for Cloud",
+          "regionCount": 59,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 53,
+            "Preview": 6
+          }
+        },
+        {
+          "geographyCount": 28,
+          "offering": "Network Watcher",
+          "regionCount": 59,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 107
+          }
+        },
+        {
+          "geographyCount": 28,
+          "offering": "Azure Database Migration Service",
+          "regionCount": 58,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 58
           }
         },
         {
           "geographyCount": 27,
-          "offering": "Azure Data Box",
-          "regionCount": 57,
-          "skuCount": 5,
-          "stateCounts": {
-            "GA": 206
-          }
-        },
-        {
-          "geographyCount": 31,
-          "offering": "Azure Route Server",
-          "regionCount": 57,
+          "offering": "Batch",
+          "regionCount": 58,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 46,
-            "Preview": 11
+            "GA": 58
           }
         },
         {
-          "geographyCount": 30,
-          "offering": "Standby Pool",
+          "geographyCount": 29,
+          "offering": "Power BI",
           "regionCount": 57,
           "skuCount": 1,
           "stateCounts": {
@@ -624,8 +1600,18 @@
           }
         },
         {
-          "geographyCount": 25,
-          "offering": "API Management",
+          "geographyCount": 27,
+          "offering": "Azure Bastion",
+          "regionCount": 56,
+          "skuCount": 3,
+          "stateCounts": {
+            "GA": 56,
+            "Preview": 8
+          }
+        },
+        {
+          "geographyCount": 24,
+          "offering": "Azure Virtual Network Manager",
           "regionCount": 56,
           "skuCount": 1,
           "stateCounts": {
@@ -634,7 +1620,17 @@
         },
         {
           "geographyCount": 27,
-          "offering": "Azure Database Migration Service",
+          "offering": "HDInsight",
+          "regionCount": 56,
+          "skuCount": 2,
+          "stateCounts": {
+            "Closing Down": 50,
+            "GA": 56
+          }
+        },
+        {
+          "geographyCount": 22,
+          "offering": "SQL Server on Azure Virtual Machines",
           "regionCount": 56,
           "skuCount": 1,
           "stateCounts": {
@@ -642,33 +1638,14 @@
           }
         },
         {
-          "geographyCount": 24,
-          "offering": "Azure Update Manager",
-          "regionCount": 56,
-          "skuCount": 1,
+          "geographyCount": 23,
+          "offering": "Automation",
+          "regionCount": 55,
+          "skuCount": 3,
           "stateCounts": {
-            "GA": 41,
-            "Preview": 15
-          }
-        },
-        {
-          "geographyCount": 24,
-          "offering": "Microsoft Defender for Cloud",
-          "regionCount": 56,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 49,
-            "Preview": 6,
-            "Unknown": 1
-          }
-        },
-        {
-          "geographyCount": 27,
-          "offering": "Network Watcher",
-          "regionCount": 56,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 101
+            "Closing Down": 26,
+            "GA": 80,
+            "Preview": 1
           }
         },
         {
@@ -681,12 +1658,14 @@
           }
         },
         {
-          "geographyCount": 26,
-          "offering": "Batch",
+          "geographyCount": 31,
+          "offering": "Microsoft Foundry",
           "regionCount": 55,
-          "skuCount": 1,
+          "skuCount": 26,
           "stateCounts": {
-            "GA": 55
+            "Closing Down": 151,
+            "GA": 453,
+            "Preview": 23
           }
         },
         {
@@ -699,8 +1678,8 @@
           }
         },
         {
-          "geographyCount": 28,
-          "offering": "Power BI",
+          "geographyCount": 26,
+          "offering": "Azure Synapse Analytics",
           "regionCount": 54,
           "skuCount": 1,
           "stateCounts": {
@@ -708,66 +1687,35 @@
           }
         },
         {
-          "geographyCount": 26,
-          "offering": "Azure Bastion",
+          "geographyCount": 30,
+          "offering": "Azure AI Search",
           "regionCount": 53,
           "skuCount": 3,
           "stateCounts": {
-            "GA": 53,
-            "Preview": 8
+            "GA": 121
+          }
+        },
+        {
+          "geographyCount": 31,
+          "offering": "Data Factory",
+          "regionCount": 52,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 52
           }
         },
         {
           "geographyCount": 23,
-          "offering": "Azure Virtual Network Manager",
-          "regionCount": 53,
+          "offering": "Azure Database for MariaDB",
+          "regionCount": 51,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 53
+            "Closing Down": 51
           }
         },
         {
-          "geographyCount": 26,
-          "offering": "HDInsight",
-          "regionCount": 53,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 100
-          }
-        },
-        {
-          "geographyCount": 21,
-          "offering": "SQL Server on Azure Virtual Machines",
-          "regionCount": 53,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 53
-          }
-        },
-        {
-          "geographyCount": 22,
-          "offering": "Automation",
-          "regionCount": 52,
-          "skuCount": 3,
-          "stateCounts": {
-            "GA": 100,
-            "Preview": 1
-          }
-        },
-        {
-          "geographyCount": 30,
-          "offering": "Microsoft Foundry",
-          "regionCount": 52,
-          "skuCount": 26,
-          "stateCounts": {
-            "GA": 568,
-            "Preview": 24,
-            "Unknown": 7
-          }
-        },
-        {
-          "geographyCount": 25,
-          "offering": "Azure Synapse Analytics",
+          "geographyCount": 28,
+          "offering": "Azure Red Hat OpenShift (ARO)",
           "regionCount": 51,
           "skuCount": 1,
           "stateCounts": {
@@ -775,63 +1723,65 @@
           }
         },
         {
-          "geographyCount": 29,
-          "offering": "Azure AI Search",
-          "regionCount": 50,
-          "skuCount": 3,
+          "geographyCount": 20,
+          "offering": "IoT Hub",
+          "regionCount": 51,
+          "skuCount": 2,
           "stateCounts": {
-            "GA": 114
+            "GA": 89
           }
         },
         {
-          "geographyCount": 30,
-          "offering": "Data Factory",
+          "geographyCount": 25,
+          "offering": "Azure NetApp Files",
+          "regionCount": 49,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 98
+          }
+        },
+        {
+          "geographyCount": 28,
+          "offering": "Azure SignalR Service",
           "regionCount": 49,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 49
-          }
-        },
-        {
-          "geographyCount": 22,
-          "offering": "Azure Database for MariaDB",
-          "regionCount": 48,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 48
-          }
-        },
-        {
-          "geographyCount": 27,
-          "offering": "Azure Red Hat OpenShift (ARO)",
-          "regionCount": 48,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 48
-          }
-        },
-        {
-          "geographyCount": 19,
-          "offering": "IoT Hub",
-          "regionCount": 48,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 84
-          }
-        },
-        {
-          "geographyCount": 27,
-          "offering": "Azure SignalR Service",
-          "regionCount": 47,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 46,
+            "GA": 48,
             "Preview": 1
           }
         },
         {
-          "geographyCount": 24,
+          "geographyCount": 25,
           "offering": "Azure Databricks",
+          "regionCount": 48,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 48
+          }
+        },
+        {
+          "geographyCount": 23,
+          "offering": "Azure DevTest Labs",
+          "regionCount": 48,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 47,
+            "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 27,
+          "offering": "Azure Web PubSub",
+          "regionCount": 48,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 47,
+            "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 26,
+          "offering": "Azure Arc-enabled servers",
           "regionCount": 46,
           "skuCount": 1,
           "stateCounts": {
@@ -839,27 +1789,26 @@
           }
         },
         {
-          "geographyCount": 24,
-          "offering": "Azure NetApp Files",
-          "regionCount": 46,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 92
-          }
-        },
-        {
-          "geographyCount": 26,
-          "offering": "Azure Web PubSub",
+          "geographyCount": 23,
+          "offering": "Microsoft Entra Domain Services",
           "regionCount": 46,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 45,
-            "Preview": 1
+            "GA": 46
           }
         },
         {
           "geographyCount": 22,
-          "offering": "Azure DevTest Labs",
+          "offering": "Microsoft Sentinel",
+          "regionCount": 46,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 46
+          }
+        },
+        {
+          "geographyCount": 22,
+          "offering": "Notification Hubs",
           "regionCount": 45,
           "skuCount": 1,
           "stateCounts": {
@@ -868,8 +1817,8 @@
           }
         },
         {
-          "geographyCount": 25,
-          "offering": "Azure Arc-enabled servers",
+          "geographyCount": 30,
+          "offering": "Azure Migrate",
           "regionCount": 44,
           "skuCount": 1,
           "stateCounts": {
@@ -877,12 +1826,22 @@
           }
         },
         {
-          "geographyCount": 21,
-          "offering": "Microsoft Sentinel",
-          "regionCount": 44,
+          "geographyCount": 19,
+          "offering": "Azure Stack Edge",
+          "regionCount": 43,
+          "skuCount": 5,
+          "stateCounts": {
+            "GA": 100
+          }
+        },
+        {
+          "geographyCount": 31,
+          "offering": "Azure VM Image Builder",
+          "regionCount": 43,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 44
+            "GA": 40,
+            "Preview": 3
           }
         },
         {
@@ -896,60 +1855,21 @@
         },
         {
           "geographyCount": 22,
-          "offering": "Microsoft Entra Domain Services",
-          "regionCount": 43,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 43
-          }
-        },
-        {
-          "geographyCount": 21,
-          "offering": "Notification Hubs",
-          "regionCount": 43,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 42,
-            "Preview": 1
-          }
-        },
-        {
-          "geographyCount": 29,
-          "offering": "Azure Migrate",
-          "regionCount": 42,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 42
-          }
-        },
-        {
-          "geographyCount": 30,
-          "offering": "Azure VM Image Builder",
-          "regionCount": 41,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 40,
-            "Preview": 1
-          }
-        },
-        {
-          "geographyCount": 18,
-          "offering": "Azure Stack Edge",
-          "regionCount": 40,
-          "skuCount": 5,
-          "stateCounts": {
-            "GA": 91,
-            "Unknown": 1
-          }
-        },
-        {
-          "geographyCount": 21,
           "offering": "Azure Container Apps",
-          "regionCount": 39,
+          "regionCount": 42,
           "skuCount": 3,
           "stateCounts": {
-            "GA": 65,
+            "GA": 68,
             "Preview": 4
+          }
+        },
+        {
+          "geographyCount": 20,
+          "offering": "Azure Automanage Machine Configuration",
+          "regionCount": 38,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 38
           }
         },
         {
@@ -972,12 +1892,22 @@
           }
         },
         {
-          "geographyCount": 19,
-          "offering": "Azure Automanage Machine Configuration",
-          "regionCount": 36,
+          "geographyCount": 13,
+          "offering": "Azure Managed Applications",
+          "regionCount": 37,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 36
+            "GA": 37
+          }
+        },
+        {
+          "geographyCount": 21,
+          "offering": "Azure Applied AI Services",
+          "regionCount": 36,
+          "skuCount": 3,
+          "stateCounts": {
+            "GA": 91,
+            "Preview": 1
           }
         },
         {
@@ -986,55 +1916,55 @@
           "regionCount": 36,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 30,
-            "Preview": 29
+            "Closing Down": 59
           }
         },
         {
-          "geographyCount": 20,
-          "offering": "Azure Applied AI Services",
-          "regionCount": 34,
-          "skuCount": 3,
-          "stateCounts": {
-            "GA": 87,
-            "Preview": 1
-          }
-        },
-        {
-          "geographyCount": 20,
+          "geographyCount": 21,
           "offering": "Azure Arc enabled Kubernetes",
-          "regionCount": 34,
+          "regionCount": 35,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 47,
+            "GA": 48,
+            "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 17,
+          "offering": "Azure Cloud HSM",
+          "regionCount": 35,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 35
+          }
+        },
+        {
+          "geographyCount": 21,
+          "offering": "Azure Communication Services",
+          "regionCount": 35,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 34,
             "Preview": 1
           }
         },
         {
           "geographyCount": 20,
-          "offering": "Azure Communication Services",
-          "regionCount": 34,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 34
-          }
-        },
-        {
-          "geographyCount": 12,
-          "offering": "Azure Managed Applications",
-          "regionCount": 34,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 34
-          }
-        },
-        {
-          "geographyCount": 19,
           "offering": "Azure VMware Solution",
-          "regionCount": 33,
+          "regionCount": 35,
           "skuCount": 6,
           "stateCounts": {
-            "GA": 112
+            "Closing Down": 51,
+            "GA": 65
+          }
+        },
+        {
+          "geographyCount": 18,
+          "offering": "Azure Data Share",
+          "regionCount": 33,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 51
           }
         },
         {
@@ -1047,8 +1977,8 @@
           }
         },
         {
-          "geographyCount": 16,
-          "offering": "Azure Cloud HSM",
+          "geographyCount": 22,
+          "offering": "Azure Managed Lustre (AMLFS)",
           "regionCount": 32,
           "skuCount": 1,
           "stateCounts": {
@@ -1061,46 +1991,46 @@
           "regionCount": 32,
           "skuCount": 5,
           "stateCounts": {
-            "GA": 108,
-            "Preview": 11
+            "Closing Down": 119
           }
         },
         {
-          "geographyCount": 17,
-          "offering": "Azure Data Share",
+          "geographyCount": 19,
+          "offering": "Azure Health Data Services",
           "regionCount": 31,
-          "skuCount": 2,
+          "skuCount": 3,
           "stateCounts": {
-            "GA": 47
+            "Closing Down": 28,
+            "GA": 45,
+            "Preview": 9
+          }
+        },
+        {
+          "geographyCount": 19,
+          "offering": "Microsoft Azure Attestation",
+          "regionCount": 31,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 30,
+            "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 19,
+          "offering": "Azure Grafana Service",
+          "regionCount": 29,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 29
           }
         },
         {
           "geographyCount": 21,
-          "offering": "Azure Managed Lustre (AMLFS)",
-          "regionCount": 31,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 31
-          }
-        },
-        {
-          "geographyCount": 18,
-          "offering": "Azure Health Data Services",
-          "regionCount": 29,
-          "skuCount": 3,
-          "stateCounts": {
-            "GA": 65,
-            "Preview": 13
-          }
-        },
-        {
-          "geographyCount": 18,
-          "offering": "Microsoft Azure Attestation",
+          "offering": "Fluid Relay Service",
           "regionCount": 29,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 28,
-            "Preview": 1
+            "GA": 29
           }
         },
         {
@@ -1131,8 +2061,8 @@
           }
         },
         {
-          "geographyCount": 18,
-          "offering": "Azure Grafana Service",
+          "geographyCount": 19,
+          "offering": "Security Platform (Purview)",
           "regionCount": 27,
           "skuCount": 1,
           "stateCounts": {
@@ -1140,12 +2070,12 @@
           }
         },
         {
-          "geographyCount": 20,
-          "offering": "Fluid Relay Service",
-          "regionCount": 27,
+          "geographyCount": 17,
+          "offering": "Azure Arc-enabled SQL Server",
+          "regionCount": 26,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 27
+            "GA": 26
           }
         },
         {
@@ -1158,21 +2088,12 @@
           }
         },
         {
-          "geographyCount": 18,
-          "offering": "Security Platform (Purview)",
-          "regionCount": 26,
+          "geographyCount": 12,
+          "offering": "Azure Analysis Services",
+          "regionCount": 24,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 26
-          }
-        },
-        {
-          "geographyCount": 16,
-          "offering": "Azure Arc-enabled SQL Server",
-          "regionCount": 25,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 25
+            "GA": 24
           }
         },
         {
@@ -1183,6 +2104,24 @@
           "stateCounts": {
             "GA": 22,
             "Preview": 2
+          }
+        },
+        {
+          "geographyCount": 16,
+          "offering": "Azure App Testing",
+          "regionCount": 23,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 27
+          }
+        },
+        {
+          "geographyCount": 10,
+          "offering": "Azure Dedicated HSM",
+          "regionCount": 23,
+          "skuCount": 1,
+          "stateCounts": {
+            "Closing Down": 23
           }
         },
         {
@@ -1205,39 +2144,12 @@
           }
         },
         {
-          "geographyCount": 11,
-          "offering": "Azure Analysis Services",
-          "regionCount": 22,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 22
-          }
-        },
-        {
-          "geographyCount": 15,
-          "offering": "Azure App Testing",
-          "regionCount": 22,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 26
-          }
-        },
-        {
-          "geographyCount": 9,
-          "offering": "Azure Dedicated HSM",
+          "geographyCount": 12,
+          "offering": "Azure Arc Appliance",
           "regionCount": 21,
           "skuCount": 1,
           "stateCounts": {
             "GA": 21
-          }
-        },
-        {
-          "geographyCount": 11,
-          "offering": "Azure Arc Appliance",
-          "regionCount": 20,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 20
           }
         },
         {
@@ -1250,12 +2162,12 @@
           }
         },
         {
-          "geographyCount": 18,
+          "geographyCount": 19,
           "offering": "Resource Move",
-          "regionCount": 18,
+          "regionCount": 19,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 18
+            "GA": 19
           }
         },
         {
@@ -1313,21 +2225,21 @@
           }
         },
         {
+          "geographyCount": 10,
+          "offering": "Azure Local",
+          "regionCount": 13,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 17
+          }
+        },
+        {
           "geographyCount": 6,
           "offering": "Azure Arc enabled System Center Virtual Machine Manager",
           "regionCount": 12,
           "skuCount": 1,
           "stateCounts": {
             "GA": 12
-          }
-        },
-        {
-          "geographyCount": 9,
-          "offering": "Azure Local",
-          "regionCount": 12,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 15
           }
         },
         {
@@ -1354,7 +2266,7 @@
           "regionCount": 11,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 11
+            "Closing Down": 11
           }
         },
         {
@@ -1472,7 +2384,7 @@
           "regionCount": 7,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 7
+            "Closing Down": 7
           }
         },
         {
@@ -1481,7 +2393,27 @@
           "regionCount": 7,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 10
+            "Closing Down": 3,
+            "GA": 7
+          }
+        },
+        {
+          "geographyCount": 3,
+          "offering": "Azure Stack",
+          "regionCount": 7,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 7
+          }
+        },
+        {
+          "geographyCount": 6,
+          "offering": "Microsoft Planetary Computer Pro",
+          "regionCount": 7,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 5,
+            "Preview": 2
           }
         },
         {
@@ -1492,26 +2424,6 @@
           "stateCounts": {
             "GA": 6,
             "Preview": 1
-          }
-        },
-        {
-          "geographyCount": 5,
-          "offering": "Microsoft Planetary Computer Pro",
-          "regionCount": 6,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 5,
-            "Preview": 1
-          }
-        },
-        {
-          "geographyCount": 2,
-          "offering": "Azure Stack",
-          "regionCount": 5,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 4,
-            "Unknown": 1
           }
         },
         {
@@ -1529,7 +2441,7 @@
           "regionCount": 4,
           "skuCount": 1,
           "stateCounts": {
-            "Preview": 4
+            "Closing Down": 4
           }
         },
         {
@@ -1538,7 +2450,7 @@
           "regionCount": 3,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 3
+            "Closing Down": 3
           }
         },
         {
@@ -1565,7 +2477,7 @@
           "regionCount": 2,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 2
+            "Closing Down": 2
           }
         },
         {
@@ -1583,7 +2495,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1592,7 +2504,7 @@
           "regionCount": 1,
           "skuCount": 2,
           "stateCounts": {
-            "Unknown": 2
+            "GA": 2
           }
         },
         {
@@ -1601,7 +2513,7 @@
           "regionCount": 1,
           "skuCount": 3,
           "stateCounts": {
-            "Unknown": 3
+            "GA": 3
           }
         },
         {
@@ -1610,7 +2522,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "Preview": 1
           }
         },
         {
@@ -1619,7 +2531,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1628,7 +2540,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "Preview": 1
           }
         },
         {
@@ -1637,7 +2549,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1646,7 +2558,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1655,7 +2567,7 @@
           "regionCount": 1,
           "skuCount": 3,
           "stateCounts": {
-            "Unknown": 3
+            "GA": 3
           }
         },
         {
@@ -1664,7 +2576,7 @@
           "regionCount": 1,
           "skuCount": 4,
           "stateCounts": {
-            "Unknown": 4
+            "GA": 4
           }
         },
         {
@@ -1673,7 +2585,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1682,7 +2594,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1691,7 +2603,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1700,7 +2612,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1709,7 +2621,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1718,7 +2630,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1727,7 +2639,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "Closing Down": 1
           }
         },
         {
@@ -1736,7 +2648,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1745,7 +2657,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1754,7 +2666,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1763,7 +2675,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1772,7 +2684,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1781,7 +2693,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1790,7 +2702,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1799,7 +2711,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "Closing Down": 1
           }
         },
         {
@@ -1808,7 +2720,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1817,7 +2729,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1826,7 +2738,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1835,7 +2747,7 @@
           "regionCount": 1,
           "skuCount": 4,
           "stateCounts": {
-            "Unknown": 4
+            "GA": 4
           }
         },
         {
@@ -1844,7 +2756,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1853,7 +2765,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "Closing Down": 1
           }
         },
         {
@@ -1862,7 +2774,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1871,7 +2783,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1880,7 +2792,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1889,7 +2801,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1898,7 +2810,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "Unknown": 1
+            "GA": 1
           }
         },
         {
@@ -1907,7 +2819,7 @@
           "regionCount": 1,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 1
+            "Closing Down": 1
           }
         }
       ],
@@ -1980,7 +2892,7 @@
           "state": "Preview"
         },
         {
-          "geography": "Africa",
+          "geography": "South Africa",
           "offering": "Automation",
           "region": "South Africa North",
           "regionDisplayName": "South Africa North",
@@ -2068,6 +2980,30 @@
           "state": "Preview"
         },
         {
+          "geography": "",
+          "offering": "Azure Blueprints",
+          "region": "Non Regional",
+          "regionDisplayName": "Non Regional",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
+          "geography": "",
+          "offering": "Azure Business Continuity Center",
+          "region": "Non Regional",
+          "regionDisplayName": "Non Regional",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Communication Services",
+          "region": "Virginia",
+          "regionDisplayName": "Virginia",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
           "geography": "India",
           "offering": "Azure Confidential Ledger",
           "region": "Central India",
@@ -2105,14 +3041,6 @@
           "region": "East US",
           "regionDisplayName": "East US",
           "sku": "Azure Container Apps - Azure Arc",
-          "state": "Preview"
-        },
-        {
-          "geography": "Africa",
-          "offering": "Azure Container Storage",
-          "region": "South Africa North",
-          "regionDisplayName": "South Africa North",
-          "sku": "",
           "state": "Preview"
         },
         {
@@ -2220,6 +3148,14 @@
           "state": "Preview"
         },
         {
+          "geography": "South Africa",
+          "offering": "Azure Container Storage",
+          "region": "South Africa North",
+          "regionDisplayName": "South Africa North",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
           "geography": "Sweden",
           "offering": "Azure Container Storage",
           "region": "Sweden Central",
@@ -2290,33 +3226,9 @@
           "regionDisplayName": "South Central US",
           "sku": "",
           "state": "Preview"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Container Storage",
-          "region": "West Central US",
-          "regionDisplayName": "West Central US",
-          "sku": "",
-          "state": "Preview"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Container Storage",
-          "region": "West US",
-          "regionDisplayName": "West US",
-          "sku": "",
-          "state": "Preview"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Container Storage",
-          "region": "West US 2",
-          "regionDisplayName": "West US 2",
-          "sku": "",
-          "state": "Preview"
         }
       ],
-      "regionCount": 66,
+      "regionCount": 69,
       "regions": [
         {
           "geography": "United States",
@@ -2325,8 +3237,9 @@
           "regionFlags": [],
           "skuCount": 405,
           "stateCounts": {
-            "GA": 382,
-            "Preview": 23
+            "Closing Down": 48,
+            "GA": 337,
+            "Preview": 20
           }
         },
         {
@@ -2336,8 +3249,9 @@
           "regionFlags": [],
           "skuCount": 426,
           "stateCounts": {
-            "GA": 397,
-            "Preview": 29
+            "Closing Down": 55,
+            "GA": 350,
+            "Preview": 21
           }
         },
         {
@@ -2347,8 +3261,9 @@
           "regionFlags": [],
           "skuCount": 389,
           "stateCounts": {
-            "GA": 375,
-            "Preview": 14
+            "Closing Down": 47,
+            "GA": 331,
+            "Preview": 11
           }
         },
         {
@@ -2358,8 +3273,9 @@
           "regionFlags": [],
           "skuCount": 395,
           "stateCounts": {
-            "GA": 374,
-            "Preview": 21
+            "Closing Down": 49,
+            "GA": 331,
+            "Preview": 15
           }
         },
         {
@@ -2369,8 +3285,9 @@
           "regionFlags": [],
           "skuCount": 388,
           "stateCounts": {
-            "GA": 376,
-            "Preview": 12
+            "Closing Down": 46,
+            "GA": 333,
+            "Preview": 9
           }
         },
         {
@@ -2380,8 +3297,9 @@
           "regionFlags": [],
           "skuCount": 393,
           "stateCounts": {
-            "GA": 381,
-            "Preview": 12
+            "Closing Down": 47,
+            "GA": 335,
+            "Preview": 11
           }
         },
         {
@@ -2391,8 +3309,9 @@
           "regionFlags": [],
           "skuCount": 398,
           "stateCounts": {
-            "GA": 383,
-            "Preview": 15
+            "Closing Down": 49,
+            "GA": 340,
+            "Preview": 9
           }
         },
         {
@@ -2402,8 +3321,9 @@
           "regionFlags": [],
           "skuCount": 392,
           "stateCounts": {
-            "GA": 383,
-            "Preview": 9
+            "Closing Down": 47,
+            "GA": 338,
+            "Preview": 7
           }
         },
         {
@@ -2413,8 +3333,9 @@
           "regionFlags": [],
           "skuCount": 388,
           "stateCounts": {
-            "GA": 374,
-            "Preview": 14
+            "Closing Down": 45,
+            "GA": 330,
+            "Preview": 13
           }
         },
         {
@@ -2424,8 +3345,9 @@
           "regionFlags": [],
           "skuCount": 339,
           "stateCounts": {
-            "GA": 330,
-            "Preview": 9
+            "Closing Down": 41,
+            "GA": 290,
+            "Preview": 8
           }
         },
         {
@@ -2435,8 +3357,9 @@
           "regionFlags": [],
           "skuCount": 371,
           "stateCounts": {
-            "GA": 361,
-            "Preview": 10
+            "Closing Down": 44,
+            "GA": 318,
+            "Preview": 9
           }
         },
         {
@@ -2446,8 +3369,9 @@
           "regionFlags": [],
           "skuCount": 336,
           "stateCounts": {
-            "GA": 324,
-            "Preview": 12
+            "Closing Down": 34,
+            "GA": 291,
+            "Preview": 11
           }
         },
         {
@@ -2457,8 +3381,9 @@
           "regionFlags": [],
           "skuCount": 361,
           "stateCounts": {
-            "GA": 347,
-            "Preview": 14
+            "Closing Down": 39,
+            "GA": 315,
+            "Preview": 7
           }
         },
         {
@@ -2468,8 +3393,9 @@
           "regionFlags": [],
           "skuCount": 305,
           "stateCounts": {
-            "GA": 296,
-            "Preview": 9
+            "Closing Down": 33,
+            "GA": 265,
+            "Preview": 7
           }
         },
         {
@@ -2479,8 +3405,9 @@
           "regionFlags": [],
           "skuCount": 356,
           "stateCounts": {
-            "GA": 338,
-            "Preview": 18
+            "Closing Down": 40,
+            "GA": 300,
+            "Preview": 16
           }
         },
         {
@@ -2490,8 +3417,9 @@
           "regionFlags": [],
           "skuCount": 345,
           "stateCounts": {
-            "GA": 334,
-            "Preview": 11
+            "Closing Down": 30,
+            "GA": 305,
+            "Preview": 10
           }
         },
         {
@@ -2501,8 +3429,9 @@
           "regionFlags": [],
           "skuCount": 328,
           "stateCounts": {
-            "GA": 319,
-            "Preview": 9
+            "Closing Down": 36,
+            "GA": 284,
+            "Preview": 8
           }
         },
         {
@@ -2512,7 +3441,8 @@
           "regionFlags": [],
           "skuCount": 332,
           "stateCounts": {
-            "GA": 323,
+            "Closing Down": 28,
+            "GA": 295,
             "Preview": 9
           }
         },
@@ -2523,8 +3453,9 @@
           "regionFlags": [],
           "skuCount": 339,
           "stateCounts": {
-            "GA": 334,
-            "Preview": 5
+            "Closing Down": 30,
+            "GA": 305,
+            "Preview": 4
           }
         },
         {
@@ -2534,8 +3465,9 @@
           "regionFlags": [],
           "skuCount": 305,
           "stateCounts": {
-            "GA": 294,
-            "Preview": 11
+            "Closing Down": 35,
+            "GA": 262,
+            "Preview": 8
           }
         },
         {
@@ -2545,8 +3477,9 @@
           "regionFlags": [],
           "skuCount": 309,
           "stateCounts": {
-            "GA": 300,
-            "Preview": 9
+            "Closing Down": 28,
+            "GA": 273,
+            "Preview": 8
           }
         },
         {
@@ -2556,8 +3489,9 @@
           "regionFlags": [],
           "skuCount": 304,
           "stateCounts": {
-            "GA": 292,
-            "Preview": 12
+            "Closing Down": 27,
+            "GA": 266,
+            "Preview": 11
           }
         },
         {
@@ -2567,8 +3501,9 @@
           "regionFlags": [],
           "skuCount": 296,
           "stateCounts": {
-            "GA": 288,
-            "Preview": 8
+            "Closing Down": 27,
+            "GA": 262,
+            "Preview": 7
           }
         },
         {
@@ -2578,8 +3513,9 @@
           "regionFlags": [],
           "skuCount": 305,
           "stateCounts": {
-            "GA": 298,
-            "Preview": 7
+            "Closing Down": 27,
+            "GA": 272,
+            "Preview": 6
           }
         },
         {
@@ -2589,8 +3525,9 @@
           "regionFlags": [],
           "skuCount": 269,
           "stateCounts": {
-            "GA": 257,
-            "Preview": 12
+            "Closing Down": 19,
+            "GA": 240,
+            "Preview": 10
           }
         },
         {
@@ -2600,18 +3537,32 @@
           "regionFlags": [],
           "skuCount": 290,
           "stateCounts": {
-            "GA": 285,
-            "Preview": 5
+            "Closing Down": 26,
+            "GA": 260,
+            "Preview": 4
           }
         },
         {
-          "geography": "Africa",
+          "geography": "South Africa",
           "offeringCount": 107,
           "region": "South Africa North",
           "regionFlags": [],
           "skuCount": 279,
           "stateCounts": {
-            "GA": 273,
+            "Closing Down": 24,
+            "GA": 250,
+            "Preview": 5
+          }
+        },
+        {
+          "geography": "Azure Government",
+          "offeringCount": 105,
+          "region": "Virginia",
+          "regionFlags": [],
+          "skuCount": 292,
+          "stateCounts": {
+            "Closing Down": 34,
+            "GA": 252,
             "Preview": 6
           }
         },
@@ -2622,8 +3573,9 @@
           "regionFlags": [],
           "skuCount": 261,
           "stateCounts": {
-            "GA": 257,
-            "Preview": 4
+            "Closing Down": 25,
+            "GA": 233,
+            "Preview": 3
           }
         },
         {
@@ -2633,8 +3585,9 @@
           "regionFlags": [],
           "skuCount": 262,
           "stateCounts": {
-            "GA": 256,
-            "Preview": 6
+            "Closing Down": 20,
+            "GA": 237,
+            "Preview": 5
           }
         },
         {
@@ -2644,8 +3597,9 @@
           "regionFlags": [],
           "skuCount": 247,
           "stateCounts": {
-            "GA": 244,
-            "Preview": 3
+            "Closing Down": 25,
+            "GA": 220,
+            "Preview": 2
           }
         },
         {
@@ -2655,8 +3609,23 @@
           "regionFlags": [],
           "skuCount": 260,
           "stateCounts": {
-            "GA": 253,
-            "Preview": 7
+            "Closing Down": 26,
+            "GA": 228,
+            "Preview": 6
+          }
+        },
+        {
+          "geography": "Azure Government",
+          "offeringCount": 94,
+          "region": "Arizona",
+          "regionFlags": [
+            "early_access"
+          ],
+          "skuCount": 244,
+          "stateCounts": {
+            "Closing Down": 24,
+            "GA": 216,
+            "Preview": 4
           }
         },
         {
@@ -2666,7 +3635,8 @@
           "regionFlags": [],
           "skuCount": 251,
           "stateCounts": {
-            "GA": 246,
+            "Closing Down": 14,
+            "GA": 232,
             "Preview": 5
           }
         },
@@ -2677,7 +3647,8 @@
           "regionFlags": [],
           "skuCount": 220,
           "stateCounts": {
-            "GA": 217,
+            "Closing Down": 16,
+            "GA": 201,
             "Preview": 3
           }
         },
@@ -2690,7 +3661,8 @@
           ],
           "skuCount": 226,
           "stateCounts": {
-            "GA": 223,
+            "Closing Down": 18,
+            "GA": 205,
             "Preview": 3
           }
         },
@@ -2701,8 +3673,9 @@
           "regionFlags": [],
           "skuCount": 215,
           "stateCounts": {
-            "GA": 210,
-            "Preview": 5
+            "Closing Down": 15,
+            "GA": 196,
+            "Preview": 4
           }
         },
         {
@@ -2712,7 +3685,8 @@
           "regionFlags": [],
           "skuCount": 210,
           "stateCounts": {
-            "GA": 202,
+            "Closing Down": 15,
+            "GA": 187,
             "Preview": 8
           }
         },
@@ -2723,7 +3697,8 @@
           "regionFlags": [],
           "skuCount": 208,
           "stateCounts": {
-            "GA": 207,
+            "Closing Down": 16,
+            "GA": 191,
             "Preview": 1
           }
         },
@@ -2734,7 +3709,8 @@
           "regionFlags": [],
           "skuCount": 201,
           "stateCounts": {
-            "GA": 198,
+            "Closing Down": 21,
+            "GA": 177,
             "Preview": 3
           }
         },
@@ -2747,7 +3723,8 @@
           ],
           "skuCount": 205,
           "stateCounts": {
-            "GA": 203,
+            "Closing Down": 14,
+            "GA": 189,
             "Preview": 2
           }
         },
@@ -2758,7 +3735,20 @@
           "regionFlags": [],
           "skuCount": 185,
           "stateCounts": {
-            "GA": 182,
+            "Closing Down": 17,
+            "GA": 165,
+            "Preview": 3
+          }
+        },
+        {
+          "geography": "Azure Government",
+          "offeringCount": 77,
+          "region": "Texas",
+          "regionFlags": [],
+          "skuCount": 189,
+          "stateCounts": {
+            "Closing Down": 13,
+            "GA": 173,
             "Preview": 3
           }
         },
@@ -2769,7 +3759,8 @@
           "regionFlags": [],
           "skuCount": 210,
           "stateCounts": {
-            "GA": 208,
+            "Closing Down": 10,
+            "GA": 198,
             "Preview": 2
           }
         },
@@ -2782,7 +3773,8 @@
           ],
           "skuCount": 193,
           "stateCounts": {
-            "GA": 189,
+            "Closing Down": 15,
+            "GA": 174,
             "Preview": 4
           }
         },
@@ -2795,8 +3787,9 @@
           ],
           "skuCount": 176,
           "stateCounts": {
-            "GA": 172,
-            "Preview": 4
+            "Closing Down": 13,
+            "GA": 160,
+            "Preview": 3
           }
         },
         {
@@ -2808,7 +3801,8 @@
           ],
           "skuCount": 190,
           "stateCounts": {
-            "GA": 187,
+            "Closing Down": 15,
+            "GA": 172,
             "Preview": 3
           }
         },
@@ -2819,7 +3813,8 @@
           "regionFlags": [],
           "skuCount": 188,
           "stateCounts": {
-            "GA": 186,
+            "Closing Down": 12,
+            "GA": 174,
             "Preview": 2
           }
         },
@@ -2832,7 +3827,8 @@
           ],
           "skuCount": 173,
           "stateCounts": {
-            "GA": 170,
+            "Closing Down": 13,
+            "GA": 157,
             "Preview": 3
           }
         },
@@ -2843,7 +3839,8 @@
           "regionFlags": [],
           "skuCount": 197,
           "stateCounts": {
-            "GA": 196,
+            "Closing Down": 15,
+            "GA": 181,
             "Preview": 1
           }
         },
@@ -2854,7 +3851,8 @@
           "regionFlags": [],
           "skuCount": 171,
           "stateCounts": {
-            "GA": 169,
+            "Closing Down": 16,
+            "GA": 153,
             "Preview": 2
           }
         },
@@ -2867,7 +3865,8 @@
           ],
           "skuCount": 189,
           "stateCounts": {
-            "GA": 186,
+            "Closing Down": 14,
+            "GA": 172,
             "Preview": 3
           }
         },
@@ -2880,7 +3879,8 @@
           ],
           "skuCount": 171,
           "stateCounts": {
-            "GA": 165,
+            "Closing Down": 9,
+            "GA": 156,
             "Preview": 6
           }
         },
@@ -2893,7 +3893,8 @@
           ],
           "skuCount": 168,
           "stateCounts": {
-            "GA": 166,
+            "Closing Down": 13,
+            "GA": 153,
             "Preview": 2
           }
         },
@@ -2904,8 +3905,9 @@
           "regionFlags": [],
           "skuCount": 182,
           "stateCounts": {
-            "GA": 180,
-            "Preview": 2
+            "Closing Down": 9,
+            "GA": 172,
+            "Preview": 1
           }
         },
         {
@@ -2917,12 +3919,13 @@
           ],
           "skuCount": 197,
           "stateCounts": {
-            "GA": 195,
+            "Closing Down": 13,
+            "GA": 182,
             "Preview": 2
           }
         },
         {
-          "geography": "Africa",
+          "geography": "South Africa",
           "offeringCount": 67,
           "region": "South Africa West",
           "regionFlags": [
@@ -2930,7 +3933,8 @@
           ],
           "skuCount": 179,
           "stateCounts": {
-            "GA": 176,
+            "Closing Down": 13,
+            "GA": 163,
             "Preview": 3
           }
         },
@@ -2941,7 +3945,8 @@
           "regionFlags": [],
           "skuCount": 186,
           "stateCounts": {
-            "GA": 185,
+            "Closing Down": 9,
+            "GA": 176,
             "Preview": 1
           }
         },
@@ -2952,7 +3957,8 @@
           "regionFlags": [],
           "skuCount": 172,
           "stateCounts": {
-            "GA": 170,
+            "Closing Down": 8,
+            "GA": 162,
             "Preview": 2
           }
         },
@@ -2963,7 +3969,8 @@
           "regionFlags": [],
           "skuCount": 174,
           "stateCounts": {
-            "GA": 171,
+            "Closing Down": 8,
+            "GA": 163,
             "Preview": 3
           }
         },
@@ -2974,7 +3981,8 @@
           "regionFlags": [],
           "skuCount": 167,
           "stateCounts": {
-            "GA": 166,
+            "Closing Down": 9,
+            "GA": 157,
             "Preview": 1
           }
         },
@@ -2987,7 +3995,8 @@
           ],
           "skuCount": 158,
           "stateCounts": {
-            "GA": 154,
+            "Closing Down": 10,
+            "GA": 144,
             "Preview": 4
           }
         },
@@ -2998,7 +4007,8 @@
           "regionFlags": [],
           "skuCount": 95,
           "stateCounts": {
-            "GA": 91,
+            "Closing Down": 13,
+            "GA": 78,
             "Preview": 4
           }
         },
@@ -3009,7 +4019,8 @@
           "regionFlags": [],
           "skuCount": 138,
           "stateCounts": {
-            "GA": 137,
+            "Closing Down": 12,
+            "GA": 125,
             "Preview": 1
           }
         },
@@ -3020,7 +4031,8 @@
           "regionFlags": [],
           "skuCount": 161,
           "stateCounts": {
-            "GA": 160,
+            "Closing Down": 8,
+            "GA": 152,
             "Preview": 1
           }
         },
@@ -3031,7 +4043,8 @@
           "regionFlags": [],
           "skuCount": 149,
           "stateCounts": {
-            "GA": 148,
+            "Closing Down": 8,
+            "GA": 140,
             "Preview": 1
           }
         },
@@ -3042,7 +4055,8 @@
           "regionFlags": [],
           "skuCount": 90,
           "stateCounts": {
-            "GA": 86,
+            "Closing Down": 10,
+            "GA": 76,
             "Preview": 4
           }
         },
@@ -3053,7 +4067,9 @@
           "regionFlags": [],
           "skuCount": 62,
           "stateCounts": {
-            "Unknown": 62
+            "Closing Down": 9,
+            "GA": 50,
+            "Preview": 3
           }
         },
         {
@@ -3065,250 +4081,663 @@
           ],
           "skuCount": 97,
           "stateCounts": {
-            "GA": 96,
+            "Closing Down": 7,
+            "GA": 89,
             "Preview": 1
           }
         }
       ],
-      "retiringSamples": [],
-      "rowCount": 16527,
+      "retiringSamples": [
+        {
+          "geography": "Asia Pacific",
+          "offering": "Automation",
+          "region": "East Asia",
+          "regionDisplayName": "East Asia",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Asia Pacific",
+          "offering": "Automation",
+          "region": "Southeast Asia",
+          "regionDisplayName": "Southeast Asia",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Automation",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Automation",
+          "region": "Virginia",
+          "regionDisplayName": "Virginia",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "Automation",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Canada",
+          "offering": "Automation",
+          "region": "Canada Central",
+          "regionDisplayName": "Canada Central",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Automation",
+          "region": "North Europe",
+          "regionDisplayName": "North Europe",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Automation",
+          "region": "West Europe",
+          "regionDisplayName": "West Europe",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "France",
+          "offering": "Automation",
+          "region": "France Central",
+          "regionDisplayName": "France Central",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Germany",
+          "offering": "Automation",
+          "region": "Germany West Central",
+          "regionDisplayName": "Germany West Central",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "India",
+          "offering": "Automation",
+          "region": "Central India",
+          "regionDisplayName": "Central India",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Japan",
+          "offering": "Automation",
+          "region": "Japan East",
+          "regionDisplayName": "Japan East",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Korea",
+          "offering": "Automation",
+          "region": "Korea Central",
+          "regionDisplayName": "Korea Central",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Norway",
+          "offering": "Automation",
+          "region": "Norway East",
+          "regionDisplayName": "Norway East",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Sweden",
+          "offering": "Automation",
+          "region": "Sweden Central",
+          "regionDisplayName": "Sweden Central",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Switzerland",
+          "offering": "Automation",
+          "region": "Switzerland North",
+          "regionDisplayName": "Switzerland North",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United Arab Emirates",
+          "offering": "Automation",
+          "region": "UAE North",
+          "regionDisplayName": "UAE North",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United Kingdom",
+          "offering": "Automation",
+          "region": "UK South",
+          "regionDisplayName": "UK South",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "Central US",
+          "regionDisplayName": "Central US",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "North Central US",
+          "regionDisplayName": "North Central US",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "South Central US",
+          "regionDisplayName": "South Central US",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "West US",
+          "regionDisplayName": "West US",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "West US 2",
+          "regionDisplayName": "West US 2",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "West US 3",
+          "regionDisplayName": "West US 3",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Belgium",
+          "offering": "Azure Data Lake Storage Gen1",
+          "region": "Belgium Central",
+          "regionDisplayName": "Belgium Central",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Azure Data Lake Storage Gen1",
+          "region": "North Europe",
+          "regionDisplayName": "North Europe",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Azure Data Lake Storage Gen1",
+          "region": "West Europe",
+          "regionDisplayName": "West Europe",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Japan",
+          "offering": "Azure Data Lake Storage Gen1",
+          "region": "Japan West",
+          "regionDisplayName": "Japan West",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Azure Data Lake Storage Gen1",
+          "region": "Central US",
+          "regionDisplayName": "Central US",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Azure Data Lake Storage Gen1",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Azure Data Lake Storage Gen1",
+          "region": "North Central US",
+          "regionDisplayName": "North Central US",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Asia Pacific",
+          "offering": "Azure Database for MariaDB",
+          "region": "East Asia",
+          "regionDisplayName": "East Asia",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Asia Pacific",
+          "offering": "Azure Database for MariaDB",
+          "region": "Southeast Asia",
+          "regionDisplayName": "Southeast Asia",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure Database for MariaDB",
+          "region": "Australia Central",
+          "regionDisplayName": "Australia Central",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure Database for MariaDB",
+          "region": "Australia Central 2",
+          "regionDisplayName": "Australia Central 2 *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure Database for MariaDB",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure Database for MariaDB",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database for MariaDB",
+          "region": "Arizona",
+          "regionDisplayName": "Arizona **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database for MariaDB",
+          "region": "Texas",
+          "regionDisplayName": "Texas",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Azure Government",
+          "offering": "Azure Database for MariaDB",
+          "region": "Virginia",
+          "regionDisplayName": "Virginia",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Belgium",
+          "offering": "Azure Database for MariaDB",
+          "region": "Belgium Central",
+          "regionDisplayName": "Belgium Central",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "Azure Database for MariaDB",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "Azure Database for MariaDB",
+          "region": "Brazil Southeast",
+          "regionDisplayName": "Brazil Southeast",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Canada",
+          "offering": "Azure Database for MariaDB",
+          "region": "Canada Central",
+          "regionDisplayName": "Canada Central",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Canada",
+          "offering": "Azure Database for MariaDB",
+          "region": "Canada East",
+          "regionDisplayName": "Canada East",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "China (operated by 21Vianet)",
+          "offering": "Azure Database for MariaDB",
+          "region": "China East 2",
+          "regionDisplayName": "China East 2",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "China (operated by 21Vianet)",
+          "offering": "Azure Database for MariaDB",
+          "region": "China North 2",
+          "regionDisplayName": "China North 2",
+          "sku": "",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "Azure Database for MariaDB",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "",
+          "state": "Closing Down"
+        }
+      ],
+      "rowCount": 17252,
       "skuCount": 516,
       "stateCounts": {
-        "GA": 16025,
-        "Preview": 440,
-        "Unknown": 62
+        "Closing Down": 1605,
+        "GA": 15259,
+        "Preview": 388
       },
       "topOfferingsByRegionCount": [
         {
-          "geographyCount": 33,
+          "geographyCount": 34,
           "offering": "Azure DNS",
-          "regionCount": 66,
+          "regionCount": 69,
           "skuCount": 4,
           "stateCounts": {
-            "GA": 117,
-            "Unknown": 2
+            "GA": 125
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure Cosmos DB",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 65
+            "GA": 68
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure Files",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 5,
           "stateCounts": {
-            "GA": 196
+            "GA": 205
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure Load Balancer",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 3,
           "stateCounts": {
-            "GA": 191
+            "Closing Down": 67,
+            "GA": 133
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure SQL Database",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 65
+            "GA": 68
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "ExpressRoute",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 128,
+            "GA": 134,
             "Preview": 1
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "IP Services",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 5,
           "stateCounts": {
-            "GA": 297
+            "GA": 311
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Key Vault",
-          "regionCount": 65,
-          "skuCount": 3,
-          "stateCounts": {
-            "GA": 185
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Redis Cache",
-          "regionCount": 65,
-          "skuCount": 8,
-          "stateCounts": {
-            "GA": 358
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Service Bus",
-          "regionCount": 65,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 127
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Site Recovery",
-          "regionCount": 65,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Storage",
-          "regionCount": 65,
-          "skuCount": 16,
-          "stateCounts": {
-            "GA": 820
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "VMWatch",
-          "regionCount": 65,
-          "skuCount": 1,
-          "stateCounts": {
-            "Preview": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "VPN Gateway",
-          "regionCount": 65,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Virtual Machines",
-          "regionCount": 65,
-          "skuCount": 158,
-          "stateCounts": {
-            "GA": 4974,
-            "Preview": 58
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Virtual Network",
-          "regionCount": 65,
+          "regionCount": 68,
           "skuCount": 3,
           "stateCounts": {
             "GA": 194
           }
         },
         {
-          "geographyCount": 32,
-          "offering": "App Service",
-          "regionCount": 64,
-          "skuCount": 4,
+          "geographyCount": 33,
+          "offering": "Redis Cache",
+          "regionCount": 68,
+          "skuCount": 8,
           "stateCounts": {
-            "GA": 158
+            "Closing Down": 74,
+            "GA": 290
           }
         },
         {
-          "geographyCount": 32,
-          "offering": "Azure Monitor",
-          "regionCount": 64,
-          "skuCount": 7,
+          "geographyCount": 33,
+          "offering": "Service Bus",
+          "regionCount": 68,
+          "skuCount": 2,
           "stateCounts": {
-            "GA": 241,
-            "Preview": 3,
-            "Unknown": 2
+            "GA": 133
           }
         },
         {
-          "geographyCount": 31,
-          "offering": "Backup",
-          "regionCount": 64,
+          "geographyCount": 33,
+          "offering": "Site Recovery",
+          "regionCount": 68,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 68
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Storage",
+          "regionCount": 68,
+          "skuCount": 16,
+          "stateCounts": {
+            "GA": 861
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "VMWatch",
+          "regionCount": 68,
+          "skuCount": 1,
+          "stateCounts": {
+            "Preview": 68
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "VPN Gateway",
+          "regionCount": 68,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 68
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Virtual Machines",
+          "regionCount": 68,
+          "skuCount": 158,
+          "stateCounts": {
+            "Closing Down": 643,
+            "GA": 4563,
+            "Preview": 39
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Virtual Network",
+          "regionCount": 68,
           "skuCount": 3,
           "stateCounts": {
-            "GA": 77,
+            "GA": 203
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "App Service",
+          "regionCount": 67,
+          "skuCount": 4,
+          "stateCounts": {
+            "GA": 167
+          }
+        },
+        {
+          "geographyCount": 33,
+          "offering": "Azure Monitor",
+          "regionCount": 67,
+          "skuCount": 7,
+          "stateCounts": {
+            "Closing Down": 15,
+            "GA": 238,
+            "Preview": 4
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Backup",
+          "regionCount": 67,
+          "skuCount": 3,
+          "stateCounts": {
+            "GA": 80,
             "Preview": 12
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Cloud Services",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 7,
           "stateCounts": {
-            "GA": 343
+            "Closing Down": 67,
+            "GA": 292
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Functions",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 9,
           "stateCounts": {
-            "GA": 445,
+            "Closing Down": 35,
+            "GA": 429,
             "Preview": 30
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Service Fabric",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 64
+            "GA": 67
           }
         },
         {
-          "geographyCount": 31,
+          "geographyCount": 32,
           "offering": "Virtual Machine Scale Sets",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 64
+            "GA": 67
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Virtual Network NAT",
-          "regionCount": 64,
+          "regionCount": 67,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 64
+            "GA": 67
           }
         },
         {
-          "geographyCount": 32,
+          "geographyCount": 33,
           "offering": "Azure Database for MySQL",
-          "regionCount": 63,
+          "regionCount": 66,
           "skuCount": 3,
           "stateCounts": {
-            "GA": 163
+            "Closing Down": 50,
+            "GA": 122
           }
         }
       ],
@@ -3320,8 +4749,9 @@
           "regionFlags": [],
           "skuCount": 405,
           "stateCounts": {
-            "GA": 382,
-            "Preview": 23
+            "Closing Down": 48,
+            "GA": 337,
+            "Preview": 20
           }
         },
         {
@@ -3331,8 +4761,9 @@
           "regionFlags": [],
           "skuCount": 426,
           "stateCounts": {
-            "GA": 397,
-            "Preview": 29
+            "Closing Down": 55,
+            "GA": 350,
+            "Preview": 21
           }
         },
         {
@@ -3342,8 +4773,9 @@
           "regionFlags": [],
           "skuCount": 389,
           "stateCounts": {
-            "GA": 375,
-            "Preview": 14
+            "Closing Down": 47,
+            "GA": 331,
+            "Preview": 11
           }
         },
         {
@@ -3353,8 +4785,9 @@
           "regionFlags": [],
           "skuCount": 395,
           "stateCounts": {
-            "GA": 374,
-            "Preview": 21
+            "Closing Down": 49,
+            "GA": 331,
+            "Preview": 15
           }
         },
         {
@@ -3364,8 +4797,9 @@
           "regionFlags": [],
           "skuCount": 388,
           "stateCounts": {
-            "GA": 376,
-            "Preview": 12
+            "Closing Down": 46,
+            "GA": 333,
+            "Preview": 9
           }
         },
         {
@@ -3375,8 +4809,9 @@
           "regionFlags": [],
           "skuCount": 393,
           "stateCounts": {
-            "GA": 381,
-            "Preview": 12
+            "Closing Down": 47,
+            "GA": 335,
+            "Preview": 11
           }
         },
         {
@@ -3386,8 +4821,9 @@
           "regionFlags": [],
           "skuCount": 398,
           "stateCounts": {
-            "GA": 383,
-            "Preview": 15
+            "Closing Down": 49,
+            "GA": 340,
+            "Preview": 9
           }
         },
         {
@@ -3397,8 +4833,9 @@
           "regionFlags": [],
           "skuCount": 392,
           "stateCounts": {
-            "GA": 383,
-            "Preview": 9
+            "Closing Down": 47,
+            "GA": 338,
+            "Preview": 7
           }
         },
         {
@@ -3408,8 +4845,9 @@
           "regionFlags": [],
           "skuCount": 388,
           "stateCounts": {
-            "GA": 374,
-            "Preview": 14
+            "Closing Down": 45,
+            "GA": 330,
+            "Preview": 13
           }
         },
         {
@@ -3419,8 +4857,9 @@
           "regionFlags": [],
           "skuCount": 339,
           "stateCounts": {
-            "GA": 330,
-            "Preview": 9
+            "Closing Down": 41,
+            "GA": 290,
+            "Preview": 8
           }
         },
         {
@@ -3430,8 +4869,9 @@
           "regionFlags": [],
           "skuCount": 371,
           "stateCounts": {
-            "GA": 361,
-            "Preview": 10
+            "Closing Down": 44,
+            "GA": 318,
+            "Preview": 9
           }
         },
         {
@@ -3441,8 +4881,9 @@
           "regionFlags": [],
           "skuCount": 336,
           "stateCounts": {
-            "GA": 324,
-            "Preview": 12
+            "Closing Down": 34,
+            "GA": 291,
+            "Preview": 11
           }
         },
         {
@@ -3452,8 +4893,9 @@
           "regionFlags": [],
           "skuCount": 361,
           "stateCounts": {
-            "GA": 347,
-            "Preview": 14
+            "Closing Down": 39,
+            "GA": 315,
+            "Preview": 7
           }
         },
         {
@@ -3463,8 +4905,9 @@
           "regionFlags": [],
           "skuCount": 305,
           "stateCounts": {
-            "GA": 296,
-            "Preview": 9
+            "Closing Down": 33,
+            "GA": 265,
+            "Preview": 7
           }
         },
         {
@@ -3474,8 +4917,9 @@
           "regionFlags": [],
           "skuCount": 356,
           "stateCounts": {
-            "GA": 338,
-            "Preview": 18
+            "Closing Down": 40,
+            "GA": 300,
+            "Preview": 16
           }
         },
         {
@@ -3485,8 +4929,9 @@
           "regionFlags": [],
           "skuCount": 345,
           "stateCounts": {
-            "GA": 334,
-            "Preview": 11
+            "Closing Down": 30,
+            "GA": 305,
+            "Preview": 10
           }
         },
         {
@@ -3496,8 +4941,9 @@
           "regionFlags": [],
           "skuCount": 328,
           "stateCounts": {
-            "GA": 319,
-            "Preview": 9
+            "Closing Down": 36,
+            "GA": 284,
+            "Preview": 8
           }
         },
         {
@@ -3507,7 +4953,8 @@
           "regionFlags": [],
           "skuCount": 332,
           "stateCounts": {
-            "GA": 323,
+            "Closing Down": 28,
+            "GA": 295,
             "Preview": 9
           }
         },
@@ -3518,8 +4965,9 @@
           "regionFlags": [],
           "skuCount": 339,
           "stateCounts": {
-            "GA": 334,
-            "Preview": 5
+            "Closing Down": 30,
+            "GA": 305,
+            "Preview": 4
           }
         },
         {
@@ -3529,8 +4977,9 @@
           "regionFlags": [],
           "skuCount": 305,
           "stateCounts": {
-            "GA": 294,
-            "Preview": 11
+            "Closing Down": 35,
+            "GA": 262,
+            "Preview": 8
           }
         },
         {
@@ -3540,8 +4989,9 @@
           "regionFlags": [],
           "skuCount": 309,
           "stateCounts": {
-            "GA": 300,
-            "Preview": 9
+            "Closing Down": 28,
+            "GA": 273,
+            "Preview": 8
           }
         },
         {
@@ -3551,8 +5001,9 @@
           "regionFlags": [],
           "skuCount": 304,
           "stateCounts": {
-            "GA": 292,
-            "Preview": 12
+            "Closing Down": 27,
+            "GA": 266,
+            "Preview": 11
           }
         },
         {
@@ -3562,8 +5013,9 @@
           "regionFlags": [],
           "skuCount": 296,
           "stateCounts": {
-            "GA": 288,
-            "Preview": 8
+            "Closing Down": 27,
+            "GA": 262,
+            "Preview": 7
           }
         },
         {
@@ -3573,8 +5025,9 @@
           "regionFlags": [],
           "skuCount": 305,
           "stateCounts": {
-            "GA": 298,
-            "Preview": 7
+            "Closing Down": 27,
+            "GA": 272,
+            "Preview": 6
           }
         },
         {
@@ -3584,14 +5037,15 @@
           "regionFlags": [],
           "skuCount": 269,
           "stateCounts": {
-            "GA": 257,
-            "Preview": 12
+            "Closing Down": 19,
+            "GA": 240,
+            "Preview": 10
           }
         }
       ]
     }
   },
-  "generatedAt": "2026-06-23T07:33:57Z",
+  "generatedAt": "2026-06-24T18:55:53Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -13681,9 +15135,9 @@
   "schemaVersion": 1,
   "sources": {
     "availability": {
-      "contentLength": 3126866,
-      "etag": "\"09d3797262dd1:0\"",
-      "lastModified": "Mon, 22 Jun 2026 09:07:46 GMT",
+      "contentLength": 3282298,
+      "etag": "\"054aa8d503dd1:0\"",
+      "lastModified": "Tue, 23 Jun 2026 20:40:40 GMT",
       "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
     },
     "prices": {
