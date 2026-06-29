@@ -1,5 +1,5 @@
 {
-  "dataHash": "7af69504e4962c73234d21ec342e0030cd8ec04332004810bcadf6eb155faf48",
+  "dataHash": "045c49aa32747df79c6c91ab4fff0594801f55f73ebffe8e7be3c0f95f45bd2f",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -15669,14 +15669,6 @@
       "state": "GA"
     },
     {
-      "geography": "Denmark",
-      "offering": "Azure Database for MySQL",
-      "region": "Denmark East",
-      "regionDisplayName": "Denmark East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Europe",
       "offering": "Azure Database for MySQL",
       "region": "North Europe",
@@ -28032,14 +28024,6 @@
       "state": "GA"
     },
     {
-      "geography": "Denmark",
-      "offering": "Azure Health Data Services",
-      "region": "Denmark East",
-      "regionDisplayName": "Denmark East",
-      "sku": "Azure Health Data Services",
-      "state": "GA"
-    },
-    {
       "geography": "Europe",
       "offering": "Azure Health Data Services",
       "region": "North Europe",
@@ -37045,6 +37029,14 @@
       "offering": "Azure Red Hat OpenShift (ARO)",
       "region": "Canada East",
       "regionDisplayName": "Canada East",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Chile",
+      "offering": "Azure Red Hat OpenShift (ARO)",
+      "region": "Chile Central",
+      "regionDisplayName": "Chile Central",
       "sku": "",
       "state": "GA"
     },
@@ -57350,6 +57342,14 @@
       "state": "GA"
     },
     {
+      "geography": "Denmark",
+      "offering": "ExpressRoute",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "ExpressRoute",
       "region": "North Europe",
@@ -77144,14 +77144,6 @@
       "state": "Closing Down"
     },
     {
-      "geography": "Denmark",
-      "offering": "Microsoft Foundry",
-      "region": "Denmark East",
-      "regionDisplayName": "Denmark East",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
       "geography": "Europe",
       "offering": "Microsoft Foundry",
       "region": "North Europe",
@@ -78466,6 +78458,14 @@
       "state": "GA"
     },
     {
+      "geography": "Denmark",
+      "offering": "Network Watcher",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Network Watcher",
       "region": "North Europe",
@@ -78916,6 +78916,14 @@
       "offering": "Network Watcher",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
+      "sku": "Traffic Analytics",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Network Watcher",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "Traffic Analytics",
       "state": "GA"
     },
@@ -94724,14 +94732,6 @@
       "state": "GA"
     },
     {
-      "geography": "Denmark",
-      "offering": "Storage",
-      "region": "Denmark East",
-      "regionDisplayName": "Denmark East",
-      "sku": "Ultra Disk Storage",
-      "state": "GA"
-    },
-    {
       "geography": "Europe",
       "offering": "Storage",
       "region": "North Europe",
@@ -102982,14 +102982,6 @@
       "state": "GA"
     },
     {
-      "geography": "Denmark",
-      "offering": "Virtual Machines",
-      "region": "Denmark East",
-      "regionDisplayName": "Denmark East",
-      "sku": "DAv4-Series",
-      "state": "GA"
-    },
-    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -106662,6 +106654,30 @@
       "state": "GA"
     },
     {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "Central US",
+      "regionDisplayName": "Central US",
+      "sku": "Ddsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Ddsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US 2",
+      "regionDisplayName": "East US 2",
+      "sku": "Ddsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Asia Pacific",
       "offering": "Virtual Machines",
       "region": "East Asia",
@@ -109271,6 +109287,30 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Dlsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "Central US",
+      "regionDisplayName": "Central US",
+      "sku": "Dlsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Dlsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US 2",
+      "regionDisplayName": "East US 2",
+      "sku": "Dlsv7-series",
       "state": "GA"
     },
     {
@@ -113924,6 +113964,30 @@
       "state": "GA"
     },
     {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "Central US",
+      "regionDisplayName": "Central US",
+      "sku": "Dsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Dsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US 2",
+      "regionDisplayName": "East US 2",
+      "sku": "Dsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Asia Pacific",
       "offering": "Virtual Machines",
       "region": "East Asia",
@@ -123456,6 +123520,30 @@
       "state": "GA"
     },
     {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "Central US",
+      "regionDisplayName": "Central US",
+      "sku": "Edsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Edsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US 2",
+      "regionDisplayName": "East US 2",
+      "sku": "Edsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Asia Pacific",
       "offering": "Virtual Machines",
       "region": "East Asia",
@@ -127624,6 +127712,14 @@
       "offering": "Virtual Machines",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
+      "sku": "Ev3-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Virtual Machines",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "Ev3-Series",
       "state": "GA"
     },
@@ -143588,6 +143684,14 @@
       "offering": "Virtual WAN",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
+      "sku": "Point-to-site VPN Gateway",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Virtual WAN",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "Point-to-site VPN Gateway",
       "state": "GA"
     },

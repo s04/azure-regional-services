@@ -1,14 +1,200 @@
 {
   "availability": {
     "changes": {
-      "added": 0,
-      "addedSamples": [],
-      "removed": 0,
-      "removedSamples": [],
+      "added": 18,
+      "addedSamples": [
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "Central US",
+          "regionDisplayName": "Central US",
+          "sku": "Ddsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "Central US",
+          "regionDisplayName": "Central US",
+          "sku": "Dlsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "Central US",
+          "regionDisplayName": "Central US",
+          "sku": "Dsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "Central US",
+          "regionDisplayName": "Central US",
+          "sku": "Edsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Chile",
+          "offering": "Azure Red Hat OpenShift (ARO)",
+          "region": "Chile Central",
+          "regionDisplayName": "Chile Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "ExpressRoute",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "Network Watcher",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "Network Watcher",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "Traffic Analytics",
+          "state": "GA"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "Virtual Machines",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "Ev3-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "Virtual WAN",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "Point-to-site VPN Gateway",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "Ddsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "Dlsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "Dsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "Edsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
+          "sku": "Ddsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
+          "sku": "Dlsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
+          "sku": "Dsv7-series",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
+          "sku": "Edsv7-series",
+          "state": "GA"
+        }
+      ],
+      "removed": 5,
+      "removedSamples": [
+        {
+          "geography": "Denmark",
+          "offering": "Azure Database for MySQL",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "Azure Health Data Services",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "Azure Health Data Services",
+          "state": "GA"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "Microsoft Foundry",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "Personalizer",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "Storage",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "Ultra Disk Storage",
+          "state": "GA"
+        },
+        {
+          "geography": "Denmark",
+          "offering": "Virtual Machines",
+          "region": "Denmark East",
+          "regionDisplayName": "Denmark East",
+          "sku": "DAv4-Series",
+          "state": "GA"
+        }
+      ],
       "stateChanged": 0,
       "stateChangedSamples": []
     },
-    "dataHash": "7af69504e4962c73234d21ec342e0030cd8ec04332004810bcadf6eb155faf48",
+    "dataHash": "045c49aa32747df79c6c91ab4fff0594801f55f73ebffe8e7be3c0f95f45bd2f",
     "summary": {
       "geographies": [
         {
@@ -41,7 +227,7 @@
         },
         {
           "geography": "Chile",
-          "rowCount": 167
+          "rowCount": 168
         },
         {
           "geography": "China (operated by 21Vianet)",
@@ -141,7 +327,7 @@
         },
         {
           "geography": "United States",
-          "rowCount": 3242
+          "rowCount": 3254
         },
         {
           "geography": "Unknown",
@@ -203,7 +389,7 @@
           "regionCount": 68,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 134,
+            "GA": 135,
             "Preview": 1
           }
         },
@@ -259,7 +445,7 @@
           "regionCount": 68,
           "skuCount": 16,
           "stateCounts": {
-            "GA": 861
+            "GA": 860
           }
         },
         {
@@ -284,10 +470,10 @@
           "geographyCount": 33,
           "offering": "Virtual Machines",
           "regionCount": 68,
-          "skuCount": 158,
+          "skuCount": 162,
           "stateCounts": {
             "Closing Down": 643,
-            "GA": 4563,
+            "GA": 4575,
             "Preview": 39
           }
         },
@@ -385,7 +571,7 @@
           "skuCount": 3,
           "stateCounts": {
             "Closing Down": 50,
-            "GA": 122
+            "GA": 121
           }
         },
         {
@@ -479,7 +665,7 @@
           "regionCount": 65,
           "skuCount": 4,
           "stateCounts": {
-            "GA": 256
+            "GA": 257
           }
         },
         {
@@ -623,6 +809,15 @@
           }
         },
         {
+          "geographyCount": 29,
+          "offering": "Network Watcher",
+          "regionCount": 60,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 109
+          }
+        },
+        {
           "geographyCount": 31,
           "offering": "Standby Pool",
           "regionCount": 60,
@@ -659,15 +854,6 @@
           "stateCounts": {
             "GA": 53,
             "Preview": 6
-          }
-        },
-        {
-          "geographyCount": 28,
-          "offering": "Network Watcher",
-          "regionCount": 59,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 107
           }
         },
         {
@@ -761,7 +947,7 @@
           "regionCount": 55,
           "skuCount": 26,
           "stateCounts": {
-            "Closing Down": 151,
+            "Closing Down": 150,
             "GA": 453,
             "Preview": 23
           }
@@ -794,6 +980,15 @@
           }
         },
         {
+          "geographyCount": 29,
+          "offering": "Azure Red Hat OpenShift (ARO)",
+          "regionCount": 52,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 52
+          }
+        },
+        {
           "geographyCount": 31,
           "offering": "Data Factory",
           "regionCount": 52,
@@ -809,15 +1004,6 @@
           "skuCount": 1,
           "stateCounts": {
             "Closing Down": 51
-          }
-        },
-        {
-          "geographyCount": 28,
-          "offering": "Azure Red Hat OpenShift (ARO)",
-          "regionCount": 51,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 51
           }
         },
         {
@@ -1094,23 +1280,23 @@
         },
         {
           "geographyCount": 19,
-          "offering": "Azure Health Data Services",
-          "regionCount": 31,
-          "skuCount": 3,
-          "stateCounts": {
-            "Closing Down": 28,
-            "GA": 45,
-            "Preview": 9
-          }
-        },
-        {
-          "geographyCount": 19,
           "offering": "Microsoft Azure Attestation",
           "regionCount": 31,
           "skuCount": 1,
           "stateCounts": {
             "GA": 30,
             "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 18,
+          "offering": "Azure Health Data Services",
+          "regionCount": 30,
+          "skuCount": 3,
+          "stateCounts": {
+            "Closing Down": 28,
+            "GA": 44,
+            "Preview": 9
           }
         },
         {
@@ -2333,10 +2519,10 @@
           "offeringCount": 148,
           "region": "East US",
           "regionFlags": [],
-          "skuCount": 405,
+          "skuCount": 409,
           "stateCounts": {
             "Closing Down": 48,
-            "GA": 337,
+            "GA": 341,
             "Preview": 20
           }
         },
@@ -2405,10 +2591,10 @@
           "offeringCount": 135,
           "region": "East US 2",
           "regionFlags": [],
-          "skuCount": 398,
+          "skuCount": 402,
           "stateCounts": {
             "Closing Down": 49,
-            "GA": 340,
+            "GA": 344,
             "Preview": 9
           }
         },
@@ -2477,10 +2663,10 @@
           "offeringCount": 123,
           "region": "Central US",
           "regionFlags": [],
-          "skuCount": 361,
+          "skuCount": 365,
           "stateCounts": {
             "Closing Down": 39,
-            "GA": 315,
+            "GA": 319,
             "Preview": 7
           }
         },
@@ -3074,13 +3260,13 @@
         },
         {
           "geography": "Chile",
-          "offeringCount": 64,
+          "offeringCount": 65,
           "region": "Chile Central",
           "regionFlags": [],
-          "skuCount": 167,
+          "skuCount": 168,
           "stateCounts": {
             "Closing Down": 9,
-            "GA": 157,
+            "GA": 158,
             "Preview": 1
           }
         },
@@ -3117,8 +3303,8 @@
           "regionFlags": [],
           "skuCount": 138,
           "stateCounts": {
-            "Closing Down": 12,
-            "GA": 125,
+            "Closing Down": 11,
+            "GA": 126,
             "Preview": 1
           }
         },
@@ -3593,11 +3779,11 @@
           "state": "Closing Down"
         }
       ],
-      "rowCount": 17252,
-      "skuCount": 516,
+      "rowCount": 17265,
+      "skuCount": 520,
       "stateCounts": {
-        "Closing Down": 1605,
-        "GA": 15259,
+        "Closing Down": 1604,
+        "GA": 15273,
         "Preview": 388
       },
       "topOfferingsByRegionCount": [
@@ -3653,7 +3839,7 @@
           "regionCount": 68,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 134,
+            "GA": 135,
             "Preview": 1
           }
         },
@@ -3709,7 +3895,7 @@
           "regionCount": 68,
           "skuCount": 16,
           "stateCounts": {
-            "GA": 861
+            "GA": 860
           }
         },
         {
@@ -3734,10 +3920,10 @@
           "geographyCount": 33,
           "offering": "Virtual Machines",
           "regionCount": 68,
-          "skuCount": 158,
+          "skuCount": 162,
           "stateCounts": {
             "Closing Down": 643,
-            "GA": 4563,
+            "GA": 4575,
             "Preview": 39
           }
         },
@@ -3835,7 +4021,7 @@
           "skuCount": 3,
           "stateCounts": {
             "Closing Down": 50,
-            "GA": 122
+            "GA": 121
           }
         }
       ],
@@ -3845,10 +4031,10 @@
           "offeringCount": 148,
           "region": "East US",
           "regionFlags": [],
-          "skuCount": 405,
+          "skuCount": 409,
           "stateCounts": {
             "Closing Down": 48,
-            "GA": 337,
+            "GA": 341,
             "Preview": 20
           }
         },
@@ -3917,10 +4103,10 @@
           "offeringCount": 135,
           "region": "East US 2",
           "regionFlags": [],
-          "skuCount": 398,
+          "skuCount": 402,
           "stateCounts": {
             "Closing Down": 49,
-            "GA": 340,
+            "GA": 344,
             "Preview": 9
           }
         },
@@ -3989,10 +4175,10 @@
           "offeringCount": 123,
           "region": "Central US",
           "regionFlags": [],
-          "skuCount": 361,
+          "skuCount": 365,
           "stateCounts": {
             "Closing Down": 39,
-            "GA": 315,
+            "GA": 319,
             "Preview": 7
           }
         },
@@ -4143,7 +4329,7 @@
       ]
     }
   },
-  "generatedAt": "2026-06-28T18:42:57Z",
+  "generatedAt": "2026-06-29T08:09:11Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -14233,9 +14419,9 @@
   "schemaVersion": 1,
   "sources": {
     "availability": {
-      "contentLength": 3282298,
-      "etag": "\"054aa8d503dd1:0\"",
-      "lastModified": "Tue, 23 Jun 2026 20:40:40 GMT",
+      "contentLength": 3284686,
+      "etag": "\"0d2eeb89a7dd1:0\"",
+      "lastModified": "Mon, 29 Jun 2026 07:41:40 GMT",
       "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
     },
     "prices": {
