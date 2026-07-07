@@ -1,5 +1,5 @@
 {
-  "dataHash": "045c49aa32747df79c6c91ab4fff0594801f55f73ebffe8e7be3c0f95f45bd2f",
+  "dataHash": "812f5bdfc12c16650fe22076d9f3449b86ee889d0f0b2c916896778214a6cd14",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -253,6 +253,17 @@
       "offering": "API Management",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "API Management",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -750,6 +761,17 @@
       "offering": "App Service",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "App Service",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -1674,6 +1696,17 @@
       "offering": "App Service",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "App Service Premium v3",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "App Service",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "App Service Premium v3",
       "state": "GA"
     },
@@ -4266,6 +4299,17 @@
       "offering": "Azure AI Search",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure AI Search",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -42672,6 +42716,17 @@
     {
       "geography": "India",
       "offering": "Azure Stream Analytics",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure Stream Analytics",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "",
@@ -48410,17 +48465,6 @@
       "offering": "Backup",
       "region": "Central India",
       "regionDisplayName": "Central India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Backup",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
       "sku": "",
       "state": "GA"
     },
@@ -58829,6 +58873,17 @@
     {
       "geography": "India",
       "offering": "Functions",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Functions",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "",
@@ -59619,6 +59674,17 @@
       "offering": "Functions",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Consumption Plan",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Functions",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Consumption Plan",
       "state": "GA"
     },
@@ -60461,6 +60527,17 @@
     {
       "geography": "India",
       "offering": "Functions",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dedicated Plan",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Functions",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Dedicated Plan",
@@ -61012,6 +61089,17 @@
     {
       "geography": "India",
       "offering": "Functions",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dedicated Plan Linux",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Functions",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Dedicated Plan Linux",
@@ -61916,6 +62004,17 @@
     {
       "geography": "India",
       "offering": "Functions",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Premium Plan",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Functions",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Premium Plan",
@@ -62442,6 +62541,17 @@
       "offering": "Functions",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Premium Plan Linux",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Functions",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Premium Plan Linux",
       "state": "GA"
     },
@@ -67543,6 +67653,17 @@
     {
       "geography": "India",
       "offering": "Key Vault",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Key Vault",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "",
@@ -69176,6 +69297,17 @@
       "offering": "Logic Apps",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Logic Apps",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -73645,7 +73777,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "Azure Content Understanding",
-      "state": "Preview"
+      "state": "GA"
     },
     {
       "geography": "Japan",
@@ -73701,7 +73833,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "Azure Content Understanding",
-      "state": "Preview"
+      "state": "GA"
     },
     {
       "geography": "United States",
@@ -73709,7 +73841,7 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "Azure Content Understanding",
-      "state": "Preview"
+      "state": "GA"
     },
     {
       "geography": "United States",
@@ -73717,7 +73849,7 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Azure Content Understanding",
-      "state": "Preview"
+      "state": "GA"
     },
     {
       "geography": "Asia Pacific",
@@ -73967,6 +74099,14 @@
       "offering": "Microsoft Foundry",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Azure Document Intelligence",
+      "state": "GA"
+    },
+    {
+      "geography": "Italy",
+      "offering": "Microsoft Foundry",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
       "sku": "Azure Document Intelligence",
       "state": "GA"
     },
@@ -78530,6 +78670,17 @@
     {
       "geography": "India",
       "offering": "Network Watcher",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Network Watcher",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "",
@@ -78964,6 +79115,17 @@
       "offering": "Network Watcher",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Traffic Analytics",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Network Watcher",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Traffic Analytics",
       "state": "GA"
     },
@@ -80789,17 +80951,6 @@
       "offering": "Redis Cache",
       "region": "Central India",
       "regionDisplayName": "Central India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Redis Cache",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
       "sku": "",
       "state": "GA"
     },
@@ -97393,17 +97544,6 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Azure Dedicated Host",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Azure Dedicated Host",
@@ -106034,6 +106174,17 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ddsv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Ddsv5-Series",
@@ -108756,6 +108907,17 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Dlsv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dlsv5-Series",
       "state": "GA"
     },
@@ -137558,17 +137720,6 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Mv2 SKL-series",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Mv2 SKL-series",
@@ -138603,17 +138754,6 @@
       "offering": "Virtual Machines",
       "region": "West Europe",
       "regionDisplayName": "West Europe",
-      "sku": "NDasr A100 v4-Series",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Virtual Machines",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
       "sku": "NDasr A100 v4-Series",
       "state": "GA"
     },
@@ -140348,6 +140488,17 @@
       "offering": "Virtual Network",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Network",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
