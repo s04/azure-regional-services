@@ -1,5 +1,5 @@
 {
-  "dataHash": "5472bdd7241f73904f217c8afb6b670bad693fe59245bdbee5944f3d146ee2c8",
+  "dataHash": "daa337f1f98bfb407bba759e2198e0a4ddd3f0d6df1af9e08a0a0648721839b8",
   "items": [
     {
       "armRegionName": "australiaeast",
@@ -47180,6 +47180,25 @@
     },
     {
       "armRegionName": "australiaeast",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "AU East",
+      "meterId": "0738722f-2f37-5f4f-ab3c-0b6bc6cea7aa",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/006K",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "australiaeast",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2018-05-01T00:00:00Z",
@@ -47329,6 +47348,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.1418
+    },
+    {
+      "armRegionName": "australiaeast",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "AU East",
+      "meterId": "8f2ab6e5-c392-5ac7-beef-0e2be40038a1",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/0058",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "australiaeast",
@@ -49232,6 +49270,25 @@
     },
     {
       "armRegionName": "brazilsouth",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "BR South",
+      "meterId": "aa23d1fb-f34f-5769-9a06-c5bfa8fec15c",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/006N",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "brazilsouth",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2018-05-01T00:00:00Z",
@@ -49438,6 +49495,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.2481
+    },
+    {
+      "armRegionName": "brazilsouth",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "BR South",
+      "meterId": "8b8d6ada-2b44-59cc-b021-c9204ed2b893",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/0032",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "brazilsouth",
@@ -51322,6 +51398,25 @@
     },
     {
       "armRegionName": "eastus",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "US East",
+      "meterId": "a5e97857-36e4-5ed1-bd2a-0662ea254698",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/006M",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "eastus",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2018-05-01T00:00:00Z",
@@ -51528,6 +51623,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.1181
+    },
+    {
+      "armRegionName": "eastus",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "US East",
+      "meterId": "f60cb5a3-c5f5-5091-8b88-f339b56e8e18",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/003H",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "eastus",
@@ -53431,6 +53545,25 @@
     },
     {
       "armRegionName": "eastus2",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "US East 2",
+      "meterId": "31822b97-ff05-550c-9722-302960fd327a",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/006V",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "eastus2",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2018-05-01T00:00:00Z",
@@ -53637,6 +53770,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.1418
+    },
+    {
+      "armRegionName": "eastus2",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "US East 2",
+      "meterId": "9bb63bb8-0c7c-5ff7-875f-848f4c68fb46",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/003J",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "eastus2",
@@ -55521,6 +55673,25 @@
     },
     {
       "armRegionName": "japaneast",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "JA East",
+      "meterId": "2d1fc0ae-f664-514c-8b78-ac4e158dd605",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/0065",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "japaneast",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2018-05-01T00:00:00Z",
@@ -55727,6 +55898,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.1418
+    },
+    {
+      "armRegionName": "japaneast",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "JA East",
+      "meterId": "fc346faa-7545-5b23-88bf-15fc8e46e2e4",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/0033",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "japaneast",
@@ -57649,6 +57839,25 @@
     },
     {
       "armRegionName": "northeurope",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "EU North",
+      "meterId": "1467f817-ce05-5cbf-ae4c-72e14acd5f9e",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/007X",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "northeurope",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2018-05-01T00:00:00Z",
@@ -57855,6 +58064,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.1311
+    },
+    {
+      "armRegionName": "northeurope",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "EU North",
+      "meterId": "f5ef8f45-4285-553a-9b4f-1091d6b02d2c",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/0054",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "northeurope",
@@ -59739,6 +59967,25 @@
     },
     {
       "armRegionName": "southeastasia",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "AP Southeast",
+      "meterId": "60a6859b-3041-5e29-9b69-d880fe02626c",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/006Q",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "southeastasia",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2018-05-01T00:00:00Z",
@@ -59945,6 +60192,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.1418
+    },
+    {
+      "armRegionName": "southeastasia",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "AP Southeast",
+      "meterId": "36b9a6cf-0aef-51c4-96b2-943d36fb23d6",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/003S",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "southeastasia",
@@ -61772,6 +62038,25 @@
     },
     {
       "armRegionName": "swedencentral",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "SE Central",
+      "meterId": "0684ead4-d2d9-5a98-8de0-50d9b042faf9",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/007H",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "swedencentral",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2024-07-01T00:00:00Z",
@@ -61921,6 +62206,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.1429
+    },
+    {
+      "armRegionName": "swedencentral",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "SE Central",
+      "meterId": "9b7ad750-d00c-515b-afda-d55f6c438d36",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/003C",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "swedencentral",
@@ -63881,6 +64185,25 @@
     },
     {
       "armRegionName": "westeurope",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "EU West",
+      "meterId": "3b5ddcbc-b555-5949-8b0c-577b275cc78b",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/007W",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "westeurope",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2018-05-01T00:00:00Z",
@@ -64087,6 +64410,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.1429
+    },
+    {
+      "armRegionName": "westeurope",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "EU West",
+      "meterId": "5b55ff63-557c-5fd8-909b-cd87a18542a6",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/0053",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "westeurope",
@@ -65971,6 +66313,25 @@
     },
     {
       "armRegionName": "westus2",
+      "armSkuName": "1 vCore Free Tier",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "US West 2",
+      "meterId": "99819e2f-36df-5f71-83dc-92d0ead61b3e",
+      "meterName": "1 vCore Free Tier",
+      "productId": "DZH318Z0T3WG",
+      "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0T3WG/006G",
+      "skuName": "1 vCore Free Tier",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0
+    },
+    {
+      "armRegionName": "westus2",
       "armSkuName": "",
       "currencyCode": "USD",
       "effectiveStartDate": "2018-05-01T00:00:00Z",
@@ -66120,6 +66481,25 @@
       "skuName": "1 vCore",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.1181
+    },
+    {
+      "armRegionName": "westus2",
+      "armSkuName": "Backup - 0 meter",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-07-01T00:00:00Z",
+      "location": "US West 2",
+      "meterId": "2e8e7f79-b801-543b-b6c4-34af98f018a3",
+      "meterName": "Backup 0 meter Data Stored",
+      "productId": "DZH318Z0MH5L",
+      "productName": "Azure HorizonDB Backup Storage",
+      "retailPrice": 0.0,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318Z0MH5L/005S",
+      "skuName": "Backup 0 meter",
+      "unitOfMeasure": "1 GB/Month",
+      "unitPrice": 0.0
     },
     {
       "armRegionName": "westus2",
@@ -171283,7 +171663,7 @@
       "unitCount": 7
     },
     {
-      "averageRetailPrice": 4.33323421,
+      "averageRetailPrice": 4.25372533,
       "cheapestSamples": [
         {
           "armRegionName": "australiaeast",
@@ -171382,18 +171762,18 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 107,
+      "itemCount": 109,
       "maxRetailPrice": 76.343,
       "minRetailPrice": 0.0,
       "productCount": 41,
       "region": "australiaeast",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 48,
+      "skuCount": 50,
       "truncated": false,
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 6.79866926,
+      "averageRetailPrice": 6.67833883,
       "cheapestSamples": [
         {
           "armRegionName": "brazilsouth",
@@ -171492,18 +171872,18 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 111,
+      "itemCount": 113,
       "maxRetailPrice": 133.345,
       "minRetailPrice": 0.0,
       "productCount": 43,
       "region": "brazilsouth",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 48,
+      "skuCount": 50,
       "truncated": false,
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 3.43568106,
+      "averageRetailPrice": 3.37432962,
       "cheapestSamples": [
         {
           "armRegionName": "eastus",
@@ -171602,18 +171982,18 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 110,
+      "itemCount": 112,
       "maxRetailPrice": 63.619,
       "minRetailPrice": 0.0,
       "productCount": 43,
       "region": "eastus",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 48,
+      "skuCount": 50,
       "truncated": false,
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 3.40815691,
+      "averageRetailPrice": 3.34783555,
       "cheapestSamples": [
         {
           "armRegionName": "eastus2",
@@ -171712,18 +172092,18 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 111,
+      "itemCount": 113,
       "maxRetailPrice": 63.619,
       "minRetailPrice": 0.0,
       "productCount": 44,
       "region": "eastus2",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 48,
+      "skuCount": 50,
       "truncated": false,
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 4.21765002,
+      "averageRetailPrice": 4.14233484,
       "cheapestSamples": [
         {
           "armRegionName": "japaneast",
@@ -171822,18 +172202,18 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 110,
+      "itemCount": 112,
       "maxRetailPrice": 76.343,
       "minRetailPrice": 0.0,
       "productCount": 43,
       "region": "japaneast",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 48,
+      "skuCount": 50,
       "truncated": false,
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 3.76968572,
+      "averageRetailPrice": 3.70355089,
       "cheapestSamples": [
         {
           "armRegionName": "northeurope",
@@ -171932,18 +172312,18 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 112,
+      "itemCount": 114,
       "maxRetailPrice": 71.253,
       "minRetailPrice": 0.0,
       "productCount": 45,
       "region": "northeurope",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 48,
+      "skuCount": 50,
       "truncated": false,
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 4.21477941,
+      "averageRetailPrice": 4.13951549,
       "cheapestSamples": [
         {
           "armRegionName": "southeastasia",
@@ -172042,18 +172422,18 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 110,
+      "itemCount": 112,
       "maxRetailPrice": 76.343,
       "minRetailPrice": 0.0,
       "productCount": 43,
       "region": "southeastasia",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 48,
+      "skuCount": 50,
       "truncated": false,
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 3.73360233,
+      "averageRetailPrice": 3.663157,
       "cheapestSamples": [
         {
           "armRegionName": "swedencentral",
@@ -172114,56 +172494,56 @@
         },
         {
           "armRegionName": "swedencentral",
-          "armSkuName": "Ultra Disk Throughput",
+          "armSkuName": "1 vCore Free Tier",
           "currencyCode": "USD",
-          "effectiveStartDate": "2024-09-01T00:00:00Z",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
           "location": "SE Central",
-          "meterId": "18149429-6413-5cf7-8028-53765a65e9ca",
-          "meterName": "Ultra Disk Throughput Prov Throughput (MBps)",
-          "productId": "DZH318Z0DCRX",
-          "productName": "Az DB for PostgreSQL Flexible Server Storage",
-          "retailPrice": 0.00065,
+          "meterId": "0684ead4-d2d9-5a98-8de0-50d9b042faf9",
+          "meterName": "1 vCore Free Tier",
+          "productId": "DZH318Z0T3WG",
+          "productName": "Azure Database for PostgreSQL HorizonDB Compute",
+          "retailPrice": 0.0,
           "serviceFamily": "Databases",
           "serviceId": "DZH3199QPQTD",
           "serviceName": "Azure Database for PostgreSQL",
-          "skuId": "DZH318Z0DCRX/00P3",
-          "skuName": "Ultra Disk Throughput",
-          "unitOfMeasure": "1/Month",
-          "unitPrice": 0.00065
+          "skuId": "DZH318Z0T3WG/007H",
+          "skuName": "1 vCore Free Tier",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.0
         },
         {
           "armRegionName": "swedencentral",
-          "armSkuName": "Auto Tune",
+          "armSkuName": "Backup - 0 meter",
           "currencyCode": "USD",
-          "effectiveStartDate": "2024-12-01T00:00:00Z",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
           "location": "SE Central",
-          "meterId": "161d477f-f354-5d7a-b1a6-66b9b50958ad",
-          "meterName": "Auto Tune vCore",
-          "productId": "DZH318Z0LC91",
-          "productName": "Azure Database for PostgreSQL Flexible Server Autonomous Database Tuning Service",
-          "retailPrice": 0.0156,
+          "meterId": "9b7ad750-d00c-515b-afda-d55f6c438d36",
+          "meterName": "Backup 0 meter Data Stored",
+          "productId": "DZH318Z0MH5L",
+          "productName": "Azure HorizonDB Backup Storage",
+          "retailPrice": 0.0,
           "serviceFamily": "Databases",
           "serviceId": "DZH3199QPQTD",
           "serviceName": "Azure Database for PostgreSQL",
-          "skuId": "DZH318Z0LC91/0021",
-          "skuName": "Auto Tune",
-          "unitOfMeasure": "1 Hour",
-          "unitPrice": 0.0156
+          "skuId": "DZH318Z0MH5L/003C",
+          "skuName": "Backup 0 meter",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
         }
       ],
       "currency": "USD",
-      "itemCount": 104,
+      "itemCount": 106,
       "maxRetailPrice": 65.4,
       "minRetailPrice": 0.0,
       "productCount": 41,
       "region": "swedencentral",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 47,
+      "skuCount": 49,
       "truncated": false,
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 4.02451162,
+      "averageRetailPrice": 3.95512349,
       "cheapestSamples": [
         {
           "armRegionName": "westeurope",
@@ -172262,18 +172642,18 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 114,
+      "itemCount": 116,
       "maxRetailPrice": 77.615,
       "minRetailPrice": 0.0,
       "productCount": 47,
       "region": "westeurope",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 48,
+      "skuCount": 50,
       "truncated": false,
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 3.53051698,
+      "averageRetailPrice": 3.46573685,
       "cheapestSamples": [
         {
           "armRegionName": "westus2",
@@ -172372,13 +172752,13 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 107,
+      "itemCount": 109,
       "maxRetailPrice": 63.619,
       "minRetailPrice": 0.0,
       "productCount": 41,
       "region": "westus2",
       "service": "Azure Database for PostgreSQL",
-      "skuCount": 48,
+      "skuCount": 50,
       "truncated": false,
       "unitCount": 4
     },
