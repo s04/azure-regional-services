@@ -1,5 +1,5 @@
 {
-  "dataHash": "812f5bdfc12c16650fe22076d9f3449b86ee889d0f0b2c916896778214a6cd14",
+  "dataHash": "c5c8a50a15905fcf18446792f29ab0f0f26d5578f426bcea50cae680a4a113d5",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -1499,6 +1499,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "App Service",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "App Service Free",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "App Service",
       "region": "Japan West",
@@ -2914,6 +2922,14 @@
       "regionFlags": [
         "restricted_access"
       ],
+      "sku": "Application Gateway v2",
+      "state": "GA"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Application Gateway",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "Application Gateway v2",
       "state": "GA"
     },
@@ -28108,6 +28124,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Azure Health Data Services",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "Azure Health Data Services",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Azure Health Data Services",
       "region": "Japan East",
@@ -43251,6 +43275,14 @@
       "regionFlags": [
         "restricted_access"
       ],
+      "sku": "Stream Analytics Dedicated",
+      "state": "GA"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Azure Stream Analytics",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "Stream Analytics Dedicated",
       "state": "GA"
     },
@@ -64589,6 +64621,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "IoT Hub",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "IoT Hub Device Provisioning Service",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "IoT Hub",
       "region": "Japan East",
@@ -74437,6 +74477,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Microsoft Foundry",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "Azure Language",
+      "state": "GA"
+    },
+    {
       "geography": "Italy",
       "offering": "Microsoft Foundry",
       "region": "Italy North",
@@ -75480,6 +75528,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Microsoft Foundry",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "Azure Vision",
+      "state": "GA"
+    },
+    {
       "geography": "Italy",
       "offering": "Microsoft Foundry",
       "region": "Italy North",
@@ -75754,6 +75810,14 @@
       "offering": "Microsoft Foundry",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Azure Vision - Face",
+      "state": "GA"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Microsoft Foundry",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "Azure Vision - Face",
       "state": "GA"
     },
@@ -76342,6 +76406,14 @@
       "offering": "Microsoft Foundry",
       "region": "UK South",
       "regionDisplayName": "UK South",
+      "sku": "Foundry Agent Service",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Microsoft Foundry",
+      "region": "Central US",
+      "regionDisplayName": "Central US",
       "sku": "Foundry Agent Service",
       "state": "GA"
     },
@@ -77320,6 +77392,14 @@
       "offering": "Microsoft Foundry",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Personalizer",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Microsoft Foundry",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "Personalizer",
       "state": "Closing Down"
     },
@@ -79138,6 +79218,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Network Watcher",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "Traffic Analytics",
+      "state": "GA"
+    },
+    {
       "geography": "Italy",
       "offering": "Network Watcher",
       "region": "Italy North",
@@ -79754,6 +79842,30 @@
       "state": "GA"
     },
     {
+      "geography": "Canada",
+      "offering": "Nutanix on Azure",
+      "region": "Canada Central",
+      "regionDisplayName": "Canada Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Canada",
+      "offering": "Nutanix on Azure",
+      "region": "Canada East",
+      "regionDisplayName": "Canada East",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Europe",
+      "offering": "Nutanix on Azure",
+      "region": "North Europe",
+      "regionDisplayName": "North Europe",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Nutanix on Azure",
       "region": "West Europe",
@@ -79844,8 +79956,24 @@
     {
       "geography": "United States",
       "offering": "Nutanix on Azure",
+      "region": "South Central US",
+      "regionDisplayName": "South Central US",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Nutanix on Azure",
       "region": "West US 2",
       "regionDisplayName": "West US 2",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Nutanix on Azure",
+      "region": "West US 3",
+      "regionDisplayName": "West US 3",
       "sku": "",
       "state": "GA"
     },
@@ -89071,6 +89199,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Storage",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "Azure Data Lake Storage Gen2",
+      "state": "GA"
+    },
+    {
       "geography": "Israel",
       "offering": "Storage",
       "region": "Israel Central",
@@ -96607,6 +96743,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "A0 - A7",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
@@ -98898,6 +99042,14 @@
       "regionFlags": [
         "restricted_access"
       ],
+      "sku": "D-Series",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "D-Series",
       "state": "Closing Down"
     },
@@ -106618,6 +106770,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "Ddsv6-series",
+      "state": "GA"
+    },
+    {
       "geography": "Israel",
       "offering": "Virtual Machines",
       "region": "Israel Central",
@@ -109269,6 +109429,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Dlsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "Dlsv6-series",
       "state": "GA"
     },
@@ -111450,6 +111618,14 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "DS-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
@@ -113951,6 +114127,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Dsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "Dsv6-series",
       "state": "GA"
     },
@@ -123511,6 +123695,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "Edsv6-series",
+      "state": "GA"
+    },
+    {
       "geography": "Israel",
       "offering": "Virtual Machines",
       "region": "Israel Central",
@@ -127518,6 +127710,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Esv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "Esv6-series",
       "state": "GA"
     },
@@ -135897,6 +136097,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "M-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Italy",
       "offering": "Virtual Machines",
       "region": "Italy North",
@@ -136448,6 +136656,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "Mdsv2 Medium Memory Series",
+      "state": "GA"
+    },
+    {
       "geography": "Italy",
       "offering": "Virtual Machines",
       "region": "Italy North",
@@ -136662,6 +136878,14 @@
       "state": "GA"
     },
     {
+      "geography": "Chile",
+      "offering": "Virtual Machines",
+      "region": "Chile Central",
+      "regionDisplayName": "Chile Central",
+      "sku": "Mdsv3 High Memory Series",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -136686,10 +136910,58 @@
       "state": "GA"
     },
     {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "South India",
+      "regionDisplayName": "South India",
+      "sku": "Mdsv3 High Memory Series",
+      "state": "GA"
+    },
+    {
       "geography": "Italy",
       "offering": "Virtual Machines",
       "region": "Italy North",
       "regionDisplayName": "Italy North",
+      "sku": "Mdsv3 High Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Japan",
+      "offering": "Virtual Machines",
+      "region": "Japan East",
+      "regionDisplayName": "Japan East",
+      "sku": "Mdsv3 High Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Malaysia West",
+      "regionDisplayName": "Malaysia West",
+      "sku": "Mdsv3 High Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Sweden",
+      "offering": "Virtual Machines",
+      "region": "Sweden Central",
+      "regionDisplayName": "Sweden Central",
+      "sku": "Mdsv3 High Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Switzerland",
+      "offering": "Virtual Machines",
+      "region": "Switzerland North",
+      "regionDisplayName": "Switzerland North",
+      "sku": "Mdsv3 High Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Mdsv3 High Memory Series",
       "state": "GA"
     },
@@ -137044,6 +137316,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "Msv2 Medium Memory Series",
+      "state": "GA"
+    },
+    {
       "geography": "Italy",
       "offering": "Virtual Machines",
       "region": "Italy North",
@@ -137258,6 +137538,14 @@
       "state": "GA"
     },
     {
+      "geography": "Chile",
+      "offering": "Virtual Machines",
+      "region": "Chile Central",
+      "regionDisplayName": "Chile Central",
+      "sku": "Msv3 High Memory Series",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -137282,6 +137570,14 @@
       "state": "GA"
     },
     {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "South India",
+      "regionDisplayName": "South India",
+      "sku": "Msv3 High Memory Series",
+      "state": "GA"
+    },
+    {
       "geography": "Italy",
       "offering": "Virtual Machines",
       "region": "Italy North",
@@ -137290,10 +137586,42 @@
       "state": "GA"
     },
     {
+      "geography": "Japan",
+      "offering": "Virtual Machines",
+      "region": "Japan East",
+      "regionDisplayName": "Japan East",
+      "sku": "Msv3 High Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Malaysia West",
+      "regionDisplayName": "Malaysia West",
+      "sku": "Msv3 High Memory Series",
+      "state": "GA"
+    },
+    {
       "geography": "Sweden",
       "offering": "Virtual Machines",
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
+      "sku": "Msv3 High Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Switzerland",
+      "offering": "Virtual Machines",
+      "region": "Switzerland North",
+      "regionDisplayName": "Switzerland North",
+      "sku": "Msv3 High Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Msv3 High Memory Series",
       "state": "GA"
     },
@@ -137974,6 +138302,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "NCads A100 v4-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "NCads A100 v4-Series",
       "state": "GA"
     },
@@ -138758,6 +139094,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "NDasr A100 v4-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan West",
@@ -138832,6 +139176,14 @@
       "offering": "Virtual Machines",
       "region": "West Europe",
       "regionDisplayName": "West Europe",
+      "sku": "NDsr H100 v5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Virtual Machines",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "NDsr H100 v5-Series",
       "state": "GA"
     },
