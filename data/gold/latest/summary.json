@@ -4143,7 +4143,7 @@
       ]
     }
   },
-  "generatedAt": "2026-07-18T08:09:49Z",
+  "generatedAt": "2026-07-18T19:32:30Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -4151,16 +4151,207 @@
   },
   "price": {
     "changes": {
-      "added": 0,
-      "addedSamples": [],
+      "added": 10,
+      "addedSamples": [
+        {
+          "armRegionName": "australiaeast",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "AU East",
+          "meterId": "56cb609a-6709-5bf8-94f0-7495cea799d4",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/007C",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        },
+        {
+          "armRegionName": "brazilsouth",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "BR South",
+          "meterId": "796b048e-9644-5f4d-bc64-32574c047673",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/0079",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        },
+        {
+          "armRegionName": "eastus",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "US East",
+          "meterId": "f2819c97-d4fa-5639-9202-bca414cd39a6",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/0087",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        },
+        {
+          "armRegionName": "eastus2",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "US East 2",
+          "meterId": "999be02f-b13b-56d2-a83c-acf65a912538",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/0071",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        },
+        {
+          "armRegionName": "japaneast",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "JA East",
+          "meterId": "1aee37bd-e67e-5ac8-83dc-4a1f9e23e703",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/0083",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        },
+        {
+          "armRegionName": "northeurope",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "EU North",
+          "meterId": "a86f4c2e-7ef1-5cb3-8b9e-1455ba3d4f59",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/0086",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        },
+        {
+          "armRegionName": "southeastasia",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "AP Southeast",
+          "meterId": "96c9d466-3275-5c0e-b683-e123b2098c3c",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/005V",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        },
+        {
+          "armRegionName": "swedencentral",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "SE Central",
+          "meterId": "4972ffd1-13c4-5f79-aed1-8aa80e90c2bd",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/006R",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        },
+        {
+          "armRegionName": "westeurope",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "EU West",
+          "meterId": "c1e75c87-eb65-54e3-ae89-9998222736e5",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/007N",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        },
+        {
+          "armRegionName": "westus2",
+          "armSkuName": "HorizonDB storage - Free Tier",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-07-01T00:00:00Z",
+          "location": "US West 2",
+          "meterId": "1a8fa66a-19b6-5e6f-adff-4f4621b77922",
+          "meterName": "HorizonDB storage Free Tier Data Stored",
+          "productId": "DZH318Z0MH59",
+          "productName": "Azure HorizonDB storage",
+          "retailPrice": 0.0,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318Z0MH59/006N",
+          "skuName": "HorizonDB storage Free Tier",
+          "unitOfMeasure": "1 GB/Month",
+          "unitPrice": 0.0
+        }
+      ],
       "priceChanged": 0,
       "priceChangedSamples": [],
       "removed": 0,
       "removedSamples": []
     },
-    "dataHash": "b2da170167cf4971ae47288272973a7ea23818cb0f173a3fcd0e4065acf4cb42",
+    "dataHash": "2fcd3094359d708fe7a0ea92264c410d0c09333c7cd8af9f34b611ede0ea8065",
     "failures": [],
-    "itemCount": 8861,
+    "itemCount": 8871,
     "maxItemsPerQuery": 200,
     "queryCount": 100,
     "querySummaries": [
@@ -7465,7 +7656,7 @@
         "unitCount": 7
       },
       {
-        "averageRetailPrice": 4.25372533,
+        "averageRetailPrice": 4.2150551,
         "cheapestSamples": [
           {
             "armRegionName": "australiaeast",
@@ -7564,18 +7755,18 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 109,
+        "itemCount": 110,
         "maxRetailPrice": 76.343,
         "minRetailPrice": 0.0,
         "productCount": 41,
         "region": "australiaeast",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 50,
+        "skuCount": 51,
         "truncated": false,
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 6.67833883,
+        "averageRetailPrice": 6.61975691,
         "cheapestSamples": [
           {
             "armRegionName": "brazilsouth",
@@ -7674,18 +7865,18 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 113,
+        "itemCount": 114,
         "maxRetailPrice": 133.345,
         "minRetailPrice": 0.0,
         "productCount": 43,
         "region": "brazilsouth",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 50,
+        "skuCount": 51,
         "truncated": false,
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.37432962,
+        "averageRetailPrice": 3.34446829,
         "cheapestSamples": [
           {
             "armRegionName": "eastus",
@@ -7784,18 +7975,18 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 112,
+        "itemCount": 113,
         "maxRetailPrice": 63.619,
         "minRetailPrice": 0.0,
         "productCount": 43,
         "region": "eastus",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 50,
+        "skuCount": 51,
         "truncated": false,
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.34783555,
+        "averageRetailPrice": 3.31846857,
         "cheapestSamples": [
           {
             "armRegionName": "eastus2",
@@ -7894,18 +8085,18 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 113,
+        "itemCount": 114,
         "maxRetailPrice": 63.619,
         "minRetailPrice": 0.0,
         "productCount": 44,
         "region": "eastus2",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 50,
+        "skuCount": 51,
         "truncated": false,
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 4.14233484,
+        "averageRetailPrice": 4.10567701,
         "cheapestSamples": [
           {
             "armRegionName": "japaneast",
@@ -8004,18 +8195,18 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 112,
+        "itemCount": 113,
         "maxRetailPrice": 76.343,
         "minRetailPrice": 0.0,
         "productCount": 43,
         "region": "japaneast",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 50,
+        "skuCount": 51,
         "truncated": false,
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.70355089,
+        "averageRetailPrice": 3.6713461,
         "cheapestSamples": [
           {
             "armRegionName": "northeurope",
@@ -8114,18 +8305,18 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 114,
+        "itemCount": 115,
         "maxRetailPrice": 71.253,
         "minRetailPrice": 0.0,
         "productCount": 45,
         "region": "northeurope",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 50,
+        "skuCount": 51,
         "truncated": false,
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 4.13951549,
+        "averageRetailPrice": 4.10288261,
         "cheapestSamples": [
           {
             "armRegionName": "southeastasia",
@@ -8224,18 +8415,18 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 112,
+        "itemCount": 113,
         "maxRetailPrice": 76.343,
         "minRetailPrice": 0.0,
         "productCount": 43,
         "region": "southeastasia",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 50,
+        "skuCount": 51,
         "truncated": false,
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.663157,
+        "averageRetailPrice": 3.62892189,
         "cheapestSamples": [
           {
             "armRegionName": "swedencentral",
@@ -8334,18 +8525,18 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 106,
+        "itemCount": 107,
         "maxRetailPrice": 65.4,
         "minRetailPrice": 0.0,
         "productCount": 41,
         "region": "swedencentral",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 49,
+        "skuCount": 50,
         "truncated": false,
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.95512349,
+        "averageRetailPrice": 3.92131902,
         "cheapestSamples": [
           {
             "armRegionName": "westeurope",
@@ -8444,18 +8635,18 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 116,
+        "itemCount": 117,
         "maxRetailPrice": 77.615,
         "minRetailPrice": 0.0,
         "productCount": 47,
         "region": "westeurope",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 50,
+        "skuCount": 51,
         "truncated": false,
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.46573685,
+        "averageRetailPrice": 3.43423015,
         "cheapestSamples": [
           {
             "armRegionName": "westus2",
@@ -8554,13 +8745,13 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 109,
+        "itemCount": 110,
         "maxRetailPrice": 63.619,
         "minRetailPrice": 0.0,
         "productCount": 41,
         "region": "westus2",
         "service": "Azure Database for PostgreSQL",
-        "skuCount": 50,
+        "skuCount": 51,
         "truncated": false,
         "unitCount": 4
       },
