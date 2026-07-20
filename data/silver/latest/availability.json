@@ -1,5 +1,5 @@
 {
-  "dataHash": "c5c8a50a15905fcf18446792f29ab0f0f26d5578f426bcea50cae680a4a113d5",
+  "dataHash": "c5484044b130f2952a7d2273726bb5684eaeedfc6faab299a4b842125ba31853",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -10892,6 +10892,14 @@
       "state": "GA"
     },
     {
+      "geography": "Indonesia",
+      "offering": "Azure Container Apps",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Italy",
       "offering": "Azure Container Apps",
       "region": "Italy North",
@@ -10920,6 +10928,14 @@
       "offering": "Azure Container Apps",
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Azure Container Apps",
+      "region": "Malaysia West",
+      "regionDisplayName": "Malaysia West",
       "sku": "",
       "state": "GA"
     },
@@ -61482,6 +61498,22 @@
       "state": "GA"
     },
     {
+      "geography": "Austria",
+      "offering": "Functions",
+      "region": "Austria East",
+      "regionDisplayName": "Austria East",
+      "sku": "Flex Consumption",
+      "state": "GA"
+    },
+    {
+      "geography": "Belgium",
+      "offering": "Functions",
+      "region": "Belgium Central",
+      "regionDisplayName": "Belgium Central",
+      "sku": "Flex Consumption",
+      "state": "GA"
+    },
+    {
       "geography": "Brazil",
       "offering": "Functions",
       "region": "Brazil South",
@@ -61534,6 +61566,17 @@
       "offering": "Functions",
       "region": "France South",
       "regionDisplayName": "France South *",
+      "regionFlags": [
+        "restricted_access"
+      ],
+      "sku": "Flex Consumption",
+      "state": "GA"
+    },
+    {
+      "geography": "Germany",
+      "offering": "Functions",
+      "region": "Germany North",
+      "regionDisplayName": "Germany North *",
       "regionFlags": [
         "restricted_access"
       ],
@@ -61613,6 +61656,17 @@
       "state": "GA"
     },
     {
+      "geography": "Korea",
+      "offering": "Functions",
+      "region": "Korea South",
+      "regionDisplayName": "Korea South *",
+      "regionFlags": [
+        "restricted_access"
+      ],
+      "sku": "Flex Consumption",
+      "state": "GA"
+    },
+    {
       "geography": "Malaysia",
       "offering": "Functions",
       "region": "Malaysia West",
@@ -61645,6 +61699,17 @@
       "state": "GA"
     },
     {
+      "geography": "Norway",
+      "offering": "Functions",
+      "region": "Norway West",
+      "regionDisplayName": "Norway West *",
+      "regionFlags": [
+        "restricted_access"
+      ],
+      "sku": "Flex Consumption",
+      "state": "GA"
+    },
+    {
       "geography": "Poland",
       "offering": "Functions",
       "region": "Poland Central",
@@ -61657,6 +61722,17 @@
       "offering": "Functions",
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
+      "sku": "Flex Consumption",
+      "state": "GA"
+    },
+    {
+      "geography": "South Africa",
+      "offering": "Functions",
+      "region": "South Africa West",
+      "regionDisplayName": "South Africa West *",
+      "regionFlags": [
+        "restricted_access"
+      ],
       "sku": "Flex Consumption",
       "state": "GA"
     },
@@ -61702,6 +61778,17 @@
       "regionDisplayName": "Taiwan North **",
       "regionFlags": [
         "early_access"
+      ],
+      "sku": "Flex Consumption",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Functions",
+      "region": "UAE Central",
+      "regionDisplayName": "UAE Central *",
+      "regionFlags": [
+        "restricted_access"
       ],
       "sku": "Flex Consumption",
       "state": "GA"
