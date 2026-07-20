@@ -1,96 +1,8 @@
 {
   "availability": {
     "changes": {
-      "added": 9,
-      "addedSamples": [
-        {
-          "geography": "Austria",
-          "offering": "Functions",
-          "region": "Austria East",
-          "regionDisplayName": "Austria East",
-          "sku": "Flex Consumption",
-          "state": "GA"
-        },
-        {
-          "geography": "Belgium",
-          "offering": "Functions",
-          "region": "Belgium Central",
-          "regionDisplayName": "Belgium Central",
-          "sku": "Flex Consumption",
-          "state": "GA"
-        },
-        {
-          "geography": "Germany",
-          "offering": "Functions",
-          "region": "Germany North",
-          "regionDisplayName": "Germany North *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "Flex Consumption",
-          "state": "GA"
-        },
-        {
-          "geography": "Indonesia",
-          "offering": "Azure Container Apps",
-          "region": "Indonesia Central",
-          "regionDisplayName": "Indonesia Central",
-          "sku": "",
-          "state": "GA"
-        },
-        {
-          "geography": "Korea",
-          "offering": "Functions",
-          "region": "Korea South",
-          "regionDisplayName": "Korea South *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "Flex Consumption",
-          "state": "GA"
-        },
-        {
-          "geography": "Malaysia",
-          "offering": "Azure Container Apps",
-          "region": "Malaysia West",
-          "regionDisplayName": "Malaysia West",
-          "sku": "",
-          "state": "GA"
-        },
-        {
-          "geography": "Norway",
-          "offering": "Functions",
-          "region": "Norway West",
-          "regionDisplayName": "Norway West *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "Flex Consumption",
-          "state": "GA"
-        },
-        {
-          "geography": "South Africa",
-          "offering": "Functions",
-          "region": "South Africa West",
-          "regionDisplayName": "South Africa West *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "Flex Consumption",
-          "state": "GA"
-        },
-        {
-          "geography": "United Arab Emirates",
-          "offering": "Functions",
-          "region": "UAE Central",
-          "regionDisplayName": "UAE Central *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "Flex Consumption",
-          "state": "GA"
-        }
-      ],
+      "added": 0,
+      "addedSamples": [],
       "removed": 0,
       "removedSamples": [],
       "stateChanged": 0,
@@ -1603,7 +1515,7 @@
     }
   },
   "date": "2026-07-20",
-  "generatedAt": "2026-07-20T09:34:15Z",
+  "generatedAt": "2026-07-20T19:57:11Z",
   "price": {
     "changes": {
       "added": 0,
