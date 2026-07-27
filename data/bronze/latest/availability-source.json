@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-07-26T19:35:35Z",
+  "capturedAt": "2026-07-27T10:09:39Z",
   "rowCount": 17332,
   "rows": [
     {
@@ -121330,8 +121330,8 @@
   "schemaVersion": 1,
   "source": {
     "contentLength": 3297537,
-    "etag": "\"0b611de1718dd1:0\"",
-    "lastModified": "Mon, 20 Jul 2026 07:17:48 GMT",
+    "etag": "\"05a79e9a01ddd1:0\"",
+    "lastModified": "Mon, 27 Jul 2026 08:21:24 GMT",
     "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
   }
 }
