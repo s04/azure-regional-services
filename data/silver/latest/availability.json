@@ -1,5 +1,5 @@
 {
-  "dataHash": "b5cb0b60db88e8fc567929b09c3825c0191d81fd8e5996af1d757915b14dae22",
+  "dataHash": "2929ebb1e8bb9feea6f9b901dbae026ec5d7ce3303310be65924483df2360247",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -233,10 +233,7 @@
       "geography": "India",
       "offering": "API Management",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -770,10 +767,7 @@
       "geography": "India",
       "offering": "App Service",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -1683,10 +1677,7 @@
       "geography": "India",
       "offering": "App Service",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "App Service Premium v3",
       "state": "GA"
     },
@@ -2176,10 +2167,7 @@
       "geography": "India",
       "offering": "Application Gateway",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -2865,10 +2853,7 @@
       "geography": "India",
       "offering": "Application Gateway",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Application Gateway v2",
       "state": "GA"
     },
@@ -4215,10 +4200,7 @@
       "geography": "India",
       "offering": "Azure AI Search",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -8529,10 +8511,7 @@
       "geography": "India",
       "offering": "Azure Bastion",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -10139,10 +10118,7 @@
       "geography": "India",
       "offering": "Azure Communication Services",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -11893,10 +11869,7 @@
       "geography": "India",
       "offering": "Azure Cosmos DB",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -14196,10 +14169,7 @@
       "geography": "India",
       "offering": "Azure Data Explorer",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -22000,10 +21970,7 @@
       "geography": "India",
       "offering": "Azure DNS",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure DNS Private Zones",
       "state": "GA"
     },
@@ -23017,10 +22984,7 @@
       "geography": "India",
       "offering": "Azure Files",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -23484,10 +23448,7 @@
       "geography": "India",
       "offering": "Azure Files",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Geo redundant HDD storage",
       "state": "GA"
     },
@@ -23977,10 +23938,7 @@
       "geography": "India",
       "offering": "Azure Files",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Locally redundant HDD storage",
       "state": "GA"
     },
@@ -25924,10 +25882,7 @@
       "geography": "India",
       "offering": "Azure Firewall",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure Firewall Basic",
       "state": "GA"
     },
@@ -27473,10 +27428,7 @@
       "geography": "India",
       "offering": "Azure Firewall Manager",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -30761,10 +30713,7 @@
       "geography": "India",
       "offering": "Azure Load Balancer",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -34729,10 +34678,7 @@
       "geography": "India",
       "offering": "Azure Monitor",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure Monitor SCOM Managed Instance",
       "state": "Closing Down"
     },
@@ -38367,10 +38313,7 @@
       "geography": "India",
       "offering": "Azure Route Server",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -40748,10 +40691,7 @@
       "geography": "India",
       "offering": "Azure SQL Database",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -43000,10 +42940,7 @@
       "geography": "India",
       "offering": "Azure Stream Analytics",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -43516,10 +43453,7 @@
       "geography": "India",
       "offering": "Azure Stream Analytics",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Stream Analytics Dedicated",
       "state": "GA"
     },
@@ -47399,10 +47333,7 @@
       "geography": "India",
       "offering": "Azure Web Application Firewall",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure Web Application Firewall - Regional (WAF on Application Gateway)",
       "state": "GA"
     },
@@ -49948,10 +49879,7 @@
       "geography": "India",
       "offering": "Batch",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -54103,10 +54031,7 @@
       "geography": "India",
       "offering": "Container Instances",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -54662,10 +54587,7 @@
       "geography": "India",
       "offering": "Container Registry",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -56581,10 +56503,7 @@
       "geography": "India",
       "offering": "Event Hubs",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -57045,10 +56964,7 @@
       "geography": "India",
       "offering": "Event Hubs",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure Event Hubs Premium SKU",
       "state": "GA"
     },
@@ -57525,10 +57441,7 @@
       "geography": "India",
       "offering": "ExpressRoute",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -58084,10 +57997,7 @@
       "geography": "India",
       "offering": "ExpressRoute",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "ExpressRoute Gateways",
       "state": "GA"
     },
@@ -58867,10 +58777,7 @@
       "geography": "India",
       "offering": "Functions",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -59647,10 +59554,7 @@
       "geography": "India",
       "offering": "Functions",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Consumption Plan",
       "state": "GA"
     },
@@ -60563,10 +60467,7 @@
       "geography": "India",
       "offering": "Functions",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dedicated Plan",
       "state": "GA"
     },
@@ -61106,10 +61007,7 @@
       "geography": "India",
       "offering": "Functions",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dedicated Plan Linux",
       "state": "GA"
     },
@@ -62065,10 +61963,7 @@
       "geography": "India",
       "offering": "Functions",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Premium Plan",
       "state": "GA"
     },
@@ -62589,10 +62484,7 @@
       "geography": "India",
       "offering": "Functions",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Premium Plan Linux",
       "state": "GA"
     },
@@ -65434,10 +65326,7 @@
       "geography": "India",
       "offering": "IP Services",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure Custom IP Prefix",
       "state": "GA"
     },
@@ -66486,10 +66375,7 @@
       "geography": "India",
       "offering": "IP Services",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure Public IP Address Standard",
       "state": "GA"
     },
@@ -67045,10 +66931,7 @@
       "geography": "India",
       "offering": "IP Services",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure Public IP Prefix",
       "state": "GA"
     },
@@ -67604,10 +67487,7 @@
       "geography": "India",
       "offering": "Key Vault",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -68644,10 +68524,7 @@
       "geography": "India",
       "offering": "Key Vault",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Premium",
       "state": "GA"
     },
@@ -69173,10 +69050,7 @@
       "geography": "India",
       "offering": "Logic Apps",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -78556,10 +78430,7 @@
       "geography": "India",
       "offering": "Network Watcher",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -79036,10 +78907,7 @@
       "geography": "India",
       "offering": "Network Watcher",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Traffic Analytics",
       "state": "GA"
     },
@@ -82254,10 +82122,7 @@
       "geography": "India",
       "offering": "Redis Cache",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Flash Optimized",
       "state": "GA"
     },
@@ -84584,10 +84449,7 @@
       "geography": "India",
       "offering": "Service Bus",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -85119,10 +84981,7 @@
       "geography": "India",
       "offering": "Service Bus",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Premium",
       "state": "GA"
     },
@@ -86346,10 +86205,7 @@
       "geography": "India",
       "offering": "Site Recovery",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -88115,10 +87971,7 @@
       "geography": "India",
       "offering": "Storage",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -89165,10 +89018,7 @@
       "geography": "India",
       "offering": "Storage",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure Data Lake Storage Gen2",
       "state": "GA"
     },
@@ -90132,10 +89982,7 @@
       "geography": "India",
       "offering": "Storage",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Azure Premium Files",
       "state": "GA"
     },
@@ -91730,10 +91577,7 @@
       "geography": "India",
       "offering": "Storage",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Hot/Cool/Cold Blob Storage Tiers",
       "state": "GA"
     },
@@ -93104,10 +92948,7 @@
       "geography": "India",
       "offering": "Storage",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Premium Block Blobs",
       "state": "GA"
     },
@@ -93975,10 +93816,7 @@
       "geography": "India",
       "offering": "Storage",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Queues",
       "state": "GA"
     },
@@ -94534,10 +94372,7 @@
       "geography": "India",
       "offering": "Storage",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Tables",
       "state": "GA"
     },
@@ -95540,10 +95375,7 @@
       "geography": "India",
       "offering": "Virtual Machine Scale Sets",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -96099,10 +95931,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -96996,10 +96825,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Av2-Series",
       "state": "GA"
     },
@@ -98012,10 +97838,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "B-Series",
       "state": "Closing Down"
     },
@@ -99770,10 +99593,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dadsv5-Series",
       "state": "GA"
     },
@@ -102540,10 +102360,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dasv5-Series",
       "state": "GA"
     },
@@ -104415,10 +104232,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "DCadsv6-series",
       "state": "GA"
     },
@@ -105080,10 +104894,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "DCasv6-series",
       "state": "GA"
     },
@@ -105964,10 +105775,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Ddsv4-series",
       "state": "GA"
     },
@@ -106507,10 +106315,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Ddsv5-Series",
       "state": "GA"
     },
@@ -107448,10 +107253,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Ddv4-series",
       "state": "GA"
     },
@@ -107969,10 +107771,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Ddv5-Series",
       "state": "GA"
     },
@@ -108490,10 +108289,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dldsv5-Series",
       "state": "GA"
     },
@@ -109341,10 +109137,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dlsv5-Series",
       "state": "GA"
     },
@@ -112440,10 +112233,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "DSv2-Series",
       "state": "Closing Down"
     },
@@ -112983,10 +112773,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "DSv3-Series",
       "state": "GA"
     },
@@ -113526,10 +113313,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dsv4-series",
       "state": "GA"
     },
@@ -114069,10 +113853,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dsv5-Series",
       "state": "GA"
     },
@@ -115015,10 +114796,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dv2-Series",
       "state": "Closing Down"
     },
@@ -115566,10 +115344,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dv3-Series",
       "state": "GA"
     },
@@ -116109,10 +115884,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dv4-series",
       "state": "GA"
     },
@@ -116652,10 +116424,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Dv5-Series",
       "state": "GA"
     },
@@ -117195,10 +116964,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Eadsv5-Series",
       "state": "GA"
     },
@@ -118301,10 +118067,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "EASv4-Series",
       "state": "GA"
     },
@@ -118844,10 +118607,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Easv5-Series",
       "state": "GA"
     },
@@ -119942,10 +119702,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "EAv4-Series",
       "state": "GA"
     },
@@ -120485,10 +120242,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Ebdsv5-series",
       "state": "GA"
     },
@@ -121028,10 +120782,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Ebsv5-series",
       "state": "GA"
     },
@@ -121712,10 +121463,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "ECadsv6-series",
       "state": "GA"
     },
@@ -122377,10 +122125,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "ECasv6-series",
       "state": "GA"
     },
@@ -122943,10 +122688,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Edsv4-series",
       "state": "GA"
     },
@@ -123475,10 +123217,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Edsv5-series",
       "state": "GA"
     },
@@ -124391,10 +124130,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Edv4-series",
       "state": "GA"
     },
@@ -124923,10 +124659,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Edv5-Series",
       "state": "GA"
     },
@@ -126394,10 +126127,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "ESv3-Series",
       "state": "GA"
     },
@@ -126915,10 +126645,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Esv4-series",
       "state": "GA"
     },
@@ -127447,10 +127174,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Esv5-series",
       "state": "GA"
     },
@@ -128369,10 +128093,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Ev3-Series",
       "state": "GA"
     },
@@ -128928,10 +128649,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Ev4-series",
       "state": "GA"
     },
@@ -129471,10 +129189,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Ev5-Series",
       "state": "GA"
     },
@@ -130030,10 +129745,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "F-Series",
       "state": "Closing Down"
     },
@@ -132575,10 +132287,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "FS-Series",
       "state": "Closing Down"
     },
@@ -133096,10 +132805,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Fsv2-Series",
       "state": "Closing Down"
     },
@@ -140527,10 +140233,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "NCas T4 v3-Series",
       "state": "GA"
     },
@@ -142302,10 +142005,7 @@
       "geography": "India",
       "offering": "Virtual Machines",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Serial Console",
       "state": "GA"
     },
@@ -142817,10 +142517,7 @@
       "geography": "India",
       "offering": "Virtual Network",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -143376,10 +143073,7 @@
       "geography": "India",
       "offering": "Virtual Network",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Global Vnet Peering",
       "state": "GA"
     },
@@ -143935,10 +143629,7 @@
       "geography": "India",
       "offering": "Virtual Network",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Virtual Network Peering",
       "state": "GA"
     },
@@ -144486,10 +144177,7 @@
       "geography": "India",
       "offering": "Virtual Network NAT",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -145021,10 +144709,7 @@
       "geography": "India",
       "offering": "Virtual WAN",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -145537,10 +145222,7 @@
       "geography": "India",
       "offering": "Virtual WAN",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "ExpressRoute",
       "state": "GA"
     },
@@ -146061,10 +145743,7 @@
       "geography": "India",
       "offering": "Virtual WAN",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Point-to-site VPN Gateway",
       "state": "GA"
     },
@@ -146596,10 +146275,7 @@
       "geography": "India",
       "offering": "Virtual WAN",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "Site-to-Site VPN Gateway",
       "state": "GA"
     },
@@ -147163,10 +146839,7 @@
       "geography": "India",
       "offering": "VMWatch",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "Preview"
     },
@@ -147722,10 +147395,7 @@
       "geography": "India",
       "offering": "VPN Gateway",
       "region": "India South Central",
-      "regionDisplayName": "India South Central **",
-      "regionFlags": [
-        "early_access"
-      ],
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
