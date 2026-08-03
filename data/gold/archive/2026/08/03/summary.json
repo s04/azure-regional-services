@@ -5,149 +5,8 @@
       "addedSamples": [],
       "removed": 0,
       "removedSamples": [],
-      "stateChanged": 20,
-      "stateChangedSamples": [
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Australia East",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Canada Central",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Central India",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Central US",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "East US",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "East US 2",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Germany West Central",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Italy North",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Japan East",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Japan West",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "North Europe",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "South Central US",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "South India",
-          "sku": "DCdsv3-Series",
-          "to": "Preview"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Southeast Asia",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "Switzerland North",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "UAE North",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "UK South",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "West Europe",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "West US",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        },
-        {
-          "from": "Closing Down",
-          "offering": "Virtual Machines",
-          "region": "West US 2",
-          "sku": "DCdsv3-Series",
-          "to": "GA"
-        }
-      ]
+      "stateChanged": 0,
+      "stateChangedSamples": []
     },
     "dataHash": "3e8a74e65fb37ddb35479de62e7aad88d2c41543b65cd53c1fd96c2ecfc3d91f",
     "summary": {
@@ -1652,7 +1511,7 @@
     }
   },
   "date": "2026-08-03",
-  "generatedAt": "2026-08-03T10:06:13Z",
+  "generatedAt": "2026-08-03T19:59:02Z",
   "price": {
     "changes": {
       "added": 0,
