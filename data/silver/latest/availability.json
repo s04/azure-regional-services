@@ -1,5 +1,5 @@
 {
-  "dataHash": "2929ebb1e8bb9feea6f9b901dbae026ec5d7ce3303310be65924483df2360247",
+  "dataHash": "3e8a74e65fb37ddb35479de62e7aad88d2c41543b65cd53c1fd96c2ecfc3d91f",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -105205,7 +105205,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "Australia",
@@ -105213,7 +105213,7 @@
       "region": "Australia East",
       "regionDisplayName": "Australia East",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "Canada",
@@ -105221,7 +105221,7 @@
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "Europe",
@@ -105229,7 +105229,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "Europe",
@@ -105237,7 +105237,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "Germany",
@@ -105245,7 +105245,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "India",
@@ -105253,7 +105253,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "India",
@@ -105261,7 +105261,7 @@
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "Preview"
     },
     {
       "geography": "Italy",
@@ -105269,7 +105269,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "Japan",
@@ -105277,7 +105277,7 @@
       "region": "Japan East",
       "regionDisplayName": "Japan East",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "Japan",
@@ -105285,7 +105285,7 @@
       "region": "Japan West",
       "regionDisplayName": "Japan West",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "Switzerland",
@@ -105293,7 +105293,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "United Arab Emirates",
@@ -105301,7 +105301,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "United Kingdom",
@@ -105309,7 +105309,7 @@
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "United States",
@@ -105317,7 +105317,7 @@
       "region": "Central US",
       "regionDisplayName": "Central US",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "United States",
@@ -105325,7 +105325,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "United States",
@@ -105333,7 +105333,7 @@
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "United States",
@@ -105341,7 +105341,7 @@
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "United States",
@@ -105349,7 +105349,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "United States",
@@ -105357,7 +105357,7 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "DCdsv3-Series",
-      "state": "Closing Down"
+      "state": "GA"
     },
     {
       "geography": "Europe",
