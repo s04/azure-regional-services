@@ -1,5 +1,5 @@
 {
-  "dataHash": "3e8a74e65fb37ddb35479de62e7aad88d2c41543b65cd53c1fd96c2ecfc3d91f",
+  "dataHash": "260dae2d541bac0c80306437357f300090dade27db8a4e7bf978309ef89574cc",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -75233,7 +75233,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -75241,7 +75241,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -75249,7 +75249,7 @@
       "region": "Australia East",
       "regionDisplayName": "Australia East",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Belgium",
@@ -75257,7 +75257,7 @@
       "region": "Belgium Central",
       "regionDisplayName": "Belgium Central",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -75265,7 +75265,7 @@
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -75273,7 +75273,7 @@
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -75281,7 +75281,7 @@
       "region": "Canada East",
       "regionDisplayName": "Canada East",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -75289,7 +75289,7 @@
       "region": "China East",
       "regionDisplayName": "China East",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -75297,7 +75297,7 @@
       "region": "China North",
       "regionDisplayName": "China North",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -75305,7 +75305,7 @@
       "region": "China North 2",
       "regionDisplayName": "China North 2",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -75313,7 +75313,7 @@
       "region": "China North 3",
       "regionDisplayName": "China North 3",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -75321,7 +75321,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -75329,7 +75329,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -75337,7 +75337,7 @@
       "region": "France Central",
       "regionDisplayName": "France Central",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -75345,7 +75345,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -75353,7 +75353,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Indonesia",
@@ -75361,7 +75361,7 @@
       "region": "Indonesia Central",
       "regionDisplayName": "Indonesia Central",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -75369,7 +75369,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -75377,7 +75377,7 @@
       "region": "Japan East",
       "regionDisplayName": "Japan East",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -75385,7 +75385,7 @@
       "region": "Japan West",
       "regionDisplayName": "Japan West",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -75393,7 +75393,7 @@
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -75401,7 +75401,7 @@
       "region": "Norway East",
       "regionDisplayName": "Norway East",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Qatar",
@@ -75409,7 +75409,7 @@
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -75417,7 +75417,7 @@
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -75425,7 +75425,7 @@
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -75433,7 +75433,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -75444,7 +75444,7 @@
         "restricted_access"
       ],
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -75452,7 +75452,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -75460,7 +75460,7 @@
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -75468,7 +75468,7 @@
       "region": "Central US",
       "regionDisplayName": "Central US",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -75476,7 +75476,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -75484,7 +75484,7 @@
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -75492,7 +75492,7 @@
       "region": "North Central US",
       "regionDisplayName": "North Central US",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -75500,7 +75500,7 @@
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -75508,7 +75508,7 @@
       "region": "West Central US",
       "regionDisplayName": "West Central US",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -75516,7 +75516,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -75524,7 +75524,7 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -75532,7 +75532,7 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Azure Vision",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
