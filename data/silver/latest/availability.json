@@ -1,5 +1,5 @@
 {
-  "dataHash": "260dae2d541bac0c80306437357f300090dade27db8a4e7bf978309ef89574cc",
+  "dataHash": "110d4ac59bb9c9f1d405697563804b57dac92e028c62ca50c4dce19e528172a0",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -1492,10 +1492,13 @@
       "state": "GA"
     },
     {
-      "geography": "United Kingdom",
+      "geography": "Taiwan",
       "offering": "App Service",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "App Service Free",
       "state": "GA"
     },
@@ -2374,6 +2377,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Application Gateway",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Application Gateway",
       "region": "UAE Central",
@@ -3017,6 +3031,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Application Gateway",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Application Gateway v2",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Application Gateway",
       "region": "UAE North",
@@ -3495,6 +3520,17 @@
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
         "restricted_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "Automation",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
       ],
       "sku": "",
       "state": "GA"
@@ -5094,6 +5130,17 @@
       "offering": "Azure Analysis Services",
       "region": "Japan West",
       "regionDisplayName": "Japan West",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "Azure Analysis Services",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -10877,6 +10924,14 @@
       "state": "GA"
     },
     {
+      "geography": "Belgium",
+      "offering": "Azure Container Apps",
+      "region": "Belgium Central",
+      "regionDisplayName": "Belgium Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Brazil",
       "offering": "Azure Container Apps",
       "region": "Brazil South",
@@ -10897,6 +10952,14 @@
       "offering": "Azure Container Apps",
       "region": "Canada East",
       "regionDisplayName": "Canada East",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Chile",
+      "offering": "Azure Container Apps",
+      "region": "Chile Central",
+      "regionDisplayName": "Chile Central",
       "sku": "",
       "state": "GA"
     },
@@ -10948,6 +11011,17 @@
       "offering": "Azure Container Apps",
       "region": "France South",
       "regionDisplayName": "France South *",
+      "regionFlags": [
+        "restricted_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Germany",
+      "offering": "Azure Container Apps",
+      "region": "Germany North",
+      "regionDisplayName": "Germany North *",
       "regionFlags": [
         "restricted_access"
       ],
@@ -11019,10 +11093,29 @@
       "state": "GA"
     },
     {
+      "geography": "Korea",
+      "offering": "Azure Container Apps",
+      "region": "Korea South",
+      "regionDisplayName": "Korea South *",
+      "regionFlags": [
+        "restricted_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Malaysia",
       "offering": "Azure Container Apps",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "New Zealand",
+      "offering": "Azure Container Apps",
+      "region": "New Zealand North",
+      "regionDisplayName": "New Zealand North",
       "sku": "",
       "state": "GA"
     },
@@ -14515,6 +14608,25 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Azure Data Lake Storage Gen1",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "United Kingdom",
+      "offering": "Azure Data Lake Storage Gen1",
+      "region": "UK South",
+      "regionDisplayName": "UK South",
+      "sku": "",
+      "state": "Closing Down"
+    },
+    {
       "geography": "United States",
       "offering": "Azure Data Lake Storage Gen1",
       "region": "Central US",
@@ -14719,6 +14831,17 @@
       "offering": "Azure Data Share",
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "Azure Data Share",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -17264,6 +17387,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Azure Database for PostgreSQL",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Azure Database for PostgreSQL",
       "region": "UAE Central",
@@ -18407,6 +18541,14 @@
       "state": "GA"
     },
     {
+      "geography": "Austria",
+      "offering": "Azure Database Migration Service",
+      "region": "Austria East",
+      "regionDisplayName": "Austria East",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Belgium",
       "offering": "Azure Database Migration Service",
       "region": "Belgium Central",
@@ -18447,6 +18589,14 @@
       "state": "GA"
     },
     {
+      "geography": "Chile",
+      "offering": "Azure Database Migration Service",
+      "region": "Chile Central",
+      "regionDisplayName": "Chile Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "China (operated by 21Vianet)",
       "offering": "Azure Database Migration Service",
       "region": "China East 2",
@@ -18467,6 +18617,14 @@
       "offering": "Azure Database Migration Service",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Azure Database Migration Service",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "",
       "state": "GA"
     },
@@ -18556,6 +18714,14 @@
       "offering": "Azure Database Migration Service",
       "region": "Indonesia Central",
       "regionDisplayName": "Indonesia Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Israel",
+      "offering": "Azure Database Migration Service",
+      "region": "Israel Central",
+      "regionDisplayName": "Israel Central",
       "sku": "",
       "state": "GA"
     },
@@ -28620,6 +28786,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Azure Health Data Services",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Health Data Services",
+      "state": "GA"
+    },
+    {
       "geography": "United Kingdom",
       "offering": "Azure Health Data Services",
       "region": "UK South",
@@ -34802,14 +34979,6 @@
       "offering": "Azure Monitor",
       "region": "Austria East",
       "regionDisplayName": "Austria East",
-      "sku": "Log Analytics",
-      "state": "GA"
-    },
-    {
-      "geography": "Belgium",
-      "offering": "Azure Monitor",
-      "region": "Belgium Central",
-      "regionDisplayName": "Belgium Central",
       "sku": "Log Analytics",
       "state": "GA"
     },
@@ -50064,6 +50233,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Batch",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Batch",
       "region": "UAE North",
@@ -55844,6 +56024,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Event Grid",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Event Grid",
       "region": "UAE Central",
@@ -56710,6 +56901,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Event Hubs",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Event Hubs",
       "region": "UAE Central",
@@ -57109,6 +57311,17 @@
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
         "restricted_access"
+      ],
+      "sku": "Azure Event Hubs Premium SKU",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "Event Hubs",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
       ],
       "sku": "Azure Event Hubs Premium SKU",
       "state": "GA"
@@ -60151,6 +60364,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Functions",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Consumption Plan Linux",
+      "state": "Closing Down"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Functions",
       "region": "UAE North",
@@ -63184,6 +63408,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "HDInsight",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "HDInsight",
       "region": "UAE Central",
@@ -63845,6 +64080,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "IoT Central",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "United Kingdom",
       "offering": "IoT Central",
       "region": "UK South",
@@ -63956,14 +64202,6 @@
       "offering": "IoT Hub",
       "region": "Australia Southeast",
       "regionDisplayName": "Australia Southeast",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Belgium",
-      "offering": "IoT Hub",
-      "region": "Belgium Central",
-      "regionDisplayName": "Belgium Central",
       "sku": "",
       "state": "GA"
     },
@@ -64208,6 +64446,17 @@
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
         "restricted_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "IoT Hub",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
       ],
       "sku": "",
       "state": "GA"
@@ -64516,6 +64765,17 @@
       "regionDisplayName": "Korea South *",
       "regionFlags": [
         "restricted_access"
+      ],
+      "sku": "IoT Hub Device Provisioning Service",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "IoT Hub",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
       ],
       "sku": "IoT Hub Device Provisioning Service",
       "state": "GA"
@@ -72632,6 +72892,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Microsoft Foundry",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Microsoft Foundry",
       "region": "UAE North",
@@ -75447,6 +75718,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Microsoft Foundry",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Vision",
+      "state": "Closing Down"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Microsoft Foundry",
       "region": "UAE North",
@@ -75709,6 +75991,17 @@
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
         "restricted_access"
+      ],
+      "sku": "Azure Vision - Face",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "Microsoft Foundry",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
       ],
       "sku": "Azure Vision - Face",
       "state": "GA"
@@ -96495,6 +96788,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Virtual Machines",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "A0 - A7",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Virtual Machines",
       "region": "UAE Central",
@@ -99300,14 +99604,6 @@
     {
       "geography": "United Kingdom",
       "offering": "Virtual Machines",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "D-Series",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Virtual Machines",
       "region": "UK West",
       "regionDisplayName": "UK West",
       "sku": "D-Series",
@@ -100417,6 +100713,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Dadsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -100425,10 +100729,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Dadsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Dadsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Dadsv7-series",
       "state": "GA"
     },
@@ -100451,6 +100771,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Dadsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Dadsv7-series",
@@ -100461,6 +100789,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Dadsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Dadsv7-series",
       "state": "GA"
     },
@@ -100983,6 +101319,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Daldsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -100991,10 +101335,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Daldsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Daldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Daldsv7-series",
       "state": "GA"
     },
@@ -101017,6 +101377,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Daldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Daldsv7-series",
@@ -101027,6 +101395,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Daldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Daldsv7-series",
       "state": "GA"
     },
@@ -101549,6 +101925,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Dalsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -101557,10 +101941,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Dalsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Dalsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Dalsv7-series",
       "state": "GA"
     },
@@ -101583,6 +101983,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Dalsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Dalsv7-series",
@@ -101593,6 +102001,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Dalsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Dalsv7-series",
       "state": "GA"
     },
@@ -103176,6 +103592,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Dasv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -103184,10 +103608,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Dasv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Dasv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Dasv7-series",
       "state": "GA"
     },
@@ -103210,6 +103650,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Dasv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Dasv7-series",
@@ -103220,6 +103668,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Dasv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Dasv7-series",
       "state": "GA"
     },
@@ -103881,7 +104337,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -103889,7 +104345,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -103897,7 +104353,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -103905,7 +104361,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -103913,7 +104369,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -103921,7 +104377,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -103929,7 +104385,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -103937,7 +104393,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -103945,7 +104401,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -103953,7 +104409,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -103961,7 +104417,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "DCads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -104543,7 +104999,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -104551,7 +105007,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -104559,7 +105015,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -104567,7 +105023,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -104575,7 +105031,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -104583,7 +105039,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -104591,7 +105047,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -104599,7 +105055,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -104607,7 +105063,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -104615,7 +105071,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -104623,7 +105079,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "DCas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -105261,7 +105717,7 @@
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "DCdsv3-Series",
-      "state": "Preview"
+      "state": "GA"
     },
     {
       "geography": "Italy",
@@ -107014,6 +107470,22 @@
       "state": "GA"
     },
     {
+      "geography": "Germany",
+      "offering": "Virtual Machines",
+      "region": "Germany West Central",
+      "regionDisplayName": "Germany West Central",
+      "sku": "Ddsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Sweden",
+      "offering": "Virtual Machines",
+      "region": "Sweden Central",
+      "regionDisplayName": "Sweden Central",
+      "sku": "Ddsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "United States",
       "offering": "Virtual Machines",
       "region": "Central US",
@@ -107034,6 +107506,30 @@
       "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
+      "sku": "Ddsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "South Central US",
+      "regionDisplayName": "South Central US",
+      "sku": "Ddsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 2",
+      "regionDisplayName": "West US 2",
+      "sku": "Ddsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 3",
+      "regionDisplayName": "West US 3",
       "sku": "Ddsv7-series",
       "state": "GA"
     },
@@ -108944,6 +109440,46 @@
       "state": "GA"
     },
     {
+      "geography": "Germany",
+      "offering": "Virtual Machines",
+      "region": "Germany West Central",
+      "regionDisplayName": "Germany West Central",
+      "sku": "Dldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Sweden",
+      "offering": "Virtual Machines",
+      "region": "Sweden Central",
+      "regionDisplayName": "Sweden Central",
+      "sku": "Dldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "South Central US",
+      "regionDisplayName": "South Central US",
+      "sku": "Dldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 2",
+      "regionDisplayName": "West US 2",
+      "sku": "Dldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 3",
+      "regionDisplayName": "West US 3",
+      "sku": "Dldsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Asia Pacific",
       "offering": "Virtual Machines",
       "region": "East Asia",
@@ -109797,6 +110333,22 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Dlsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Germany",
+      "offering": "Virtual Machines",
+      "region": "Germany West Central",
+      "regionDisplayName": "Germany West Central",
+      "sku": "Dlsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Sweden",
+      "offering": "Virtual Machines",
+      "region": "Sweden Central",
+      "regionDisplayName": "Sweden Central",
+      "sku": "Dlsv7-series",
       "state": "GA"
     },
     {
@@ -109824,6 +110376,30 @@
       "state": "GA"
     },
     {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "South Central US",
+      "regionDisplayName": "South Central US",
+      "sku": "Dlsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 2",
+      "regionDisplayName": "West US 2",
+      "sku": "Dlsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 3",
+      "regionDisplayName": "West US 3",
+      "sku": "Dlsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Asia Pacific",
       "offering": "Virtual Machines",
       "region": "East Asia",
@@ -114546,6 +115122,22 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Dsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Germany",
+      "offering": "Virtual Machines",
+      "region": "Germany West Central",
+      "regionDisplayName": "Germany West Central",
+      "sku": "Dsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Sweden",
+      "offering": "Virtual Machines",
+      "region": "Sweden Central",
+      "regionDisplayName": "Sweden Central",
+      "sku": "Dsv7-series",
       "state": "GA"
     },
     {
@@ -114573,6 +115165,30 @@
       "state": "GA"
     },
     {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "South Central US",
+      "regionDisplayName": "South Central US",
+      "sku": "Dsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 2",
+      "regionDisplayName": "West US 2",
+      "sku": "Dsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 3",
+      "regionDisplayName": "West US 3",
+      "sku": "Dsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Asia Pacific",
       "offering": "Virtual Machines",
       "region": "East Asia",
@@ -117772,6 +118388,14 @@
       "state": "GA"
     },
     {
+      "geography": "Brazil",
+      "offering": "Virtual Machines",
+      "region": "Brazil South",
+      "regionDisplayName": "Brazil South",
+      "sku": "Eadsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -117788,6 +118412,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Eadsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -117796,10 +118428,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Eadsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Eadsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Eadsv7-series",
       "state": "GA"
     },
@@ -117822,6 +118470,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Eadsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Eadsv7-series",
@@ -117832,6 +118488,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Eadsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Eadsv7-series",
       "state": "GA"
     },
@@ -119407,6 +120071,14 @@
       "state": "GA"
     },
     {
+      "geography": "Brazil",
+      "offering": "Virtual Machines",
+      "region": "Brazil South",
+      "regionDisplayName": "Brazil South",
+      "sku": "Easv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -119423,6 +120095,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Easv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -119431,10 +120111,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Easv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Easv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Easv7-series",
       "state": "GA"
     },
@@ -119457,6 +120153,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Easv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Easv7-series",
@@ -119467,6 +120171,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Easv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Easv7-series",
       "state": "GA"
     },
@@ -121112,7 +121824,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -121120,7 +121832,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -121128,7 +121840,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -121136,7 +121848,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -121144,7 +121856,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -121152,7 +121864,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -121160,7 +121872,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -121168,7 +121880,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -121176,7 +121888,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -121184,7 +121896,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -121192,7 +121904,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "ECads_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -121774,7 +122486,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -121782,7 +122494,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -121790,7 +122502,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -121798,7 +122510,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -121806,7 +122518,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -121814,7 +122526,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -121822,7 +122534,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -121830,7 +122542,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -121838,7 +122550,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -121846,7 +122558,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -121854,7 +122566,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "ECas_cc_v5-series",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -123910,6 +124622,22 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Edsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Germany",
+      "offering": "Virtual Machines",
+      "region": "Germany West Central",
+      "regionDisplayName": "Germany West Central",
+      "sku": "Edsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Sweden",
+      "offering": "Virtual Machines",
+      "region": "Sweden Central",
+      "regionDisplayName": "Sweden Central",
+      "sku": "Edsv7-series",
       "state": "GA"
     },
     {
@@ -123937,6 +124665,30 @@
       "state": "GA"
     },
     {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "South Central US",
+      "regionDisplayName": "South Central US",
+      "sku": "Edsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 2",
+      "regionDisplayName": "West US 2",
+      "sku": "Edsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 3",
+      "regionDisplayName": "West US 3",
+      "sku": "Edsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Asia Pacific",
       "offering": "Virtual Machines",
       "region": "East Asia",
@@ -127867,6 +128619,46 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Esv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Germany",
+      "offering": "Virtual Machines",
+      "region": "Germany West Central",
+      "regionDisplayName": "Germany West Central",
+      "sku": "Esv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Sweden",
+      "offering": "Virtual Machines",
+      "region": "Sweden Central",
+      "regionDisplayName": "Sweden Central",
+      "sku": "Esv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "South Central US",
+      "regionDisplayName": "South Central US",
+      "sku": "Esv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 2",
+      "regionDisplayName": "West US 2",
+      "sku": "Esv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US 3",
+      "regionDisplayName": "West US 3",
+      "sku": "Esv7-series",
       "state": "GA"
     },
     {
@@ -130102,6 +130894,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Fadsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -130110,10 +130910,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Fadsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Fadsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Fadsv7-series",
       "state": "GA"
     },
@@ -130136,6 +130952,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Fadsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Fadsv7-series",
@@ -130146,6 +130970,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Fadsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Fadsv7-series",
       "state": "GA"
     },
@@ -130198,6 +131030,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Faldsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -130206,10 +131046,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Faldsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Faldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Faldsv7-series",
       "state": "GA"
     },
@@ -130232,6 +131088,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Faldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Faldsv7-series",
@@ -130242,6 +131106,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Faldsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Faldsv7-series",
       "state": "GA"
     },
@@ -130764,6 +131636,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Falsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -130772,10 +131652,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Falsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Falsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Falsv7-series",
       "state": "GA"
     },
@@ -130798,6 +131694,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Falsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Falsv7-series",
@@ -130808,6 +131712,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Falsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Falsv7-series",
       "state": "GA"
     },
@@ -130860,6 +131772,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Famdsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -130868,10 +131788,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Famdsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Famdsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Famdsv7-series",
       "state": "GA"
     },
@@ -130894,6 +131830,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Famdsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Famdsv7-series",
@@ -130904,6 +131848,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Famdsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Famdsv7-series",
       "state": "GA"
     },
@@ -131426,6 +132378,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Famsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -131434,10 +132394,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Famsv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Famsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Famsv7-series",
       "state": "GA"
     },
@@ -131460,6 +132436,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Famsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Famsv7-series",
@@ -131470,6 +132454,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Famsv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Famsv7-series",
       "state": "GA"
     },
@@ -131992,6 +132984,14 @@
       "state": "GA"
     },
     {
+      "geography": "France",
+      "offering": "Virtual Machines",
+      "region": "France Central",
+      "regionDisplayName": "France Central",
+      "sku": "Fasv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Germany",
       "offering": "Virtual Machines",
       "region": "Germany West Central",
@@ -132000,10 +133000,26 @@
       "state": "GA"
     },
     {
+      "geography": "Italy",
+      "offering": "Virtual Machines",
+      "region": "Italy North",
+      "regionDisplayName": "Italy North",
+      "sku": "Fasv7-series",
+      "state": "GA"
+    },
+    {
       "geography": "Japan",
       "offering": "Virtual Machines",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
+      "sku": "Fasv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United Arab Emirates",
+      "offering": "Virtual Machines",
+      "region": "UAE North",
+      "regionDisplayName": "UAE North",
       "sku": "Fasv7-series",
       "state": "GA"
     },
@@ -132026,6 +133042,14 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Fasv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Fasv7-series",
@@ -132036,6 +133060,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "Fasv7-series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "Fasv7-series",
       "state": "GA"
     },
@@ -137345,6 +138377,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Virtual Machines",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "M-Series",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Virtual Machines",
       "region": "UAE Central",
@@ -137828,6 +138871,30 @@
       "state": "GA"
     },
     {
+      "geography": "Germany",
+      "offering": "Virtual Machines",
+      "region": "Germany West Central",
+      "regionDisplayName": "Germany West Central",
+      "sku": "Mbsv4 series",
+      "state": "Preview"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "Mbsv4 series",
+      "state": "Preview"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US 2",
+      "regionDisplayName": "East US 2",
+      "sku": "Mbsv4 series",
+      "state": "Preview"
+    },
+    {
       "geography": "Asia Pacific",
       "offering": "Virtual Machines",
       "region": "East Asia",
@@ -138115,6 +139182,17 @@
       "offering": "Virtual Machines",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
+      "sku": "Mdsv2 Medium Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "Virtual Machines",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Mdsv2 Medium Memory Series",
       "state": "GA"
     },
@@ -138892,6 +139970,17 @@
       "offering": "Virtual Machines",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
+      "sku": "Msv2 Medium Memory Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "Virtual Machines",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Msv2 Medium Memory Series",
       "state": "GA"
     },
@@ -139602,6 +140691,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Virtual Machines",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Mv2 SKL-series",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Virtual Machines",
       "region": "UAE Central",
@@ -139848,17 +140948,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "NCads A100 v4-Series",
-      "state": "GA"
-    },
-    {
       "geography": "United Kingdom",
       "offering": "Virtual Machines",
       "region": "UK South",
@@ -140055,6 +141144,17 @@
       "offering": "Virtual Machines",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
+      "sku": "NCadsH100_v5-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Taiwan",
+      "offering": "Virtual Machines",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "NCadsH100_v5-series",
       "state": "GA"
     },
@@ -140833,29 +141933,10 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "NDsr H100 v5-Series",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Virtual Machines",
       "region": "UAE North",
       "regionDisplayName": "UAE North",
-      "sku": "NDsr H100 v5-Series",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Virtual Machines",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
       "sku": "NDsr H100 v5-Series",
       "state": "GA"
     },
