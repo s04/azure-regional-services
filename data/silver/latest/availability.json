@@ -1,5 +1,5 @@
 {
-  "dataHash": "110d4ac59bb9c9f1d405697563804b57dac92e028c62ca50c4dce19e528172a0",
+  "dataHash": "6309aae363eeb1b21a257451312cf49e3a1833645b039bedd89b3128644ac667",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -21538,6 +21538,14 @@
       "state": "GA"
     },
     {
+      "geography": "Brazil",
+      "offering": "Azure DNS",
+      "region": "Brazil Southeast",
+      "regionDisplayName": "Brazil Southeast",
+      "sku": "Azure DNS Private Resolver",
+      "state": "GA"
+    },
+    {
       "geography": "Canada",
       "offering": "Azure DNS",
       "region": "Canada Central",
@@ -21636,6 +21644,14 @@
       "offering": "Azure DNS",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Azure DNS Private Resolver",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure DNS",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "Azure DNS Private Resolver",
       "state": "GA"
     },
@@ -21752,6 +21768,17 @@
       "state": "GA"
     },
     {
+      "geography": "South Africa",
+      "offering": "Azure DNS",
+      "region": "South Africa West",
+      "regionDisplayName": "South Africa West *",
+      "regionFlags": [
+        "restricted_access"
+      ],
+      "sku": "Azure DNS Private Resolver",
+      "state": "GA"
+    },
+    {
       "geography": "Spain",
       "offering": "Azure DNS",
       "region": "Spain Central",
@@ -21783,6 +21810,17 @@
       "offering": "Azure DNS",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
+      "sku": "Azure DNS Private Resolver",
+      "state": "GA"
+    },
+    {
+      "geography": "Switzerland",
+      "offering": "Azure DNS",
+      "region": "Switzerland West",
+      "regionDisplayName": "Switzerland West *",
+      "regionFlags": [
+        "restricted_access"
+      ],
       "sku": "Azure DNS Private Resolver",
       "state": "GA"
     },
@@ -33288,6 +33326,14 @@
       "offering": "Azure Migrate",
       "region": "East US",
       "regionDisplayName": "East US",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Azure Migrate",
+      "region": "East US 2",
+      "regionDisplayName": "East US 2",
       "sku": "",
       "state": "GA"
     },
@@ -141809,6 +141855,14 @@
       "offering": "Virtual Machines",
       "region": "East US",
       "regionDisplayName": "East US",
+      "sku": "NDasr A100 v4-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "East US 2",
+      "regionDisplayName": "East US 2",
       "sku": "NDasr A100 v4-Series",
       "state": "GA"
     },
