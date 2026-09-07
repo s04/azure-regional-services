@@ -1,14 +1,55 @@
 {
   "availability": {
     "changes": {
-      "added": 0,
-      "addedSamples": [],
+      "added": 5,
+      "addedSamples": [
+        {
+          "geography": "Australia",
+          "offering": "Azure App Testing",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "Playwright Workspaces",
+          "state": "GA"
+        },
+        {
+          "geography": "Japan",
+          "offering": "Azure App Testing",
+          "region": "Japan East",
+          "regionDisplayName": "Japan East",
+          "sku": "Playwright Workspaces",
+          "state": "GA"
+        },
+        {
+          "geography": "Japan",
+          "offering": "Azure Enclave",
+          "region": "Japan East",
+          "regionDisplayName": "Japan East",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
+          "geography": "Japan",
+          "offering": "Azure Enclave",
+          "region": "Japan West",
+          "regionDisplayName": "Japan West",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
+          "geography": "Switzerland",
+          "offering": "Azure App Testing",
+          "region": "Switzerland North",
+          "regionDisplayName": "Switzerland North",
+          "sku": "Playwright Workspaces",
+          "state": "GA"
+        }
+      ],
       "removed": 0,
       "removedSamples": [],
       "stateChanged": 0,
       "stateChangedSamples": []
     },
-    "dataHash": "aca6e24179509dd757d2db5ef833bc8fcd0d9f4e431273a44bcbc9155f11d6c3",
+    "dataHash": "680d891998c3593b07c2944891e90dac45c0c0c805d7d906be33072cbce33dae",
     "summary": {
       "geographies": [
         {
@@ -17,7 +58,7 @@
         },
         {
           "geography": "Australia",
-          "rowCount": 1087
+          "rowCount": 1088
         },
         {
           "geography": "Austria",
@@ -77,7 +118,7 @@
         },
         {
           "geography": "Japan",
-          "rowCount": 685
+          "rowCount": 688
         },
         {
           "geography": "Korea",
@@ -121,7 +162,7 @@
         },
         {
           "geography": "Switzerland",
-          "rowCount": 548
+          "rowCount": 549
         },
         {
           "geography": "Taiwan",
@@ -1222,7 +1263,7 @@
           "regionCount": 22,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 26
+            "GA": 29
           }
         },
         {
@@ -1371,6 +1412,15 @@
           }
         },
         {
+          "geographyCount": 2,
+          "offering": "Azure Enclave",
+          "regionCount": 11,
+          "skuCount": 1,
+          "stateCounts": {
+            "Preview": 11
+          }
+        },
+        {
           "geographyCount": 5,
           "offering": "BizTalk Services",
           "regionCount": 11,
@@ -1413,15 +1463,6 @@
           "skuCount": 1,
           "stateCounts": {
             "Closing Down": 9
-          }
-        },
-        {
-          "geographyCount": 1,
-          "offering": "Azure Enclave",
-          "regionCount": 9,
-          "skuCount": 1,
-          "stateCounts": {
-            "Preview": 9
           }
         },
         {
@@ -2351,10 +2392,10 @@
           "offeringCount": 140,
           "region": "Australia East",
           "regionFlags": [],
-          "skuCount": 397,
+          "skuCount": 398,
           "stateCounts": {
             "Closing Down": 47,
-            "GA": 338,
+            "GA": 339,
             "Preview": 12
           }
         },
@@ -2431,6 +2472,18 @@
           }
         },
         {
+          "geography": "Japan",
+          "offeringCount": 130,
+          "region": "Japan East",
+          "regionFlags": [],
+          "skuCount": 381,
+          "stateCounts": {
+            "Closing Down": 43,
+            "GA": 331,
+            "Preview": 7
+          }
+        },
+        {
           "geography": "Canada",
           "offeringCount": 129,
           "region": "Canada Central",
@@ -2440,18 +2493,6 @@
             "Closing Down": 42,
             "GA": 310,
             "Preview": 8
-          }
-        },
-        {
-          "geography": "Japan",
-          "offeringCount": 129,
-          "region": "Japan East",
-          "regionFlags": [],
-          "skuCount": 379,
-          "stateCounts": {
-            "Closing Down": 43,
-            "GA": 330,
-            "Preview": 6
           }
         },
         {
@@ -2591,10 +2632,10 @@
           "offeringCount": 115,
           "region": "Switzerland North",
           "regionFlags": [],
-          "skuCount": 323,
+          "skuCount": 324,
           "stateCounts": {
             "Closing Down": 31,
-            "GA": 284,
+            "GA": 285,
             "Preview": 8
           }
         },
@@ -2624,14 +2665,14 @@
         },
         {
           "geography": "Japan",
-          "offeringCount": 110,
+          "offeringCount": 111,
           "region": "Japan West",
           "regionFlags": [],
-          "skuCount": 306,
+          "skuCount": 307,
           "stateCounts": {
             "Closing Down": 27,
             "GA": 274,
-            "Preview": 5
+            "Preview": 6
           }
         },
         {
@@ -3547,12 +3588,12 @@
           "state": "Closing Down"
         }
       ],
-      "rowCount": 17669,
+      "rowCount": 17674,
       "skuCount": 522,
       "stateCounts": {
         "Closing Down": 1635,
-        "GA": 15646,
-        "Preview": 388
+        "GA": 15649,
+        "Preview": 390
       },
       "topOfferingsByRegionCount": [
         {
@@ -3822,10 +3863,10 @@
           "offeringCount": 140,
           "region": "Australia East",
           "regionFlags": [],
-          "skuCount": 397,
+          "skuCount": 398,
           "stateCounts": {
             "Closing Down": 47,
-            "GA": 338,
+            "GA": 339,
             "Preview": 12
           }
         },
@@ -3902,6 +3943,18 @@
           }
         },
         {
+          "geography": "Japan",
+          "offeringCount": 130,
+          "region": "Japan East",
+          "regionFlags": [],
+          "skuCount": 381,
+          "stateCounts": {
+            "Closing Down": 43,
+            "GA": 331,
+            "Preview": 7
+          }
+        },
+        {
           "geography": "Canada",
           "offeringCount": 129,
           "region": "Canada Central",
@@ -3911,18 +3964,6 @@
             "Closing Down": 42,
             "GA": 310,
             "Preview": 8
-          }
-        },
-        {
-          "geography": "Japan",
-          "offeringCount": 129,
-          "region": "Japan East",
-          "regionFlags": [],
-          "skuCount": 379,
-          "stateCounts": {
-            "Closing Down": 43,
-            "GA": 330,
-            "Preview": 6
           }
         },
         {
@@ -4062,10 +4103,10 @@
           "offeringCount": 115,
           "region": "Switzerland North",
           "regionFlags": [],
-          "skuCount": 323,
+          "skuCount": 324,
           "stateCounts": {
             "Closing Down": 31,
-            "GA": 284,
+            "GA": 285,
             "Preview": 8
           }
         },
@@ -4096,7 +4137,7 @@
       ]
     }
   },
-  "generatedAt": "2026-09-07T12:35:56Z",
+  "generatedAt": "2026-09-07T21:31:59Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -14186,9 +14227,9 @@
   "schemaVersion": 1,
   "sources": {
     "availability": {
-      "contentLength": 3359202,
-      "etag": "\"0ea10ce1e39dd1:0\"",
-      "lastModified": "Mon, 31 Aug 2026 08:00:36 GMT",
+      "contentLength": 3360138,
+      "etag": "\"01b5d0d33edd1:0\"",
+      "lastModified": "Mon, 07 Sep 2026 14:18:54 GMT",
       "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
     },
     "prices": {

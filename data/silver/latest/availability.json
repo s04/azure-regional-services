@@ -1,5 +1,5 @@
 {
-  "dataHash": "aca6e24179509dd757d2db5ef833bc8fcd0d9f4e431273a44bcbc9155f11d6c3",
+  "dataHash": "680d891998c3593b07c2944891e90dac45c0c0c805d7d906be33072cbce33dae",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -5946,10 +5946,34 @@
       "state": "GA"
     },
     {
+      "geography": "Australia",
+      "offering": "Azure App Testing",
+      "region": "Australia East",
+      "regionDisplayName": "Australia East",
+      "sku": "Playwright Workspaces",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Azure App Testing",
       "region": "West Europe",
       "regionDisplayName": "West Europe",
+      "sku": "Playwright Workspaces",
+      "state": "GA"
+    },
+    {
+      "geography": "Japan",
+      "offering": "Azure App Testing",
+      "region": "Japan East",
+      "regionDisplayName": "Japan East",
+      "sku": "Playwright Workspaces",
+      "state": "GA"
+    },
+    {
+      "geography": "Switzerland",
+      "offering": "Azure App Testing",
+      "region": "Switzerland North",
+      "regionDisplayName": "Switzerland North",
       "sku": "Playwright Workspaces",
       "state": "GA"
     },
@@ -22069,6 +22093,22 @@
       "regionDisplayName": "West US 3",
       "sku": "",
       "state": "GA"
+    },
+    {
+      "geography": "Japan",
+      "offering": "Azure Enclave",
+      "region": "Japan East",
+      "regionDisplayName": "Japan East",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Japan",
+      "offering": "Azure Enclave",
+      "region": "Japan West",
+      "regionDisplayName": "Japan West",
+      "sku": "",
+      "state": "Preview"
     },
     {
       "geography": "United States",
