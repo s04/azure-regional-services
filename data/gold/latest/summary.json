@@ -1,17 +1,8 @@
 {
   "availability": {
     "changes": {
-      "added": 1,
-      "addedSamples": [
-        {
-          "geography": "",
-          "offering": "Azure Data Transfer",
-          "region": "Non Regional",
-          "regionDisplayName": "Non Regional",
-          "sku": "",
-          "state": "GA"
-        }
-      ],
+      "added": 0,
+      "addedSamples": [],
       "removed": 0,
       "removedSamples": [],
       "stateChanged": 0,
@@ -4114,7 +4105,7 @@
       ]
     }
   },
-  "generatedAt": "2026-09-15T11:45:55Z",
+  "generatedAt": "2026-09-15T21:22:27Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
