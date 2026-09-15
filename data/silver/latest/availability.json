@@ -1,5 +1,5 @@
 {
-  "dataHash": "680d891998c3593b07c2944891e90dac45c0c0c805d7d906be33072cbce33dae",
+  "dataHash": "7ce2810a38f7510c695ae82282d6f9258af3b90d298251e2828a1020cdc76bb5",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -15163,6 +15163,14 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "Snapshot Execution",
+      "state": "GA"
+    },
+    {
+      "geography": "",
+      "offering": "Azure Data Transfer",
+      "region": "Non Regional",
+      "regionDisplayName": "Non Regional",
+      "sku": "",
       "state": "GA"
     },
     {
