@@ -1,5 +1,5 @@
 {
-  "dataHash": "7ce2810a38f7510c695ae82282d6f9258af3b90d298251e2828a1020cdc76bb5",
+  "dataHash": "8ba7aab525d090ab3ae6e91e642fc9b33622d5c38183a2e6be231c521be3fe7f",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -14671,6 +14671,14 @@
       "offering": "Azure Data Lake Storage Gen1",
       "region": "North Central US",
       "regionDisplayName": "North Central US",
+      "sku": "",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "United States",
+      "offering": "Azure Data Lake Storage Gen1",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "",
       "state": "Closing Down"
     },
@@ -36986,6 +36994,70 @@
       "state": "GA"
     },
     {
+      "geography": "Australia",
+      "offering": "Azure Red Hat Openshift with Hosted Control Plane (ARO-HCP) - Offering",
+      "region": "Australia East",
+      "regionDisplayName": "Australia East",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Brazil",
+      "offering": "Azure Red Hat Openshift with Hosted Control Plane (ARO-HCP) - Offering",
+      "region": "Brazil South",
+      "regionDisplayName": "Brazil South",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Canada",
+      "offering": "Azure Red Hat Openshift with Hosted Control Plane (ARO-HCP) - Offering",
+      "region": "Canada Central",
+      "regionDisplayName": "Canada Central",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Europe",
+      "offering": "Azure Red Hat Openshift with Hosted Control Plane (ARO-HCP) - Offering",
+      "region": "West Europe",
+      "regionDisplayName": "West Europe",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure Red Hat Openshift with Hosted Control Plane (ARO-HCP) - Offering",
+      "region": "Central India",
+      "regionDisplayName": "Central India",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Switzerland",
+      "offering": "Azure Red Hat Openshift with Hosted Control Plane (ARO-HCP) - Offering",
+      "region": "Switzerland North",
+      "regionDisplayName": "Switzerland North",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "United Kingdom",
+      "offering": "Azure Red Hat Openshift with Hosted Control Plane (ARO-HCP) - Offering",
+      "region": "UK South",
+      "regionDisplayName": "UK South",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "United States",
+      "offering": "Azure Red Hat Openshift with Hosted Control Plane (ARO-HCP) - Offering",
+      "region": "East US 2",
+      "regionDisplayName": "East US 2",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
       "geography": "",
       "offering": "Azure Resource Graph",
       "region": "Non Regional",
@@ -58588,7 +58660,7 @@
       "offering": "Functions",
       "region": "East Asia",
       "regionDisplayName": "East Asia",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58596,7 +58668,7 @@
       "offering": "Functions",
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58604,7 +58676,7 @@
       "offering": "Functions",
       "region": "Australia East",
       "regionDisplayName": "Australia East",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58612,7 +58684,7 @@
       "offering": "Functions",
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58620,7 +58692,7 @@
       "offering": "Functions",
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58628,7 +58700,7 @@
       "offering": "Functions",
       "region": "Canada East",
       "regionDisplayName": "Canada East",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58636,7 +58708,7 @@
       "offering": "Functions",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58644,7 +58716,7 @@
       "offering": "Functions",
       "region": "North Europe",
       "regionDisplayName": "North Europe",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58652,7 +58724,7 @@
       "offering": "Functions",
       "region": "West Europe",
       "regionDisplayName": "West Europe",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58660,7 +58732,7 @@
       "offering": "Functions",
       "region": "France Central",
       "regionDisplayName": "France Central",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58668,7 +58740,7 @@
       "offering": "Functions",
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58676,7 +58748,7 @@
       "offering": "Functions",
       "region": "Central India",
       "regionDisplayName": "Central India",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58684,7 +58756,7 @@
       "offering": "Functions",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58692,7 +58764,7 @@
       "offering": "Functions",
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58700,7 +58772,7 @@
       "offering": "Functions",
       "region": "Norway East",
       "regionDisplayName": "Norway East",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58708,7 +58780,7 @@
       "offering": "Functions",
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58716,7 +58788,7 @@
       "offering": "Functions",
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58724,7 +58796,7 @@
       "offering": "Functions",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58732,7 +58804,7 @@
       "offering": "Functions",
       "region": "UAE North",
       "regionDisplayName": "UAE North",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58740,7 +58812,7 @@
       "offering": "Functions",
       "region": "UK South",
       "regionDisplayName": "UK South",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58748,7 +58820,7 @@
       "offering": "Functions",
       "region": "UK West",
       "regionDisplayName": "UK West",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58756,7 +58828,7 @@
       "offering": "Functions",
       "region": "Central US",
       "regionDisplayName": "Central US",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58764,7 +58836,7 @@
       "offering": "Functions",
       "region": "East US",
       "regionDisplayName": "East US",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58772,7 +58844,7 @@
       "offering": "Functions",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58780,7 +58852,7 @@
       "offering": "Functions",
       "region": "North Central US",
       "regionDisplayName": "North Central US",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58788,7 +58860,7 @@
       "offering": "Functions",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58796,7 +58868,7 @@
       "offering": "Functions",
       "region": "West Central US",
       "regionDisplayName": "West Central US",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58804,7 +58876,7 @@
       "offering": "Functions",
       "region": "West US",
       "regionDisplayName": "West US",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58812,7 +58884,7 @@
       "offering": "Functions",
       "region": "West US 2",
       "regionDisplayName": "West US 2",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -58820,7 +58892,7 @@
       "offering": "Functions",
       "region": "West US 3",
       "regionDisplayName": "West US 3",
-      "sku": "Azure Functions on Azure Container Apps",
+      "sku": "Azure Functions V1 on Azure Container Apps",
       "state": "Preview"
     },
     {
@@ -141153,6 +141225,14 @@
       "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
+      "sku": "NDasr A100 v4-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "United States",
+      "offering": "Virtual Machines",
+      "region": "West US",
+      "regionDisplayName": "West US",
       "sku": "NDasr A100 v4-Series",
       "state": "GA"
     },
