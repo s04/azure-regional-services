@@ -1,161 +1,12 @@
 {
   "availability": {
     "changes": {
-      "added": 1,
-      "addedSamples": [
-        {
-          "geography": "China (operated by 21Vianet)",
-          "offering": "Azure Managed Lustre (AMLFS)",
-          "region": "China North 3",
-          "regionDisplayName": "China North 3",
-          "sku": "",
-          "state": "GA"
-        }
-      ],
-      "removed": 2,
-      "removedSamples": [
-        {
-          "geography": "Mexico",
-          "offering": "Storage",
-          "region": "Mexico Central",
-          "regionDisplayName": "Mexico Central",
-          "sku": "Archive Storage",
-          "state": "GA"
-        },
-        {
-          "geography": "Sweden",
-          "offering": "Storage",
-          "region": "Sweden South",
-          "regionDisplayName": "Sweden South *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "Archive Storage",
-          "state": "GA"
-        }
-      ],
-      "stateChanged": 17,
-      "stateChangedSamples": [
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "Australia East",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "Belgium Central",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "Canada Central",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "Central US",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "East US",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "East US 2",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "Japan East",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "Japan West",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "North Central US",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "North Europe",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "South Central US",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "Southeast Asia",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "Taiwan North",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "UK South",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "West Central US",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "West Europe",
-          "sku": "",
-          "to": "Closing Down"
-        },
-        {
-          "from": "GA",
-          "offering": "IoT Central",
-          "region": "West US",
-          "sku": "",
-          "to": "Closing Down"
-        }
-      ]
+      "added": 0,
+      "addedSamples": [],
+      "removed": 0,
+      "removedSamples": [],
+      "stateChanged": 0,
+      "stateChangedSamples": []
     },
     "dataHash": "7b1363714f9f9d79da3a666a0fc8803bae8cf7f4c38b33be37447e6a44772570",
     "summary": {
@@ -1659,7 +1510,7 @@
     }
   },
   "date": "2026-09-28",
-  "generatedAt": "2026-09-28T13:58:29Z",
+  "generatedAt": "2026-09-28T23:17:43Z",
   "price": {
     "changes": {
       "added": 0,
