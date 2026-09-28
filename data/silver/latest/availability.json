@@ -1,5 +1,5 @@
 {
-  "dataHash": "8ba7aab525d090ab3ae6e91e642fc9b33622d5c38183a2e6be231c521be3fe7f",
+  "dataHash": "7b1363714f9f9d79da3a666a0fc8803bae8cf7f4c38b33be37447e6a44772570",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -32019,6 +32019,14 @@
       "state": "GA"
     },
     {
+      "geography": "China (operated by 21Vianet)",
+      "offering": "Azure Managed Lustre (AMLFS)",
+      "region": "China North 3",
+      "regionDisplayName": "China North 3",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Azure Managed Lustre (AMLFS)",
       "region": "North Europe",
@@ -63373,7 +63381,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -63381,7 +63389,7 @@
       "region": "Australia East",
       "regionDisplayName": "Australia East",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Belgium",
@@ -63389,7 +63397,7 @@
       "region": "Belgium Central",
       "regionDisplayName": "Belgium Central",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -63397,7 +63405,7 @@
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -63405,7 +63413,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -63413,7 +63421,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -63421,7 +63429,7 @@
       "region": "Japan East",
       "regionDisplayName": "Japan East",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -63429,7 +63437,7 @@
       "region": "Japan West",
       "regionDisplayName": "Japan West",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Taiwan",
@@ -63440,7 +63448,7 @@
         "early_access"
       ],
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -63448,7 +63456,7 @@
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -63456,7 +63464,7 @@
       "region": "Central US",
       "regionDisplayName": "Central US",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -63464,7 +63472,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -63472,7 +63480,7 @@
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -63480,7 +63488,7 @@
       "region": "North Central US",
       "regionDisplayName": "North Central US",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -63488,7 +63496,7 @@
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -63496,7 +63504,7 @@
       "region": "West Central US",
       "regionDisplayName": "West Central US",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -63504,7 +63512,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -88220,14 +88228,6 @@
       "state": "GA"
     },
     {
-      "geography": "Mexico",
-      "offering": "Storage",
-      "region": "Mexico Central",
-      "regionDisplayName": "Mexico Central",
-      "sku": "Archive Storage",
-      "state": "GA"
-    },
-    {
       "geography": "New Zealand",
       "offering": "Storage",
       "region": "New Zealand North",
@@ -88291,17 +88291,6 @@
       "offering": "Storage",
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
-      "sku": "Archive Storage",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Storage",
-      "region": "Sweden South",
-      "regionDisplayName": "Sweden South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
       "sku": "Archive Storage",
       "state": "GA"
     },
