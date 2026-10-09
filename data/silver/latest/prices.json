@@ -1,5 +1,5 @@
 {
-  "dataHash": "fc13c2eaab3b80eba33a203fd67df70ccbbb6c59f875f573c226029ca222b74f",
+  "dataHash": "c2b67c35e87dfac3734715601a4ea581f768e2a7299f6a51a693055c93b7f12c",
   "items": [
     {
       "armRegionName": "australiaeast",
@@ -140261,25 +140261,6 @@
     },
     {
       "armRegionName": "eastus",
-      "armSkuName": "Standard_D16ds_v5",
-      "currencyCode": "USD",
-      "effectiveStartDate": "2026-07-01T00:00:00Z",
-      "location": "US East",
-      "meterId": "05f87eb8-9efd-575a-8690-095d92f326db",
-      "meterName": "D16ds v5 Spot",
-      "productId": "DZH318Z08MC6",
-      "productName": "Virtual Machines Ddsv5 Series",
-      "retailPrice": 0.190834,
-      "serviceFamily": "Compute",
-      "serviceId": "DZH313Z7MMC8",
-      "serviceName": "Virtual Machines",
-      "skuId": "DZH318Z08MC6/00JB",
-      "skuName": "Standard_D16ds_v5 Spot",
-      "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.190834
-    },
-    {
-      "armRegionName": "eastus",
       "armSkuName": "Standard_D48ds_v5",
       "currencyCode": "USD",
       "effectiveStartDate": "2026-07-01T00:00:00Z",
@@ -142142,6 +142123,63 @@
     },
     {
       "armRegionName": "eastus",
+      "armSkuName": "Standard_L128as_v5",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "location": "US East",
+      "meterId": "03a29e9b-1afe-5acc-833b-3ba3308f7c5a",
+      "meterName": "Standard_L128as_v5",
+      "productId": "DZH318Z0SGN0",
+      "productName": "Virtual Machines Lasv5 Series",
+      "retailPrice": 13.024,
+      "serviceFamily": "Compute",
+      "serviceId": "DZH313Z7MMC8",
+      "serviceName": "Virtual Machines",
+      "skuId": "DZH318Z0SGN0/00F2",
+      "skuName": "Standard_L128as_v5",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 13.024
+    },
+    {
+      "armRegionName": "eastus",
+      "armSkuName": "Standard_L2as_v5",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "location": "US East",
+      "meterId": "02621dda-aea7-54c8-a2c1-eb1a8ad585af",
+      "meterName": "Standard_L2as_v5 Spot",
+      "productId": "DZH318Z0SGN0",
+      "productName": "Virtual Machines Lasv5 Series",
+      "retailPrice": 0.0408,
+      "serviceFamily": "Compute",
+      "serviceId": "DZH313Z7MMC8",
+      "serviceName": "Virtual Machines",
+      "skuId": "DZH318Z0SGN0/00F3",
+      "skuName": "Standard_L2as_v5 Spot",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.0408
+    },
+    {
+      "armRegionName": "eastus",
+      "armSkuName": "Standard_L16as_v5",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "location": "US East",
+      "meterId": "05089afd-7b81-5ced-a2b4-6eb544d23562",
+      "meterName": "Standard_L16as_v5",
+      "productId": "DZH318Z0SGNH",
+      "productName": "Virtual Machines Lasv5 Series Windows",
+      "retailPrice": 2.364,
+      "serviceFamily": "Compute",
+      "serviceId": "DZH313Z7MMC8",
+      "serviceName": "Virtual Machines",
+      "skuId": "DZH318Z0SGNH/008K",
+      "skuName": "Standard_L16as_v5",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 2.364
+    },
+    {
+      "armRegionName": "eastus",
       "armSkuName": "Standard_L48s_v3",
       "currencyCode": "USD",
       "effectiveStartDate": "2022-06-01T00:00:00Z",
@@ -142177,25 +142215,6 @@
       "skuName": "L48s v4 Spot",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.876542
-    },
-    {
-      "armRegionName": "eastus",
-      "armSkuName": "Standard_L2s_v4",
-      "currencyCode": "USD",
-      "effectiveStartDate": "2026-06-01T00:00:00Z",
-      "location": "US East",
-      "meterId": "05ff133a-6f3c-5c57-8f97-305780595956",
-      "meterName": "L2s v4 Spot",
-      "productId": "DZH318Z0M2S0",
-      "productName": "Virtual Machines Lsv4 Series Windows",
-      "retailPrice": 0.055833,
-      "serviceFamily": "Compute",
-      "serviceId": "DZH313Z7MMC8",
-      "serviceName": "Virtual Machines",
-      "skuId": "DZH318Z0M2S0/0070",
-      "skuName": "L2s v4 Spot",
-      "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.055833
     },
     {
       "armRegionName": "eastus",
@@ -142826,25 +142845,6 @@
     },
     {
       "armRegionName": "eastus",
-      "armSkuName": "Standard_NC264lds_xl_RTXPRO6000BSE_v6",
-      "currencyCode": "USD",
-      "effectiveStartDate": "2026-04-01T00:00:00Z",
-      "location": "US East",
-      "meterId": "05ea61ba-2a6b-5d53-9f09-9c5f5d366398",
-      "meterName": "NC264ldsxlRTX6kv6",
-      "productId": "DZH318Z0R685",
-      "productName": "Virtual Machines NCldsxlRTX6kv6",
-      "retailPrice": 11.0,
-      "serviceFamily": "Compute",
-      "serviceId": "DZH313Z7MMC8",
-      "serviceName": "Virtual Machines",
-      "skuId": "DZH318Z0R685/00LP",
-      "skuName": "NC264ldsxlRTX6kv6",
-      "unitOfMeasure": "1 Hour",
-      "unitPrice": 11.0
-    },
-    {
-      "armRegionName": "eastus",
       "armSkuName": "Standard_NC8lds_xl_RTXPRO6000BSE_v6",
       "currencyCode": "USD",
       "effectiveStartDate": "2026-04-01T00:00:00Z",
@@ -143070,25 +143070,6 @@
       "skuName": "DC48aldsv7 Spot",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 0.627
-    },
-    {
-      "armRegionName": "eastus2",
-      "armSkuName": "Standard_DC16alds_v7",
-      "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
-      "location": "US East 2",
-      "meterId": "06ad2144-3fa8-5f99-85e3-90d12721b1fe",
-      "meterName": "DC16aldsv7",
-      "productId": "DZH318XZM6P2",
-      "productName": "DCaldsv7 Series Windows VM",
-      "retailPrice": 1.781,
-      "serviceFamily": "Compute",
-      "serviceId": "DZH313Z7MMC8",
-      "serviceName": "Virtual Machines",
-      "skuId": "DZH318XZM6P2/003N",
-      "skuName": "DC16aldsv7",
-      "unitOfMeasure": "1 Hour",
-      "unitPrice": 1.781
     },
     {
       "armRegionName": "eastus2",
@@ -145939,6 +145920,25 @@
       "skuName": "L12aosv5",
       "unitOfMeasure": "1 Hour",
       "unitPrice": 2.381
+    },
+    {
+      "armRegionName": "eastus2",
+      "armSkuName": "Standard_L80as_v5",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "location": "US East 2",
+      "meterId": "034fdab5-bce2-5be4-9a08-727aedd5c78f",
+      "meterName": "Standard_L80as_v5 Spot",
+      "productId": "DZH318Z0SGN0",
+      "productName": "Virtual Machines Lasv5 Series",
+      "retailPrice": 1.628,
+      "serviceFamily": "Compute",
+      "serviceId": "DZH313Z7MMC8",
+      "serviceName": "Virtual Machines",
+      "skuId": "DZH318Z0SGN0/00L1",
+      "skuName": "Standard_L80as_v5 Spot",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 1.628
     },
     {
       "armRegionName": "eastus2",
@@ -178758,7 +178758,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 3.84281159,
+      "averageRetailPrice": 3.86372225,
       "cheapestSamples": [
         {
           "armRegionName": "eastus",
@@ -178860,7 +178860,7 @@
       "itemCount": 200,
       "maxRetailPrice": 117.7788,
       "minRetailPrice": 0.0,
-      "productCount": 147,
+      "productCount": 148,
       "region": "eastus",
       "service": "Virtual Machines",
       "skuCount": 198,
@@ -178868,7 +178868,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 4.40267836,
+      "averageRetailPrice": 4.40191336,
       "cheapestSamples": [
         {
           "armRegionName": "eastus2",
