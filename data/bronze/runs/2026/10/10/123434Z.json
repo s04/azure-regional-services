@@ -1,0 +1,51 @@
+{
+  "availabilityHash": "fb1a60fd8099bea6145f5e2d176c078834cc486c096b476528081cc8c5f01c9e",
+  "availabilityRows": 17703,
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T12:34:34Z",
+  "medallion": {
+    "bronze": "source-shaped captures",
+    "gold": "dashboard-ready summaries and time series",
+    "silver": "normalized service and price datasets"
+  },
+  "priceFailures": [],
+  "priceHash": "c2b67c35e87dfac3734715601a4ea581f768e2a7299f6a51a693055c93b7f12c",
+  "priceItems": 8926,
+  "priceQueries": 100,
+  "sources": {
+    "availability": {
+      "contentLength": 3366837,
+      "etag": "W/\"01b536c9c54dd1:0\"",
+      "lastModified": "Mon, 05 Oct 2026 07:37:50 GMT",
+      "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
+    },
+    "prices": {
+      "apiVersion": "2023-01-01-preview",
+      "url": "https://prices.azure.com/api/retail/prices"
+    }
+  },
+  "trackedRegions": [
+    "eastus",
+    "eastus2",
+    "westus2",
+    "westeurope",
+    "northeurope",
+    "swedencentral",
+    "brazilsouth",
+    "japaneast",
+    "australiaeast",
+    "southeastasia"
+  ],
+  "trackedServices": [
+    "Virtual Machines",
+    "Storage",
+    "Azure App Service",
+    "SQL Database",
+    "Azure Kubernetes Service",
+    "Azure Cosmos DB",
+    "Functions",
+    "Load Balancer",
+    "Azure Database for PostgreSQL",
+    "Application Gateway"
+  ]
+}
