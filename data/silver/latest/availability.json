@@ -1,5 +1,5 @@
 {
-  "dataHash": "fb1a60fd8099bea6145f5e2d176c078834cc486c096b476528081cc8c5f01c9e",
+  "dataHash": "46669e45ae2b8cdfa78f9eea729d4f4d877e1343bc475db40b698fb8edf95b3d",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -9671,7 +9671,7 @@
       "offering": "Azure Chaos Studio",
       "region": "East Asia",
       "regionDisplayName": "East Asia",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9679,7 +9679,7 @@
       "offering": "Azure Chaos Studio",
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9687,7 +9687,7 @@
       "offering": "Azure Chaos Studio",
       "region": "Australia East",
       "regionDisplayName": "Australia East",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9695,7 +9695,7 @@
       "offering": "Azure Chaos Studio",
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9703,7 +9703,7 @@
       "offering": "Azure Chaos Studio",
       "region": "North Europe",
       "regionDisplayName": "North Europe",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9711,7 +9711,7 @@
       "offering": "Azure Chaos Studio",
       "region": "West Europe",
       "regionDisplayName": "West Europe",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9719,7 +9719,7 @@
       "offering": "Azure Chaos Studio",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9727,7 +9727,7 @@
       "offering": "Azure Chaos Studio",
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9735,7 +9735,7 @@
       "offering": "Azure Chaos Studio",
       "region": "UK South",
       "regionDisplayName": "UK South",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9743,7 +9743,7 @@
       "offering": "Azure Chaos Studio",
       "region": "Central US",
       "regionDisplayName": "Central US",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9751,7 +9751,7 @@
       "offering": "Azure Chaos Studio",
       "region": "East US",
       "regionDisplayName": "East US",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9759,7 +9759,7 @@
       "offering": "Azure Chaos Studio",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9767,7 +9767,7 @@
       "offering": "Azure Chaos Studio",
       "region": "North Central US",
       "regionDisplayName": "North Central US",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9775,7 +9775,7 @@
       "offering": "Azure Chaos Studio",
       "region": "West Central US",
       "regionDisplayName": "West Central US",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9783,7 +9783,7 @@
       "offering": "Azure Chaos Studio",
       "region": "West US",
       "regionDisplayName": "West US",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9791,7 +9791,7 @@
       "offering": "Azure Chaos Studio",
       "region": "West US 2",
       "regionDisplayName": "West US 2",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -9799,7 +9799,7 @@
       "offering": "Azure Chaos Studio",
       "region": "West US 3",
       "regionDisplayName": "West US 3",
-      "sku": "Resource Targeting",
+      "sku": "Chaos Studio v1 (Resource Targeting)",
       "state": "GA"
     },
     {
@@ -18410,14 +18410,6 @@
       "regionFlags": [
         "restricted_access"
       ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Indonesia",
-      "offering": "Azure Databricks",
-      "region": "Indonesia Central",
-      "regionDisplayName": "Indonesia Central",
       "sku": "",
       "state": "GA"
     },
@@ -58669,7 +58661,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -58677,7 +58669,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -58685,7 +58677,7 @@
       "region": "Australia East",
       "regionDisplayName": "Australia East",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -58693,7 +58685,7 @@
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -58701,7 +58693,7 @@
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -58709,7 +58701,7 @@
       "region": "Canada East",
       "regionDisplayName": "Canada East",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -58717,7 +58709,7 @@
       "region": "China North 3",
       "regionDisplayName": "China North 3",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -58725,7 +58717,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -58733,7 +58725,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -58741,7 +58733,7 @@
       "region": "France Central",
       "regionDisplayName": "France Central",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -58749,7 +58741,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -58757,7 +58749,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -58765,7 +58757,7 @@
       "region": "Japan East",
       "regionDisplayName": "Japan East",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -58773,7 +58765,7 @@
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -58781,7 +58773,7 @@
       "region": "Norway East",
       "regionDisplayName": "Norway East",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -58789,7 +58781,7 @@
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -58797,7 +58789,7 @@
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -58805,7 +58797,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -58813,7 +58805,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -58821,7 +58813,7 @@
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -58829,7 +58821,7 @@
       "region": "UK West",
       "regionDisplayName": "UK West",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -58837,7 +58829,7 @@
       "region": "Central US",
       "regionDisplayName": "Central US",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -58845,7 +58837,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -58853,7 +58845,7 @@
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -58861,7 +58853,7 @@
       "region": "North Central US",
       "regionDisplayName": "North Central US",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -58869,7 +58861,7 @@
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -58877,7 +58869,7 @@
       "region": "West Central US",
       "regionDisplayName": "West Central US",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -58885,7 +58877,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -58893,7 +58885,7 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -58901,7 +58893,7 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Azure Functions V1 on Azure Container Apps",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -72355,270 +72347,6 @@
       "offering": "Microsoft Foundry",
       "region": "East Asia",
       "regionDisplayName": "East Asia",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Microsoft Foundry",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Microsoft Foundry",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Microsoft Foundry",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Microsoft Foundry",
-      "region": "Brazil Southeast",
-      "regionDisplayName": "Brazil Southeast",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Microsoft Foundry",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Microsoft Foundry",
-      "region": "China East 2",
-      "regionDisplayName": "China East 2",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Microsoft Foundry",
-      "region": "China North",
-      "regionDisplayName": "China North",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Microsoft Foundry",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Microsoft Foundry",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "France",
-      "offering": "Microsoft Foundry",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Germany",
-      "offering": "Microsoft Foundry",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "India",
-      "offering": "Microsoft Foundry",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Microsoft Foundry",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Microsoft Foundry",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Microsoft Foundry",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Microsoft Foundry",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Qatar",
-      "offering": "Microsoft Foundry",
-      "region": "Qatar Central",
-      "regionDisplayName": "Qatar Central",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "Microsoft Foundry",
-      "region": "South Africa North",
-      "regionDisplayName": "South Africa North",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Microsoft Foundry",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Microsoft Foundry",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Microsoft Foundry",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Microsoft Foundry",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Microsoft Foundry",
-      "region": "UK West",
-      "regionDisplayName": "UK West",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "Azure AI Anomaly Detector",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Microsoft Foundry",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
       "sku": "Azure AI Content Moderator",
       "state": "Closing Down"
     },
@@ -73134,209 +72862,6 @@
       "regionDisplayName": "West US 3",
       "sku": "Azure AI Immersive Reader",
       "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Microsoft Foundry",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Microsoft Foundry",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Microsoft Foundry",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Microsoft Foundry",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Microsoft Foundry",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Microsoft Foundry",
-      "region": "China East 2",
-      "regionDisplayName": "China East 2",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Microsoft Foundry",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Microsoft Foundry",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "France",
-      "offering": "Microsoft Foundry",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Germany",
-      "offering": "Microsoft Foundry",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "India",
-      "offering": "Microsoft Foundry",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Microsoft Foundry",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Microsoft Foundry",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Microsoft Foundry",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Microsoft Foundry",
-      "region": "Switzerland West",
-      "regionDisplayName": "Switzerland West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Microsoft Foundry",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Microsoft Foundry",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "Azure AI Metrics Advisor",
-      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -76093,6 +75618,14 @@
       "state": "GA"
     },
     {
+      "geography": "United Kingdom",
+      "offering": "Microsoft Foundry",
+      "region": "UK West",
+      "regionDisplayName": "UK West",
+      "sku": "Foundry Models",
+      "state": "GA"
+    },
+    {
       "geography": "United States",
       "offering": "Microsoft Foundry",
       "region": "Central US",
@@ -76692,257 +76225,6 @@
       "regionDisplayName": "West US 3",
       "sku": "Observability",
       "state": "Preview"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Microsoft Foundry",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Microsoft Foundry",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Microsoft Foundry",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Belgium",
-      "offering": "Microsoft Foundry",
-      "region": "Belgium Central",
-      "regionDisplayName": "Belgium Central",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Microsoft Foundry",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Microsoft Foundry",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Microsoft Foundry",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Microsoft Foundry",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "France",
-      "offering": "Microsoft Foundry",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Germany",
-      "offering": "Microsoft Foundry",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "India",
-      "offering": "Microsoft Foundry",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Indonesia",
-      "offering": "Microsoft Foundry",
-      "region": "Indonesia Central",
-      "regionDisplayName": "Indonesia Central",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Microsoft Foundry",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Microsoft Foundry",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Microsoft Foundry",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Microsoft Foundry",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Qatar",
-      "offering": "Microsoft Foundry",
-      "region": "Qatar Central",
-      "regionDisplayName": "Qatar Central",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Microsoft Foundry",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Microsoft Foundry",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Microsoft Foundry",
-      "region": "Switzerland West",
-      "regionDisplayName": "Switzerland West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Microsoft Foundry",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Microsoft Foundry",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "Personalizer",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "Personalizer",
-      "state": "Closing Down"
     },
     {
       "geography": "",
@@ -88036,14 +87318,6 @@
       "offering": "Storage",
       "region": "Canada East",
       "regionDisplayName": "Canada East",
-      "sku": "Archive Storage",
-      "state": "GA"
-    },
-    {
-      "geography": "Chile",
-      "offering": "Storage",
-      "region": "Chile Central",
-      "regionDisplayName": "Chile Central",
       "sku": "Archive Storage",
       "state": "GA"
     },
@@ -112512,7 +111786,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -112520,7 +111794,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -112528,7 +111802,7 @@
       "region": "Australia Central",
       "regionDisplayName": "Australia Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -112539,7 +111813,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -112547,7 +111821,7 @@
       "region": "Australia East",
       "regionDisplayName": "Australia East",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -112555,7 +111829,7 @@
       "region": "Australia Southeast",
       "regionDisplayName": "Australia Southeast",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Austria",
@@ -112563,7 +111837,7 @@
       "region": "Austria East",
       "regionDisplayName": "Austria East",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Belgium",
@@ -112571,7 +111845,7 @@
       "region": "Belgium Central",
       "regionDisplayName": "Belgium Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -112579,7 +111853,7 @@
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -112587,7 +111861,7 @@
       "region": "Brazil Southeast",
       "regionDisplayName": "Brazil Southeast",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -112595,7 +111869,7 @@
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -112603,7 +111877,7 @@
       "region": "Canada East",
       "regionDisplayName": "Canada East",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Chile",
@@ -112611,7 +111885,7 @@
       "region": "Chile Central",
       "regionDisplayName": "Chile Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -112619,7 +111893,7 @@
       "region": "China East 2",
       "regionDisplayName": "China East 2",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -112630,7 +111904,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -112638,7 +111912,7 @@
       "region": "China North 2",
       "regionDisplayName": "China North 2",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -112646,7 +111920,7 @@
       "region": "China North 3",
       "regionDisplayName": "China North 3",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Denmark",
@@ -112654,7 +111928,7 @@
       "region": "Denmark East",
       "regionDisplayName": "Denmark East",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -112662,7 +111936,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -112670,7 +111944,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -112678,7 +111952,7 @@
       "region": "France Central",
       "regionDisplayName": "France Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -112689,7 +111963,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -112700,7 +111974,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -112708,7 +111982,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -112716,7 +111990,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -112724,7 +111998,7 @@
       "region": "India South Central",
       "regionDisplayName": "India South Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -112732,7 +112006,7 @@
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -112743,7 +112017,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Indonesia",
@@ -112751,7 +112025,7 @@
       "region": "Indonesia Central",
       "regionDisplayName": "Indonesia Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Israel",
@@ -112759,7 +112033,7 @@
       "region": "Israel Central",
       "regionDisplayName": "Israel Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -112767,7 +112041,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -112775,7 +112049,7 @@
       "region": "Japan East",
       "regionDisplayName": "Japan East",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -112783,7 +112057,7 @@
       "region": "Japan West",
       "regionDisplayName": "Japan West",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -112791,7 +112065,7 @@
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -112802,7 +112076,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Malaysia",
@@ -112810,7 +112084,7 @@
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Mexico",
@@ -112818,7 +112092,7 @@
       "region": "Mexico Central",
       "regionDisplayName": "Mexico Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "New Zealand",
@@ -112826,7 +112100,7 @@
       "region": "New Zealand North",
       "regionDisplayName": "New Zealand North",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -112834,7 +112108,7 @@
       "region": "Norway East",
       "regionDisplayName": "Norway East",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -112845,7 +112119,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Poland",
@@ -112853,7 +112127,7 @@
       "region": "Poland Central",
       "regionDisplayName": "Poland Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Qatar",
@@ -112861,7 +112135,7 @@
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -112869,7 +112143,7 @@
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -112880,7 +112154,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Spain",
@@ -112888,7 +112162,7 @@
       "region": "Spain Central",
       "regionDisplayName": "Spain Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -112896,7 +112170,7 @@
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -112907,7 +112181,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -112915,7 +112189,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -112926,7 +112200,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Taiwan",
@@ -112937,7 +112211,7 @@
         "early_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -112948,7 +112222,7 @@
         "restricted_access"
       ],
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -112956,7 +112230,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -112964,7 +112238,7 @@
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -112972,7 +112246,7 @@
       "region": "UK West",
       "regionDisplayName": "UK West",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -112980,7 +112254,7 @@
       "region": "Central US",
       "regionDisplayName": "Central US",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -112988,7 +112262,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -112996,7 +112270,7 @@
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -113004,7 +112278,7 @@
       "region": "North Central US",
       "regionDisplayName": "North Central US",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -113012,7 +112286,7 @@
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -113020,7 +112294,7 @@
       "region": "West Central US",
       "regionDisplayName": "West Central US",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -113028,7 +112302,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -113036,7 +112310,7 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -113044,7 +112318,7 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "DSv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -115115,7 +114389,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -115123,7 +114397,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -115131,7 +114405,7 @@
       "region": "Australia Central",
       "regionDisplayName": "Australia Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -115142,7 +114416,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -115150,7 +114424,7 @@
       "region": "Australia East",
       "regionDisplayName": "Australia East",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -115158,7 +114432,7 @@
       "region": "Australia Southeast",
       "regionDisplayName": "Australia Southeast",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Austria",
@@ -115166,7 +114440,7 @@
       "region": "Austria East",
       "regionDisplayName": "Austria East",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Belgium",
@@ -115174,7 +114448,7 @@
       "region": "Belgium Central",
       "regionDisplayName": "Belgium Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -115182,7 +114456,7 @@
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -115190,7 +114464,7 @@
       "region": "Brazil Southeast",
       "regionDisplayName": "Brazil Southeast",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -115198,7 +114472,7 @@
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -115206,7 +114480,7 @@
       "region": "Canada East",
       "regionDisplayName": "Canada East",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Chile",
@@ -115214,7 +114488,7 @@
       "region": "Chile Central",
       "regionDisplayName": "Chile Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -115222,7 +114496,7 @@
       "region": "China East",
       "regionDisplayName": "China East",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -115230,7 +114504,7 @@
       "region": "China East 2",
       "regionDisplayName": "China East 2",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -115241,7 +114515,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -115249,7 +114523,7 @@
       "region": "China North 2",
       "regionDisplayName": "China North 2",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -115257,7 +114531,7 @@
       "region": "China North 3",
       "regionDisplayName": "China North 3",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Denmark",
@@ -115265,7 +114539,7 @@
       "region": "Denmark East",
       "regionDisplayName": "Denmark East",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -115273,7 +114547,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -115281,7 +114555,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -115289,7 +114563,7 @@
       "region": "France Central",
       "regionDisplayName": "France Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -115300,7 +114574,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -115311,7 +114585,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -115319,7 +114593,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -115327,7 +114601,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -115335,7 +114609,7 @@
       "region": "India South Central",
       "regionDisplayName": "India South Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -115343,7 +114617,7 @@
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -115354,7 +114628,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Indonesia",
@@ -115362,7 +114636,7 @@
       "region": "Indonesia Central",
       "regionDisplayName": "Indonesia Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Israel",
@@ -115370,7 +114644,7 @@
       "region": "Israel Central",
       "regionDisplayName": "Israel Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -115378,7 +114652,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -115386,7 +114660,7 @@
       "region": "Japan East",
       "regionDisplayName": "Japan East",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -115394,7 +114668,7 @@
       "region": "Japan West",
       "regionDisplayName": "Japan West",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -115402,7 +114676,7 @@
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -115413,7 +114687,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Malaysia",
@@ -115421,7 +114695,7 @@
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Mexico",
@@ -115429,7 +114703,7 @@
       "region": "Mexico Central",
       "regionDisplayName": "Mexico Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "New Zealand",
@@ -115437,7 +114711,7 @@
       "region": "New Zealand North",
       "regionDisplayName": "New Zealand North",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -115445,7 +114719,7 @@
       "region": "Norway East",
       "regionDisplayName": "Norway East",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -115456,7 +114730,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Poland",
@@ -115464,7 +114738,7 @@
       "region": "Poland Central",
       "regionDisplayName": "Poland Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Qatar",
@@ -115472,7 +114746,7 @@
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -115480,7 +114754,7 @@
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -115491,7 +114765,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Spain",
@@ -115499,7 +114773,7 @@
       "region": "Spain Central",
       "regionDisplayName": "Spain Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -115507,7 +114781,7 @@
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -115518,7 +114792,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -115526,7 +114800,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -115537,7 +114811,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Taiwan",
@@ -115548,7 +114822,7 @@
         "early_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -115559,7 +114833,7 @@
         "restricted_access"
       ],
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -115567,7 +114841,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -115575,7 +114849,7 @@
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -115583,7 +114857,7 @@
       "region": "UK West",
       "regionDisplayName": "UK West",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -115591,7 +114865,7 @@
       "region": "Central US",
       "regionDisplayName": "Central US",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -115599,7 +114873,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -115607,7 +114881,7 @@
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -115615,7 +114889,7 @@
       "region": "North Central US",
       "regionDisplayName": "North Central US",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -115623,7 +114897,7 @@
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -115631,7 +114905,7 @@
       "region": "West Central US",
       "regionDisplayName": "West Central US",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -115639,7 +114913,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -115647,7 +114921,7 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -115655,7 +114929,7 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Dv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -126082,7 +125356,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -126090,7 +125364,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -126098,7 +125372,7 @@
       "region": "Australia Central",
       "regionDisplayName": "Australia Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -126109,7 +125383,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -126117,7 +125391,7 @@
       "region": "Australia East",
       "regionDisplayName": "Australia East",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -126125,7 +125399,7 @@
       "region": "Australia Southeast",
       "regionDisplayName": "Australia Southeast",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Austria",
@@ -126133,7 +125407,7 @@
       "region": "Austria East",
       "regionDisplayName": "Austria East",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Belgium",
@@ -126141,7 +125415,7 @@
       "region": "Belgium Central",
       "regionDisplayName": "Belgium Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -126149,7 +125423,7 @@
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -126157,7 +125431,7 @@
       "region": "Brazil Southeast",
       "regionDisplayName": "Brazil Southeast",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -126165,7 +125439,7 @@
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -126173,7 +125447,7 @@
       "region": "Canada East",
       "regionDisplayName": "Canada East",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Chile",
@@ -126181,7 +125455,7 @@
       "region": "Chile Central",
       "regionDisplayName": "Chile Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -126189,7 +125463,7 @@
       "region": "China East 2",
       "regionDisplayName": "China East 2",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -126200,7 +125474,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -126208,7 +125482,7 @@
       "region": "China North 2",
       "regionDisplayName": "China North 2",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -126216,7 +125490,7 @@
       "region": "China North 3",
       "regionDisplayName": "China North 3",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Denmark",
@@ -126224,7 +125498,7 @@
       "region": "Denmark East",
       "regionDisplayName": "Denmark East",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -126232,7 +125506,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -126240,7 +125514,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -126248,7 +125522,7 @@
       "region": "France Central",
       "regionDisplayName": "France Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -126259,7 +125533,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -126270,7 +125544,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -126278,7 +125552,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -126286,7 +125560,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -126294,7 +125568,7 @@
       "region": "India South Central",
       "regionDisplayName": "India South Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -126302,7 +125576,7 @@
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -126313,7 +125587,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Indonesia",
@@ -126321,7 +125595,7 @@
       "region": "Indonesia Central",
       "regionDisplayName": "Indonesia Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Israel",
@@ -126329,7 +125603,7 @@
       "region": "Israel Central",
       "regionDisplayName": "Israel Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -126337,7 +125611,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -126345,7 +125619,7 @@
       "region": "Japan East",
       "regionDisplayName": "Japan East",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -126353,7 +125627,7 @@
       "region": "Japan West",
       "regionDisplayName": "Japan West",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -126361,7 +125635,7 @@
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -126372,7 +125646,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Malaysia",
@@ -126380,7 +125654,7 @@
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Mexico",
@@ -126388,7 +125662,7 @@
       "region": "Mexico Central",
       "regionDisplayName": "Mexico Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "New Zealand",
@@ -126396,7 +125670,7 @@
       "region": "New Zealand North",
       "regionDisplayName": "New Zealand North",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -126404,7 +125678,7 @@
       "region": "Norway East",
       "regionDisplayName": "Norway East",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -126415,7 +125689,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Poland",
@@ -126423,7 +125697,7 @@
       "region": "Poland Central",
       "regionDisplayName": "Poland Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Qatar",
@@ -126431,7 +125705,7 @@
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -126439,7 +125713,7 @@
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -126450,7 +125724,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Spain",
@@ -126458,7 +125732,7 @@
       "region": "Spain Central",
       "regionDisplayName": "Spain Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -126466,7 +125740,7 @@
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -126477,7 +125751,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -126485,7 +125759,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -126496,7 +125770,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Taiwan",
@@ -126507,7 +125781,7 @@
         "early_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -126518,7 +125792,7 @@
         "restricted_access"
       ],
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -126526,7 +125800,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -126534,7 +125808,7 @@
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -126542,7 +125816,7 @@
       "region": "UK West",
       "regionDisplayName": "UK West",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -126550,7 +125824,7 @@
       "region": "Central US",
       "regionDisplayName": "Central US",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -126558,7 +125832,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -126566,7 +125840,7 @@
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -126574,7 +125848,7 @@
       "region": "North Central US",
       "regionDisplayName": "North Central US",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -126582,7 +125856,7 @@
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -126590,7 +125864,7 @@
       "region": "West Central US",
       "regionDisplayName": "West Central US",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -126598,7 +125872,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -126606,7 +125880,7 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -126614,7 +125888,7 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "ESv3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -128080,7 +127354,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -128088,7 +127362,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -128096,7 +127370,7 @@
       "region": "Australia Central",
       "regionDisplayName": "Australia Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -128107,7 +127381,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -128115,7 +127389,7 @@
       "region": "Australia East",
       "regionDisplayName": "Australia East",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -128123,7 +127397,7 @@
       "region": "Australia Southeast",
       "regionDisplayName": "Australia Southeast",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Austria",
@@ -128131,7 +127405,7 @@
       "region": "Austria East",
       "regionDisplayName": "Austria East",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Belgium",
@@ -128139,7 +127413,7 @@
       "region": "Belgium Central",
       "regionDisplayName": "Belgium Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -128147,7 +127421,7 @@
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -128155,7 +127429,7 @@
       "region": "Brazil Southeast",
       "regionDisplayName": "Brazil Southeast",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -128163,7 +127437,7 @@
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -128171,7 +127445,7 @@
       "region": "Canada East",
       "regionDisplayName": "Canada East",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Chile",
@@ -128179,7 +127453,7 @@
       "region": "Chile Central",
       "regionDisplayName": "Chile Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -128187,7 +127461,7 @@
       "region": "China East",
       "regionDisplayName": "China East",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -128195,7 +127469,7 @@
       "region": "China East 2",
       "regionDisplayName": "China East 2",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -128206,7 +127480,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -128214,7 +127488,7 @@
       "region": "China North 2",
       "regionDisplayName": "China North 2",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -128222,7 +127496,7 @@
       "region": "China North 3",
       "regionDisplayName": "China North 3",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Denmark",
@@ -128230,7 +127504,7 @@
       "region": "Denmark East",
       "regionDisplayName": "Denmark East",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -128238,7 +127512,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -128246,7 +127520,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -128254,7 +127528,7 @@
       "region": "France Central",
       "regionDisplayName": "France Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -128265,7 +127539,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -128276,7 +127550,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -128284,7 +127558,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -128292,7 +127566,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -128300,7 +127574,7 @@
       "region": "India South Central",
       "regionDisplayName": "India South Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -128308,7 +127582,7 @@
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -128319,7 +127593,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Indonesia",
@@ -128327,7 +127601,7 @@
       "region": "Indonesia Central",
       "regionDisplayName": "Indonesia Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Israel",
@@ -128335,7 +127609,7 @@
       "region": "Israel Central",
       "regionDisplayName": "Israel Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -128343,7 +127617,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -128351,7 +127625,7 @@
       "region": "Japan East",
       "regionDisplayName": "Japan East",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -128359,7 +127633,7 @@
       "region": "Japan West",
       "regionDisplayName": "Japan West",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -128367,7 +127641,7 @@
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -128378,7 +127652,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Malaysia",
@@ -128386,7 +127660,7 @@
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Mexico",
@@ -128394,7 +127668,7 @@
       "region": "Mexico Central",
       "regionDisplayName": "Mexico Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "New Zealand",
@@ -128402,7 +127676,7 @@
       "region": "New Zealand North",
       "regionDisplayName": "New Zealand North",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -128410,7 +127684,7 @@
       "region": "Norway East",
       "regionDisplayName": "Norway East",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Norway",
@@ -128421,7 +127695,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Poland",
@@ -128429,7 +127703,7 @@
       "region": "Poland Central",
       "regionDisplayName": "Poland Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Qatar",
@@ -128437,7 +127711,7 @@
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -128445,7 +127719,7 @@
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -128456,7 +127730,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Spain",
@@ -128464,7 +127738,7 @@
       "region": "Spain Central",
       "regionDisplayName": "Spain Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -128472,7 +127746,7 @@
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -128483,7 +127757,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -128491,7 +127765,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -128502,7 +127776,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Taiwan",
@@ -128513,7 +127787,7 @@
         "early_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -128524,7 +127798,7 @@
         "restricted_access"
       ],
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -128532,7 +127806,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -128540,7 +127814,7 @@
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -128548,7 +127822,7 @@
       "region": "UK West",
       "regionDisplayName": "UK West",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -128556,7 +127830,7 @@
       "region": "Central US",
       "regionDisplayName": "Central US",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -128564,7 +127838,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -128572,7 +127846,7 @@
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -128580,7 +127854,7 @@
       "region": "North Central US",
       "regionDisplayName": "North Central US",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -128588,7 +127862,7 @@
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -128596,7 +127870,7 @@
       "region": "West Central US",
       "regionDisplayName": "West Central US",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -128604,7 +127878,7 @@
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -128612,7 +127886,7 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -128620,7 +127894,7 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Ev3-Series",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
