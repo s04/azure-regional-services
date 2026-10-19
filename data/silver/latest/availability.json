@@ -1,5 +1,5 @@
 {
-  "dataHash": "46669e45ae2b8cdfa78f9eea729d4f4d877e1343bc475db40b698fb8edf95b3d",
+  "dataHash": "8091feb5acc5ae5d2284eec8434bebc880a853a0d7be01e0613f280fed3d9b63",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -71031,7 +71031,7 @@
       "region": "East Asia",
       "regionDisplayName": "East Asia",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",
@@ -71039,7 +71039,7 @@
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Australia",
@@ -71047,7 +71047,7 @@
       "region": "Australia East",
       "regionDisplayName": "Australia East",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Brazil",
@@ -71055,7 +71055,7 @@
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Canada",
@@ -71063,7 +71063,7 @@
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -71071,7 +71071,7 @@
       "region": "North Europe",
       "regionDisplayName": "North Europe",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Europe",
@@ -71079,7 +71079,7 @@
       "region": "West Europe",
       "regionDisplayName": "West Europe",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "France",
@@ -71087,7 +71087,7 @@
       "region": "France Central",
       "regionDisplayName": "France Central",
       "sku": "",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "Germany",
@@ -71095,7 +71095,7 @@
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "India",
@@ -71103,7 +71103,7 @@
       "region": "Central India",
       "regionDisplayName": "Central India",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Italy",
@@ -71111,7 +71111,7 @@
       "region": "Italy North",
       "regionDisplayName": "Italy North",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -71119,7 +71119,7 @@
       "region": "Japan East",
       "regionDisplayName": "Japan East",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Japan",
@@ -71127,7 +71127,7 @@
       "region": "Japan West",
       "regionDisplayName": "Japan West",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Korea",
@@ -71135,7 +71135,7 @@
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Poland",
@@ -71143,7 +71143,7 @@
       "region": "Poland Central",
       "regionDisplayName": "Poland Central",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "South Africa",
@@ -71151,7 +71151,7 @@
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Spain",
@@ -71159,7 +71159,7 @@
       "region": "Spain Central",
       "regionDisplayName": "Spain Central",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Sweden",
@@ -71167,7 +71167,7 @@
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Switzerland",
@@ -71175,7 +71175,7 @@
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Arab Emirates",
@@ -71183,7 +71183,7 @@
       "region": "UAE North",
       "regionDisplayName": "UAE North",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United Kingdom",
@@ -71191,7 +71191,7 @@
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -71199,7 +71199,7 @@
       "region": "Central US",
       "regionDisplayName": "Central US",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -71207,7 +71207,7 @@
       "region": "East US",
       "regionDisplayName": "East US",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -71215,7 +71215,7 @@
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -71223,7 +71223,7 @@
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -71231,7 +71231,7 @@
       "region": "West US 2",
       "regionDisplayName": "West US 2",
       "sku": "",
-      "state": "Preview"
+      "state": "Closing Down"
     },
     {
       "geography": "United States",
@@ -71239,7 +71239,7 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "",
-      "state": "GA"
+      "state": "Closing Down"
     },
     {
       "geography": "Asia Pacific",

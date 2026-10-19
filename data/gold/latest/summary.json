@@ -5,10 +5,200 @@
       "addedSamples": [],
       "removed": 0,
       "removedSamples": [],
-      "stateChanged": 0,
-      "stateChangedSamples": []
+      "stateChanged": 27,
+      "stateChangedSamples": [
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Australia East",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Brazil South",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Canada Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Central India",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Central US",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "East Asia",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "East US",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "East US 2",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "Preview",
+          "offering": "Microsoft Dev Box",
+          "region": "France Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Germany West Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Italy North",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Japan East",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Japan West",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Korea Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "North Europe",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Poland Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "South Africa North",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "South Central US",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Southeast Asia",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Spain Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Sweden Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "Switzerland North",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "UAE North",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "UK South",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "West Europe",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "Preview",
+          "offering": "Microsoft Dev Box",
+          "region": "West US 2",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Microsoft Dev Box",
+          "region": "West US 3",
+          "sku": "",
+          "to": "Closing Down"
+        }
+      ]
     },
-    "dataHash": "46669e45ae2b8cdfa78f9eea729d4f4d877e1343bc475db40b698fb8edf95b3d",
+    "dataHash": "8091feb5acc5ae5d2284eec8434bebc880a853a0d7be01e0613f280fed3d9b63",
     "summary": {
       "geographies": [
         {
@@ -1184,8 +1374,7 @@
           "regionCount": 27,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 25,
-            "Preview": 2
+            "Closing Down": 27
           }
         },
         {
@@ -2346,8 +2535,8 @@
           "regionFlags": [],
           "skuCount": 429,
           "stateCounts": {
-            "Closing Down": 58,
-            "GA": 351,
+            "Closing Down": 59,
+            "GA": 350,
             "Preview": 20
           }
         },
@@ -2358,8 +2547,8 @@
           "regionFlags": [],
           "skuCount": 428,
           "stateCounts": {
-            "Closing Down": 63,
-            "GA": 348,
+            "Closing Down": 64,
+            "GA": 347,
             "Preview": 17
           }
         },
@@ -2370,8 +2559,8 @@
           "regionFlags": [],
           "skuCount": 396,
           "stateCounts": {
-            "Closing Down": 52,
-            "GA": 332,
+            "Closing Down": 53,
+            "GA": 331,
             "Preview": 12
           }
         },
@@ -2382,8 +2571,8 @@
           "regionFlags": [],
           "skuCount": 398,
           "stateCounts": {
-            "Closing Down": 59,
-            "GA": 328,
+            "Closing Down": 60,
+            "GA": 327,
             "Preview": 11
           }
         },
@@ -2394,8 +2583,8 @@
           "regionFlags": [],
           "skuCount": 392,
           "stateCounts": {
-            "Closing Down": 52,
-            "GA": 330,
+            "Closing Down": 53,
+            "GA": 329,
             "Preview": 10
           }
         },
@@ -2406,8 +2595,8 @@
           "regionFlags": [],
           "skuCount": 408,
           "stateCounts": {
-            "Closing Down": 54,
-            "GA": 339,
+            "Closing Down": 55,
+            "GA": 338,
             "Preview": 15
           }
         },
@@ -2418,8 +2607,8 @@
           "regionFlags": [],
           "skuCount": 405,
           "stateCounts": {
-            "Closing Down": 54,
-            "GA": 343,
+            "Closing Down": 55,
+            "GA": 342,
             "Preview": 8
           }
         },
@@ -2430,8 +2619,8 @@
           "regionFlags": [],
           "skuCount": 399,
           "stateCounts": {
-            "Closing Down": 56,
-            "GA": 333,
+            "Closing Down": 57,
+            "GA": 332,
             "Preview": 10
           }
         },
@@ -2442,9 +2631,9 @@
           "regionFlags": [],
           "skuCount": 402,
           "stateCounts": {
-            "Closing Down": 51,
+            "Closing Down": 52,
             "GA": 334,
-            "Preview": 17
+            "Preview": 16
           }
         },
         {
@@ -2454,8 +2643,8 @@
           "regionFlags": [],
           "skuCount": 358,
           "stateCounts": {
-            "Closing Down": 46,
-            "GA": 304,
+            "Closing Down": 47,
+            "GA": 303,
             "Preview": 8
           }
         },
@@ -2466,8 +2655,8 @@
           "regionFlags": [],
           "skuCount": 378,
           "stateCounts": {
-            "Closing Down": 47,
-            "GA": 325,
+            "Closing Down": 48,
+            "GA": 324,
             "Preview": 6
           }
         },
@@ -2478,8 +2667,8 @@
           "regionFlags": [],
           "skuCount": 347,
           "stateCounts": {
-            "Closing Down": 44,
-            "GA": 295,
+            "Closing Down": 45,
+            "GA": 294,
             "Preview": 8
           }
         },
@@ -2490,8 +2679,8 @@
           "regionFlags": [],
           "skuCount": 372,
           "stateCounts": {
-            "Closing Down": 46,
-            "GA": 318,
+            "Closing Down": 47,
+            "GA": 317,
             "Preview": 8
           }
         },
@@ -2502,8 +2691,8 @@
           "regionFlags": [],
           "skuCount": 356,
           "stateCounts": {
-            "Closing Down": 32,
-            "GA": 314,
+            "Closing Down": 33,
+            "GA": 313,
             "Preview": 10
           }
         },
@@ -2514,8 +2703,8 @@
           "regionFlags": [],
           "skuCount": 333,
           "stateCounts": {
-            "Closing Down": 38,
-            "GA": 287,
+            "Closing Down": 39,
+            "GA": 286,
             "Preview": 8
           }
         },
@@ -2538,8 +2727,8 @@
           "regionFlags": [],
           "skuCount": 363,
           "stateCounts": {
-            "Closing Down": 36,
-            "GA": 320,
+            "Closing Down": 37,
+            "GA": 319,
             "Preview": 7
           }
         },
@@ -2550,8 +2739,8 @@
           "regionFlags": [],
           "skuCount": 345,
           "stateCounts": {
-            "Closing Down": 31,
-            "GA": 305,
+            "Closing Down": 32,
+            "GA": 304,
             "Preview": 9
           }
         },
@@ -2574,8 +2763,8 @@
           "regionFlags": [],
           "skuCount": 337,
           "stateCounts": {
-            "Closing Down": 42,
-            "GA": 287,
+            "Closing Down": 43,
+            "GA": 286,
             "Preview": 8
           }
         },
@@ -2586,9 +2775,9 @@
           "regionFlags": [],
           "skuCount": 336,
           "stateCounts": {
-            "Closing Down": 35,
+            "Closing Down": 36,
             "GA": 294,
-            "Preview": 7
+            "Preview": 6
           }
         },
         {
@@ -2598,8 +2787,8 @@
           "regionFlags": [],
           "skuCount": 323,
           "stateCounts": {
-            "Closing Down": 35,
-            "GA": 280,
+            "Closing Down": 36,
+            "GA": 279,
             "Preview": 8
           }
         },
@@ -2610,8 +2799,8 @@
           "regionFlags": [],
           "skuCount": 332,
           "stateCounts": {
-            "Closing Down": 34,
-            "GA": 292,
+            "Closing Down": 35,
+            "GA": 291,
             "Preview": 6
           }
         },
@@ -2622,8 +2811,8 @@
           "regionFlags": [],
           "skuCount": 319,
           "stateCounts": {
-            "Closing Down": 33,
-            "GA": 280,
+            "Closing Down": 34,
+            "GA": 279,
             "Preview": 6
           }
         },
@@ -2646,8 +2835,8 @@
           "regionFlags": [],
           "skuCount": 305,
           "stateCounts": {
-            "Closing Down": 31,
-            "GA": 268,
+            "Closing Down": 32,
+            "GA": 267,
             "Preview": 6
           }
         },
@@ -2658,8 +2847,8 @@
           "regionFlags": [],
           "skuCount": 300,
           "stateCounts": {
-            "Closing Down": 30,
-            "GA": 265,
+            "Closing Down": 31,
+            "GA": 264,
             "Preview": 5
           }
         },
@@ -2706,8 +2895,8 @@
           "regionFlags": [],
           "skuCount": 295,
           "stateCounts": {
-            "Closing Down": 28,
-            "GA": 265,
+            "Closing Down": 29,
+            "GA": 264,
             "Preview": 2
           }
         },
@@ -2768,8 +2957,8 @@
           "regionFlags": [],
           "skuCount": 238,
           "stateCounts": {
-            "Closing Down": 16,
-            "GA": 220,
+            "Closing Down": 17,
+            "GA": 219,
             "Preview": 2
           }
         },
@@ -2780,8 +2969,8 @@
           "regionFlags": [],
           "skuCount": 244,
           "stateCounts": {
-            "Closing Down": 17,
-            "GA": 225,
+            "Closing Down": 18,
+            "GA": 224,
             "Preview": 2
           }
         },
@@ -3564,9 +3753,9 @@
       "rowCount": 17613,
       "skuCount": 525,
       "stateCounts": {
-        "Closing Down": 1880,
-        "GA": 15355,
-        "Preview": 378
+        "Closing Down": 1907,
+        "GA": 15330,
+        "Preview": 376
       },
       "topOfferingsByRegionCount": [
         {
@@ -3813,8 +4002,8 @@
           "regionFlags": [],
           "skuCount": 429,
           "stateCounts": {
-            "Closing Down": 58,
-            "GA": 351,
+            "Closing Down": 59,
+            "GA": 350,
             "Preview": 20
           }
         },
@@ -3825,8 +4014,8 @@
           "regionFlags": [],
           "skuCount": 428,
           "stateCounts": {
-            "Closing Down": 63,
-            "GA": 348,
+            "Closing Down": 64,
+            "GA": 347,
             "Preview": 17
           }
         },
@@ -3837,8 +4026,8 @@
           "regionFlags": [],
           "skuCount": 396,
           "stateCounts": {
-            "Closing Down": 52,
-            "GA": 332,
+            "Closing Down": 53,
+            "GA": 331,
             "Preview": 12
           }
         },
@@ -3849,8 +4038,8 @@
           "regionFlags": [],
           "skuCount": 398,
           "stateCounts": {
-            "Closing Down": 59,
-            "GA": 328,
+            "Closing Down": 60,
+            "GA": 327,
             "Preview": 11
           }
         },
@@ -3861,8 +4050,8 @@
           "regionFlags": [],
           "skuCount": 392,
           "stateCounts": {
-            "Closing Down": 52,
-            "GA": 330,
+            "Closing Down": 53,
+            "GA": 329,
             "Preview": 10
           }
         },
@@ -3873,8 +4062,8 @@
           "regionFlags": [],
           "skuCount": 408,
           "stateCounts": {
-            "Closing Down": 54,
-            "GA": 339,
+            "Closing Down": 55,
+            "GA": 338,
             "Preview": 15
           }
         },
@@ -3885,8 +4074,8 @@
           "regionFlags": [],
           "skuCount": 405,
           "stateCounts": {
-            "Closing Down": 54,
-            "GA": 343,
+            "Closing Down": 55,
+            "GA": 342,
             "Preview": 8
           }
         },
@@ -3897,8 +4086,8 @@
           "regionFlags": [],
           "skuCount": 399,
           "stateCounts": {
-            "Closing Down": 56,
-            "GA": 333,
+            "Closing Down": 57,
+            "GA": 332,
             "Preview": 10
           }
         },
@@ -3909,9 +4098,9 @@
           "regionFlags": [],
           "skuCount": 402,
           "stateCounts": {
-            "Closing Down": 51,
+            "Closing Down": 52,
             "GA": 334,
-            "Preview": 17
+            "Preview": 16
           }
         },
         {
@@ -3921,8 +4110,8 @@
           "regionFlags": [],
           "skuCount": 358,
           "stateCounts": {
-            "Closing Down": 46,
-            "GA": 304,
+            "Closing Down": 47,
+            "GA": 303,
             "Preview": 8
           }
         },
@@ -3933,8 +4122,8 @@
           "regionFlags": [],
           "skuCount": 378,
           "stateCounts": {
-            "Closing Down": 47,
-            "GA": 325,
+            "Closing Down": 48,
+            "GA": 324,
             "Preview": 6
           }
         },
@@ -3945,8 +4134,8 @@
           "regionFlags": [],
           "skuCount": 347,
           "stateCounts": {
-            "Closing Down": 44,
-            "GA": 295,
+            "Closing Down": 45,
+            "GA": 294,
             "Preview": 8
           }
         },
@@ -3957,8 +4146,8 @@
           "regionFlags": [],
           "skuCount": 372,
           "stateCounts": {
-            "Closing Down": 46,
-            "GA": 318,
+            "Closing Down": 47,
+            "GA": 317,
             "Preview": 8
           }
         },
@@ -3969,8 +4158,8 @@
           "regionFlags": [],
           "skuCount": 356,
           "stateCounts": {
-            "Closing Down": 32,
-            "GA": 314,
+            "Closing Down": 33,
+            "GA": 313,
             "Preview": 10
           }
         },
@@ -3981,8 +4170,8 @@
           "regionFlags": [],
           "skuCount": 333,
           "stateCounts": {
-            "Closing Down": 38,
-            "GA": 287,
+            "Closing Down": 39,
+            "GA": 286,
             "Preview": 8
           }
         },
@@ -4005,8 +4194,8 @@
           "regionFlags": [],
           "skuCount": 363,
           "stateCounts": {
-            "Closing Down": 36,
-            "GA": 320,
+            "Closing Down": 37,
+            "GA": 319,
             "Preview": 7
           }
         },
@@ -4017,8 +4206,8 @@
           "regionFlags": [],
           "skuCount": 345,
           "stateCounts": {
-            "Closing Down": 31,
-            "GA": 305,
+            "Closing Down": 32,
+            "GA": 304,
             "Preview": 9
           }
         },
@@ -4041,8 +4230,8 @@
           "regionFlags": [],
           "skuCount": 337,
           "stateCounts": {
-            "Closing Down": 42,
-            "GA": 287,
+            "Closing Down": 43,
+            "GA": 286,
             "Preview": 8
           }
         },
@@ -4053,9 +4242,9 @@
           "regionFlags": [],
           "skuCount": 336,
           "stateCounts": {
-            "Closing Down": 35,
+            "Closing Down": 36,
             "GA": 294,
-            "Preview": 7
+            "Preview": 6
           }
         },
         {
@@ -4065,8 +4254,8 @@
           "regionFlags": [],
           "skuCount": 323,
           "stateCounts": {
-            "Closing Down": 35,
-            "GA": 280,
+            "Closing Down": 36,
+            "GA": 279,
             "Preview": 8
           }
         },
@@ -4077,8 +4266,8 @@
           "regionFlags": [],
           "skuCount": 332,
           "stateCounts": {
-            "Closing Down": 34,
-            "GA": 292,
+            "Closing Down": 35,
+            "GA": 291,
             "Preview": 6
           }
         },
@@ -4089,8 +4278,8 @@
           "regionFlags": [],
           "skuCount": 319,
           "stateCounts": {
-            "Closing Down": 33,
-            "GA": 280,
+            "Closing Down": 34,
+            "GA": 279,
             "Preview": 6
           }
         },
@@ -4109,7 +4298,7 @@
       ]
     }
   },
-  "generatedAt": "2026-10-18T20:45:53Z",
+  "generatedAt": "2026-10-19T22:22:12Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -14199,9 +14388,9 @@
   "schemaVersion": 1,
   "sources": {
     "availability": {
-      "contentLength": 3351176,
-      "etag": "W/\"017624ad5add1:0\"",
-      "lastModified": "Mon, 12 Oct 2026 05:48:22 GMT",
+      "contentLength": 3351436,
+      "etag": "W/\"0e5d325a15fdd1:0\"",
+      "lastModified": "Mon, 19 Oct 2026 08:09:22 GMT",
       "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
     },
     "prices": {
