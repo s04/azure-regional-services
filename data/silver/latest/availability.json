@@ -1,1216 +1,11 @@
 {
-  "dataHash": "8091feb5acc5ae5d2284eec8434bebc880a853a0d7be01e0613f280fed3d9b63",
+  "dataHash": "4efa574f7e378f30026e0fcd5974a1c087161b490f70f74350c594b02910e47c",
   "rows": [
     {
-      "geography": "Asia Pacific",
-      "offering": "API Management",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "API Management",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "API Management",
-      "region": "Australia Central",
-      "regionDisplayName": "Australia Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "API Management",
-      "region": "Australia Central 2",
-      "regionDisplayName": "Australia Central 2 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "API Management",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "API Management",
-      "region": "Australia Southeast",
-      "regionDisplayName": "Australia Southeast",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Austria",
-      "offering": "API Management",
-      "region": "Austria East",
-      "regionDisplayName": "Austria East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Belgium",
-      "offering": "API Management",
-      "region": "Belgium Central",
-      "regionDisplayName": "Belgium Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "API Management",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "API Management",
-      "region": "Brazil Southeast",
-      "regionDisplayName": "Brazil Southeast",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "API Management",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "API Management",
-      "region": "Canada East",
-      "regionDisplayName": "Canada East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Chile",
-      "offering": "API Management",
-      "region": "Chile Central",
-      "regionDisplayName": "Chile Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "API Management",
-      "region": "China East",
-      "regionDisplayName": "China East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "API Management",
-      "region": "China East 2",
-      "regionDisplayName": "China East 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "API Management",
-      "region": "China East 3",
-      "regionDisplayName": "China East 3 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "API Management",
-      "region": "China North",
-      "regionDisplayName": "China North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "API Management",
-      "region": "China North 2",
-      "regionDisplayName": "China North 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "API Management",
-      "region": "China North 3",
-      "regionDisplayName": "China North 3",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Denmark",
-      "offering": "API Management",
-      "region": "Denmark East",
-      "regionDisplayName": "Denmark East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "API Management",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "API Management",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "API Management",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "API Management",
-      "region": "France South",
-      "regionDisplayName": "France South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "API Management",
-      "region": "Germany North",
-      "regionDisplayName": "Germany North *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "API Management",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "API Management",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "API Management",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "API Management",
-      "region": "South India",
-      "regionDisplayName": "South India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "API Management",
-      "region": "West India",
-      "regionDisplayName": "West India *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Indonesia",
-      "offering": "API Management",
-      "region": "Indonesia Central",
-      "regionDisplayName": "Indonesia Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Israel",
-      "offering": "API Management",
-      "region": "Israel Central",
-      "regionDisplayName": "Israel Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Italy",
-      "offering": "API Management",
-      "region": "Italy North",
-      "regionDisplayName": "Italy North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "API Management",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "API Management",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "API Management",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "API Management",
-      "region": "Korea South",
-      "regionDisplayName": "Korea South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Malaysia",
-      "offering": "API Management",
-      "region": "Malaysia West",
-      "regionDisplayName": "Malaysia West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Mexico",
-      "offering": "API Management",
-      "region": "Mexico Central",
-      "regionDisplayName": "Mexico Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "New Zealand",
-      "offering": "API Management",
-      "region": "New Zealand North",
-      "regionDisplayName": "New Zealand North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "API Management",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "API Management",
-      "region": "Norway West",
-      "regionDisplayName": "Norway West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Poland",
-      "offering": "API Management",
-      "region": "Poland Central",
-      "regionDisplayName": "Poland Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Qatar",
-      "offering": "API Management",
-      "region": "Qatar Central",
-      "regionDisplayName": "Qatar Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "API Management",
-      "region": "South Africa North",
-      "regionDisplayName": "South Africa North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "API Management",
-      "region": "South Africa West",
-      "regionDisplayName": "South Africa West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Spain",
-      "offering": "API Management",
-      "region": "Spain Central",
-      "regionDisplayName": "Spain Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "API Management",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "API Management",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "API Management",
-      "region": "Switzerland West",
-      "regionDisplayName": "Switzerland West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "API Management",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "API Management",
-      "region": "UAE Central",
-      "regionDisplayName": "UAE Central *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "API Management",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "API Management",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "API Management",
-      "region": "UK West",
-      "regionDisplayName": "UK West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "API Management",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "API Management",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "API Management",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "API Management",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "API Management",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "API Management",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "API Management",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "API Management",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "API Management",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "App Service",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "App Service",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
-      "region": "Australia Central",
-      "regionDisplayName": "Australia Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
-      "region": "Australia Central 2",
-      "regionDisplayName": "Australia Central 2 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
-      "region": "Australia Southeast",
-      "regionDisplayName": "Australia Southeast",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Austria",
-      "offering": "App Service",
-      "region": "Austria East",
-      "regionDisplayName": "Austria East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Belgium",
-      "offering": "App Service",
-      "region": "Belgium Central",
-      "regionDisplayName": "Belgium Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "App Service",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "App Service",
-      "region": "Brazil Southeast",
-      "regionDisplayName": "Brazil Southeast",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "App Service",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "App Service",
-      "region": "Canada East",
-      "regionDisplayName": "Canada East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Chile",
-      "offering": "App Service",
-      "region": "Chile Central",
-      "regionDisplayName": "Chile Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China East",
-      "regionDisplayName": "China East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China East 2",
-      "regionDisplayName": "China East 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China East 3",
-      "regionDisplayName": "China East 3 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China North",
-      "regionDisplayName": "China North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China North 2",
-      "regionDisplayName": "China North 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China North 3",
-      "regionDisplayName": "China North 3",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Denmark",
-      "offering": "App Service",
-      "region": "Denmark East",
-      "regionDisplayName": "Denmark East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Europe",
       "offering": "App Service",
       "region": "North Europe",
       "regionDisplayName": "North Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "App Service",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "App Service",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "App Service",
-      "region": "France South",
-      "regionDisplayName": "France South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "App Service",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "South India",
-      "regionDisplayName": "South India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "West India",
-      "regionDisplayName": "West India *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Indonesia",
-      "offering": "App Service",
-      "region": "Indonesia Central",
-      "regionDisplayName": "Indonesia Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Israel",
-      "offering": "App Service",
-      "region": "Israel Central",
-      "regionDisplayName": "Israel Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Italy",
-      "offering": "App Service",
-      "region": "Italy North",
-      "regionDisplayName": "Italy North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "App Service",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "App Service",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "App Service",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "App Service",
-      "region": "Korea South",
-      "regionDisplayName": "Korea South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Malaysia",
-      "offering": "App Service",
-      "region": "Malaysia West",
-      "regionDisplayName": "Malaysia West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Mexico",
-      "offering": "App Service",
-      "region": "Mexico Central",
-      "regionDisplayName": "Mexico Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "New Zealand",
-      "offering": "App Service",
-      "region": "New Zealand North",
-      "regionDisplayName": "New Zealand North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "App Service",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "App Service",
-      "region": "Norway West",
-      "regionDisplayName": "Norway West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Poland",
-      "offering": "App Service",
-      "region": "Poland Central",
-      "regionDisplayName": "Poland Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Qatar",
-      "offering": "App Service",
-      "region": "Qatar Central",
-      "regionDisplayName": "Qatar Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "App Service",
-      "region": "South Africa North",
-      "regionDisplayName": "South Africa North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "App Service",
-      "region": "South Africa West",
-      "regionDisplayName": "South Africa West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Spain",
-      "offering": "App Service",
-      "region": "Spain Central",
-      "regionDisplayName": "Spain Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "App Service",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "App Service",
-      "region": "Sweden South",
-      "regionDisplayName": "Sweden South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "App Service",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "App Service",
-      "region": "Switzerland West",
-      "regionDisplayName": "Switzerland West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "App Service",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "App Service",
-      "region": "UAE Central",
-      "regionDisplayName": "UAE Central *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "App Service",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "App Service",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "App Service",
-      "region": "UK West",
-      "regionDisplayName": "UK West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "App Service",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "App Service",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
-      "region": "Australia Central",
-      "regionDisplayName": "Australia Central",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
-      "region": "Australia Central 2",
-      "regionDisplayName": "Australia Central 2 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
-      "region": "Australia Southeast",
-      "regionDisplayName": "Australia Southeast",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "App Service",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "App Service",
-      "region": "Brazil Southeast",
-      "regionDisplayName": "Brazil Southeast",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "App Service",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "App Service",
-      "region": "Canada East",
-      "regionDisplayName": "Canada East",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China East 2",
-      "regionDisplayName": "China East 2",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China North 2",
-      "regionDisplayName": "China North 2",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "App Service",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "App Service",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "App Service",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
       "sku": "App Service Environments",
       "state": "GA"
     },
@@ -1226,296 +21,11 @@
       "state": "GA"
     },
     {
-      "geography": "Germany",
-      "offering": "App Service",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "South India",
-      "regionDisplayName": "South India",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "West India",
-      "regionDisplayName": "West India *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "App Service",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "App Service",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "App Service",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "App Service",
-      "region": "Korea South",
-      "regionDisplayName": "Korea South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Malaysia",
-      "offering": "App Service",
-      "region": "Malaysia West",
-      "regionDisplayName": "Malaysia West",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "App Service",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "App Service",
-      "region": "Norway West",
-      "regionDisplayName": "Norway West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "App Service",
-      "region": "South Africa North",
-      "regionDisplayName": "South Africa North",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "App Service",
-      "region": "South Africa West",
-      "regionDisplayName": "South Africa West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "App Service",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "App Service",
-      "region": "Switzerland West",
-      "regionDisplayName": "Switzerland West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "App Service",
-      "region": "UAE Central",
-      "regionDisplayName": "UAE Central *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "App Service",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "App Service",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "App Service",
-      "region": "UK West",
-      "regionDisplayName": "UK West",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "App Service Environments",
-      "state": "GA"
-    },
-    {
       "geography": "Belgium",
       "offering": "App Service",
       "region": "Belgium Central",
       "regionDisplayName": "Belgium Central",
       "sku": "App Service Free",
-      "state": "GA"
-    },
-    {
-      "geography": "Indonesia",
-      "offering": "App Service",
-      "region": "Indonesia Central",
-      "regionDisplayName": "Indonesia Central",
-      "sku": "App Service Free",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "App Service",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "App Service Free",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "App Service",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "App Service Free",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "App Service Free",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "App Service",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "App Service Premium v3",
       "state": "GA"
     },
     {
@@ -1529,56 +39,8 @@
     {
       "geography": "Australia",
       "offering": "App Service",
-      "region": "Australia Central",
-      "regionDisplayName": "Australia Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
       "region": "Australia East",
       "regionDisplayName": "Australia East",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "App Service",
-      "region": "Australia Southeast",
-      "regionDisplayName": "Australia Southeast",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Austria",
-      "offering": "App Service",
-      "region": "Austria East",
-      "regionDisplayName": "Austria East",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Belgium",
-      "offering": "App Service",
-      "region": "Belgium Central",
-      "regionDisplayName": "Belgium Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "App Service",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "App Service",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
       "sku": "App Service Premium v3",
       "state": "GA"
     },
@@ -1591,204 +53,6 @@
       "state": "GA"
     },
     {
-      "geography": "Chile",
-      "offering": "App Service",
-      "region": "Chile Central",
-      "regionDisplayName": "Chile Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China East 3",
-      "regionDisplayName": "China East 3 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "App Service",
-      "region": "China North 3",
-      "regionDisplayName": "China North 3",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Denmark",
-      "offering": "App Service",
-      "region": "Denmark East",
-      "regionDisplayName": "Denmark East",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "App Service",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "App Service",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "App Service",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "App Service",
-      "region": "Germany North",
-      "regionDisplayName": "Germany North *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "App Service",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "App Service",
-      "region": "South India",
-      "regionDisplayName": "South India",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Indonesia",
-      "offering": "App Service",
-      "region": "Indonesia Central",
-      "regionDisplayName": "Indonesia Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Israel",
-      "offering": "App Service",
-      "region": "Israel Central",
-      "regionDisplayName": "Israel Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Italy",
-      "offering": "App Service",
-      "region": "Italy North",
-      "regionDisplayName": "Italy North",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "App Service",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "App Service",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "App Service",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Malaysia",
-      "offering": "App Service",
-      "region": "Malaysia West",
-      "regionDisplayName": "Malaysia West",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Mexico",
-      "offering": "App Service",
-      "region": "Mexico Central",
-      "regionDisplayName": "Mexico Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "New Zealand",
-      "offering": "App Service",
-      "region": "New Zealand North",
-      "regionDisplayName": "New Zealand North",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "App Service",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Poland",
-      "offering": "App Service",
-      "region": "Poland Central",
-      "regionDisplayName": "Poland Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Qatar",
-      "offering": "App Service",
-      "region": "Qatar Central",
-      "regionDisplayName": "Qatar Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
       "geography": "South Africa",
       "offering": "App Service",
       "region": "South Africa North",
@@ -1797,72 +61,10 @@
       "state": "GA"
     },
     {
-      "geography": "Spain",
-      "offering": "App Service",
-      "region": "Spain Central",
-      "regionDisplayName": "Spain Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "App Service",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "App Service",
-      "region": "Sweden South",
-      "regionDisplayName": "Sweden South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "App Service",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "App Service",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "App Service",
       "region": "UAE North",
       "regionDisplayName": "UAE North",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "App Service",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "App Service",
-      "region": "UK West",
-      "regionDisplayName": "UK West",
       "sku": "App Service Premium v3",
       "state": "GA"
     },
@@ -1877,148 +79,9 @@
     {
       "geography": "United States",
       "offering": "App Service",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
       "region": "North Central US",
       "regionDisplayName": "North Central US",
       "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "App Service Premium v3",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Application Gateway",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Application Gateway",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Application Gateway",
-      "region": "Australia Central",
-      "regionDisplayName": "Australia Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Application Gateway",
-      "region": "Australia Central 2",
-      "regionDisplayName": "Australia Central 2 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Application Gateway",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Application Gateway",
-      "region": "Australia Southeast",
-      "regionDisplayName": "Australia Southeast",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Austria",
-      "offering": "Application Gateway",
-      "region": "Austria East",
-      "regionDisplayName": "Austria East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Belgium",
-      "offering": "Application Gateway",
-      "region": "Belgium Central",
-      "regionDisplayName": "Belgium Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Application Gateway",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Application Gateway",
-      "region": "Brazil Southeast",
-      "regionDisplayName": "Brazil Southeast",
-      "sku": "",
       "state": "GA"
     },
     {
@@ -2026,22 +89,6 @@
       "offering": "Application Gateway",
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Application Gateway",
-      "region": "Canada East",
-      "regionDisplayName": "Canada East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Chile",
-      "offering": "Application Gateway",
-      "region": "Chile Central",
-      "regionDisplayName": "Chile Central",
       "sku": "",
       "state": "GA"
     },
@@ -2056,43 +103,8 @@
     {
       "geography": "China (operated by 21Vianet)",
       "offering": "Application Gateway",
-      "region": "China East 2",
-      "regionDisplayName": "China East 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Application Gateway",
-      "region": "China East 3",
-      "regionDisplayName": "China East 3 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Application Gateway",
       "region": "China North",
       "regionDisplayName": "China North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Application Gateway",
-      "region": "China North 2",
-      "regionDisplayName": "China North 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Application Gateway",
-      "region": "China North 3",
-      "regionDisplayName": "China North 3",
       "sku": "",
       "state": "GA"
     },
@@ -2105,30 +117,6 @@
       "state": "GA"
     },
     {
-      "geography": "Europe",
-      "offering": "Application Gateway",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Application Gateway",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "Application Gateway",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "France",
       "offering": "Application Gateway",
       "region": "France South",
@@ -2136,76 +124,6 @@
       "regionFlags": [
         "restricted_access"
       ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "Application Gateway",
-      "region": "Germany North",
-      "regionDisplayName": "Germany North *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "Application Gateway",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Application Gateway",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Application Gateway",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Application Gateway",
-      "region": "South India",
-      "regionDisplayName": "South India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Application Gateway",
-      "region": "West India",
-      "regionDisplayName": "West India *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Indonesia",
-      "offering": "Application Gateway",
-      "region": "Indonesia Central",
-      "regionDisplayName": "Indonesia Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Israel",
-      "offering": "Application Gateway",
-      "region": "Israel Central",
-      "regionDisplayName": "Israel Central",
       "sku": "",
       "state": "GA"
     },
@@ -2220,86 +138,8 @@
     {
       "geography": "Japan",
       "offering": "Application Gateway",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Application Gateway",
       "region": "Japan West",
       "regionDisplayName": "Japan West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Application Gateway",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Application Gateway",
-      "region": "Korea South",
-      "regionDisplayName": "Korea South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Malaysia",
-      "offering": "Application Gateway",
-      "region": "Malaysia West",
-      "regionDisplayName": "Malaysia West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Mexico",
-      "offering": "Application Gateway",
-      "region": "Mexico Central",
-      "regionDisplayName": "Mexico Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "New Zealand",
-      "offering": "Application Gateway",
-      "region": "New Zealand North",
-      "regionDisplayName": "New Zealand North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Application Gateway",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Application Gateway",
-      "region": "Norway West",
-      "regionDisplayName": "Norway West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Poland",
-      "offering": "Application Gateway",
-      "region": "Poland Central",
-      "regionDisplayName": "Poland Central",
       "sku": "",
       "state": "GA"
     },
@@ -2308,71 +148,6 @@
       "offering": "Application Gateway",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "Application Gateway",
-      "region": "South Africa North",
-      "regionDisplayName": "South Africa North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "Application Gateway",
-      "region": "South Africa West",
-      "regionDisplayName": "South Africa West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Spain",
-      "offering": "Application Gateway",
-      "region": "Spain Central",
-      "regionDisplayName": "Spain Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Application Gateway",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Application Gateway",
-      "region": "Sweden South",
-      "regionDisplayName": "Sweden South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Application Gateway",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Application Gateway",
-      "region": "Switzerland West",
-      "regionDisplayName": "Switzerland West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
       "sku": "",
       "state": "GA"
     },
@@ -2388,166 +163,11 @@
       "state": "GA"
     },
     {
-      "geography": "United Arab Emirates",
-      "offering": "Application Gateway",
-      "region": "UAE Central",
-      "regionDisplayName": "UAE Central *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Application Gateway",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "United Kingdom",
       "offering": "Application Gateway",
       "region": "UK South",
       "regionDisplayName": "UK South",
       "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Application Gateway",
-      "region": "UK West",
-      "regionDisplayName": "UK West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Application Gateway",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Application Gateway",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Application Gateway",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Application Gateway",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Application Gateway",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Application Gateway",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Application Gateway",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "Application Gateway",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "Application Gateway for Containers",
       "state": "GA"
     },
     {
@@ -2567,106 +187,10 @@
       "state": "GA"
     },
     {
-      "geography": "Japan",
-      "offering": "Application Gateway",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Application Gateway",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Application Gateway",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
       "geography": "Sweden",
       "offering": "Application Gateway",
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Application Gateway",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Application Gateway",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Application Gateway",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "West US",
-      "regionDisplayName": "West US",
       "sku": "Application Gateway for Containers",
       "state": "GA"
     },
@@ -2679,85 +203,10 @@
       "state": "GA"
     },
     {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "Application Gateway for Containers",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Application Gateway",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Application Gateway",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Application Gateway",
-      "region": "Australia Central 2",
-      "regionDisplayName": "Australia Central 2 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Application Gateway",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Application Gateway",
-      "region": "Australia Southeast",
-      "regionDisplayName": "Australia Southeast",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Austria",
-      "offering": "Application Gateway",
-      "region": "Austria East",
-      "regionDisplayName": "Austria East",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
       "geography": "Belgium",
       "offering": "Application Gateway",
       "region": "Belgium Central",
       "regionDisplayName": "Belgium Central",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Application Gateway",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Application Gateway",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
       "sku": "Application Gateway v2",
       "state": "GA"
     },
@@ -2770,61 +219,10 @@
       "state": "GA"
     },
     {
-      "geography": "Chile",
+      "geography": "Denmark",
       "offering": "Application Gateway",
-      "region": "Chile Central",
-      "regionDisplayName": "Chile Central",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Application Gateway",
-      "region": "China East 2",
-      "regionDisplayName": "China East 2",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Application Gateway",
-      "region": "China East 3",
-      "regionDisplayName": "China East 3 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Application Gateway",
-      "region": "China North 2",
-      "regionDisplayName": "China North 2",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Application Gateway",
-      "region": "China North 3",
-      "regionDisplayName": "China North 3",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Application Gateway",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Application Gateway",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "Application Gateway v2",
       "state": "GA"
     },
@@ -2837,88 +235,10 @@
       "state": "GA"
     },
     {
-      "geography": "France",
-      "offering": "Application Gateway",
-      "region": "France South",
-      "regionDisplayName": "France South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "Preview"
-    },
-    {
       "geography": "Germany",
       "offering": "Application Gateway",
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Application Gateway",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Application Gateway",
-      "region": "India South Central",
-      "regionDisplayName": "India South Central",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Application Gateway",
-      "region": "South India",
-      "regionDisplayName": "South India",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Application Gateway",
-      "region": "West India",
-      "regionDisplayName": "West India *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Indonesia",
-      "offering": "Application Gateway",
-      "region": "Indonesia Central",
-      "regionDisplayName": "Indonesia Central",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Israel",
-      "offering": "Application Gateway",
-      "region": "Israel Central",
-      "regionDisplayName": "Israel Central",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Application Gateway",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Application Gateway",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
       "sku": "Application Gateway v2",
       "state": "GA"
     },
@@ -2931,25 +251,6 @@
       "state": "GA"
     },
     {
-      "geography": "Korea",
-      "offering": "Application Gateway",
-      "region": "Korea South",
-      "regionDisplayName": "Korea South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Malaysia",
-      "offering": "Application Gateway",
-      "region": "Malaysia West",
-      "regionDisplayName": "Malaysia West",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
       "geography": "Norway",
       "offering": "Application Gateway",
       "region": "Norway East",
@@ -2958,94 +259,10 @@
       "state": "GA"
     },
     {
-      "geography": "Norway",
-      "offering": "Application Gateway",
-      "region": "Norway West",
-      "regionDisplayName": "Norway West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Poland",
-      "offering": "Application Gateway",
-      "region": "Poland Central",
-      "regionDisplayName": "Poland Central",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Qatar",
-      "offering": "Application Gateway",
-      "region": "Qatar Central",
-      "regionDisplayName": "Qatar Central",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "Application Gateway",
-      "region": "South Africa North",
-      "regionDisplayName": "South Africa North",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "Application Gateway",
-      "region": "South Africa West",
-      "regionDisplayName": "South Africa West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Application Gateway",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Application Gateway",
-      "region": "Sweden South",
-      "regionDisplayName": "Sweden South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
       "geography": "Switzerland",
       "offering": "Application Gateway",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Application Gateway",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Application Gateway",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
       "sku": "Application Gateway v2",
       "state": "GA"
     },
@@ -3060,22 +277,6 @@
     {
       "geography": "United States",
       "offering": "Application Gateway",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Application Gateway v2",
@@ -3084,82 +285,10 @@
     {
       "geography": "United States",
       "offering": "Application Gateway",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
       "region": "West US",
       "regionDisplayName": "West US",
       "sku": "Application Gateway v2",
       "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Application Gateway",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Artifact Signing",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "",
-      "state": "Preview"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Artifact Signing",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "",
-      "state": "Preview"
-    },
-    {
-      "geography": "United States",
-      "offering": "Artifact Signing",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "",
-      "state": "Preview"
-    },
-    {
-      "geography": "United States",
-      "offering": "Artifact Signing",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "",
-      "state": "Preview"
-    },
-    {
-      "geography": "United States",
-      "offering": "Artifact Signing",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "",
-      "state": "Preview"
     },
     {
       "geography": "United States",
@@ -3168,22 +297,6 @@
       "regionDisplayName": "West US 2",
       "sku": "",
       "state": "Preview"
-    },
-    {
-      "geography": "United States",
-      "offering": "Artifact Signing",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "",
-      "state": "Preview"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Automation",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "",
-      "state": "GA"
     },
     {
       "geography": "Asia Pacific",
@@ -3202,88 +315,10 @@
       "state": "GA"
     },
     {
-      "geography": "Australia",
-      "offering": "Automation",
-      "region": "Australia Central 2",
-      "regionDisplayName": "Australia Central 2 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Automation",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Automation",
-      "region": "Australia Southeast",
-      "regionDisplayName": "Australia Southeast",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Automation",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Automation",
-      "region": "Brazil Southeast",
-      "regionDisplayName": "Brazil Southeast",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Canada",
       "offering": "Automation",
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Automation",
-      "region": "Canada East",
-      "regionDisplayName": "Canada East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Automation",
-      "region": "China East 2",
-      "regionDisplayName": "China East 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Automation",
-      "region": "China East 3",
-      "regionDisplayName": "China East 3 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Automation",
-      "region": "China North",
-      "regionDisplayName": "China North",
       "sku": "",
       "state": "GA"
     },
@@ -3296,26 +331,10 @@
       "state": "GA"
     },
     {
-      "geography": "China (operated by 21Vianet)",
+      "geography": "Denmark",
       "offering": "Automation",
-      "region": "China North 3",
-      "regionDisplayName": "China North 3",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Automation",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Automation",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "",
       "state": "GA"
     },
@@ -3328,64 +347,10 @@
       "state": "GA"
     },
     {
-      "geography": "France",
-      "offering": "Automation",
-      "region": "France South",
-      "regionDisplayName": "France South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "Automation",
-      "region": "Germany North",
-      "regionDisplayName": "Germany North *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Germany",
       "offering": "Automation",
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Automation",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Automation",
-      "region": "South India",
-      "regionDisplayName": "South India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Israel",
-      "offering": "Automation",
-      "region": "Israel Central",
-      "regionDisplayName": "Israel Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Italy",
-      "offering": "Automation",
-      "region": "Italy North",
-      "regionDisplayName": "Italy North",
       "sku": "",
       "state": "GA"
     },
@@ -3398,33 +363,6 @@
       "state": "GA"
     },
     {
-      "geography": "Japan",
-      "offering": "Automation",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Automation",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Automation",
-      "region": "Korea South",
-      "regionDisplayName": "Korea South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Norway",
       "offering": "Automation",
       "region": "Norway East",
@@ -3433,37 +371,10 @@
       "state": "GA"
     },
     {
-      "geography": "Norway",
-      "offering": "Automation",
-      "region": "Norway West",
-      "regionDisplayName": "Norway West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Poland",
-      "offering": "Automation",
-      "region": "Poland Central",
-      "regionDisplayName": "Poland Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Qatar",
       "offering": "Automation",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "Automation",
-      "region": "South Africa North",
-      "regionDisplayName": "South Africa North",
       "sku": "",
       "state": "GA"
     },
@@ -3479,41 +390,6 @@
       "state": "GA"
     },
     {
-      "geography": "Spain",
-      "offering": "Automation",
-      "region": "Spain Central",
-      "regionDisplayName": "Spain Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Automation",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Automation",
-      "region": "Sweden South",
-      "regionDisplayName": "Sweden South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Automation",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Switzerland",
       "offering": "Automation",
       "region": "Switzerland West",
@@ -3521,76 +397,6 @@
       "regionFlags": [
         "restricted_access"
       ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Automation",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Automation",
-      "region": "UAE Central",
-      "regionDisplayName": "UAE Central *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Automation",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Automation",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Automation",
-      "region": "UK West",
-      "regionDisplayName": "UK West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
       "sku": "",
       "state": "GA"
     },
@@ -3605,104 +411,16 @@
     {
       "geography": "United States",
       "offering": "Automation",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
       "region": "West Central US",
       "regionDisplayName": "West Central US",
       "sku": "",
       "state": "GA"
     },
     {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Automation",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Automation",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
       "geography": "Australia",
       "offering": "Automation",
       "region": "Australia East",
       "regionDisplayName": "Australia East",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Automation",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Automation",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Automation",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Automation",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "France",
-      "offering": "Automation",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
       "sku": "Change Tracking",
       "state": "Closing Down"
     },
@@ -3723,30 +441,6 @@
       "state": "Closing Down"
     },
     {
-      "geography": "Japan",
-      "offering": "Automation",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Automation",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Automation",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
       "geography": "Sweden",
       "offering": "Automation",
       "region": "Sweden Central",
@@ -3755,50 +449,10 @@
       "state": "Closing Down"
     },
     {
-      "geography": "Switzerland",
-      "offering": "Automation",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Automation",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
       "geography": "United Kingdom",
       "offering": "Automation",
       "region": "UK South",
       "regionDisplayName": "UK South",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
       "sku": "Change Tracking",
       "state": "Closing Down"
     },
@@ -3817,70 +471,6 @@
       "regionDisplayName": "South Central US",
       "sku": "Change Tracking",
       "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
-      "sku": "Change Tracking",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Automation",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Automation",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Automation",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "Brazil",
-      "offering": "Automation",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Automation",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "Update Management",
-      "state": "GA"
     },
     {
       "geography": "China (operated by 21Vianet)",
@@ -3907,42 +497,10 @@
       "state": "GA"
     },
     {
-      "geography": "France",
-      "offering": "Automation",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Automation",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Automation",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
       "geography": "Korea",
       "offering": "Automation",
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Automation",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
       "sku": "Update Management",
       "state": "GA"
     },
@@ -3959,78 +517,6 @@
       "offering": "Automation",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Automation",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Automation",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "Update Management",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Automation",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
       "sku": "Update Management",
       "state": "GA"
     },
@@ -4051,46 +537,6 @@
       "state": "GA"
     },
     {
-      "geography": "",
-      "offering": "Azure Advisor",
-      "region": "Non Regional",
-      "regionDisplayName": "Non Regional",
-      "sku": "Azure Advisor Score",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Azure AI Search",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Azure AI Search",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Azure AI Search",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Azure AI Search",
-      "region": "Australia Southeast",
-      "regionDisplayName": "Australia Southeast",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Austria",
       "offering": "Azure AI Search",
       "region": "Austria East",
@@ -4115,38 +561,6 @@
       "state": "GA"
     },
     {
-      "geography": "Canada",
-      "offering": "Azure AI Search",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Azure AI Search",
-      "region": "Canada East",
-      "regionDisplayName": "Canada East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Chile",
-      "offering": "Azure AI Search",
-      "region": "Chile Central",
-      "regionDisplayName": "Chile Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Azure AI Search",
-      "region": "China East 2",
-      "regionDisplayName": "China East 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "China (operated by 21Vianet)",
       "offering": "Azure AI Search",
       "region": "China East 3",
@@ -4158,69 +572,10 @@
       "state": "GA"
     },
     {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Azure AI Search",
-      "region": "China North 2",
-      "regionDisplayName": "China North 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Azure AI Search",
-      "region": "China North 3",
-      "regionDisplayName": "China North 3",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Denmark",
       "offering": "Azure AI Search",
       "region": "Denmark East",
       "regionDisplayName": "Denmark East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Azure AI Search",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Azure AI Search",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "Azure AI Search",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "Azure AI Search",
-      "region": "Germany North",
-      "regionDisplayName": "Germany North *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "Azure AI Search",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
       "sku": "",
       "state": "GA"
     },
@@ -4273,30 +628,6 @@
       "state": "GA"
     },
     {
-      "geography": "Japan",
-      "offering": "Azure AI Search",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Azure AI Search",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Azure AI Search",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Korea",
       "offering": "Azure AI Search",
       "region": "Korea South",
@@ -4304,22 +635,6 @@
       "regionFlags": [
         "restricted_access"
       ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Malaysia",
-      "offering": "Azure AI Search",
-      "region": "Malaysia West",
-      "regionDisplayName": "Malaysia West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Mexico",
-      "offering": "Azure AI Search",
-      "region": "Mexico Central",
-      "regionDisplayName": "Mexico Central",
       "sku": "",
       "state": "GA"
     },
@@ -4332,69 +647,10 @@
       "state": "GA"
     },
     {
-      "geography": "Norway",
-      "offering": "Azure AI Search",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Poland",
-      "offering": "Azure AI Search",
-      "region": "Poland Central",
-      "regionDisplayName": "Poland Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Qatar",
-      "offering": "Azure AI Search",
-      "region": "Qatar Central",
-      "regionDisplayName": "Qatar Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "Azure AI Search",
-      "region": "South Africa North",
-      "regionDisplayName": "South Africa North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Spain",
-      "offering": "Azure AI Search",
-      "region": "Spain Central",
-      "regionDisplayName": "Spain Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Azure AI Search",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Switzerland",
       "offering": "Azure AI Search",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Azure AI Search",
-      "region": "Switzerland West",
-      "regionDisplayName": "Switzerland West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
       "sku": "",
       "state": "GA"
     },
@@ -4410,22 +666,6 @@
       "state": "GA"
     },
     {
-      "geography": "United Arab Emirates",
-      "offering": "Azure AI Search",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Azure AI Search",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "United Kingdom",
       "offering": "Azure AI Search",
       "region": "UK West",
@@ -4436,64 +676,8 @@
     {
       "geography": "United States",
       "offering": "Azure AI Search",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
       "sku": "",
       "state": "GA"
     },
@@ -4514,14 +698,6 @@
       "state": "GA"
     },
     {
-      "geography": "Asia Pacific",
-      "offering": "Azure AI Search",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
       "geography": "Australia",
       "offering": "Azure AI Search",
       "region": "Australia East",
@@ -4530,34 +706,10 @@
       "state": "GA"
     },
     {
-      "geography": "Brazil",
-      "offering": "Azure AI Search",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Azure AI Search",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
       "geography": "China (operated by 21Vianet)",
       "offering": "Azure AI Search",
       "region": "China East 2",
       "regionDisplayName": "China East 2",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Azure AI Search",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
       "sku": "AI Enrichment",
       "state": "GA"
     },
@@ -4578,42 +730,10 @@
       "state": "GA"
     },
     {
-      "geography": "Germany",
-      "offering": "Azure AI Search",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Azure AI Search",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Azure AI Search",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
       "geography": "Japan",
       "offering": "Azure AI Search",
       "region": "Japan West",
       "regionDisplayName": "Japan West",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Azure AI Search",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
       "sku": "AI Enrichment",
       "state": "GA"
     },
@@ -4642,49 +762,6 @@
       "state": "GA"
     },
     {
-      "geography": "Switzerland",
-      "offering": "Azure AI Search",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Azure AI Search",
-      "region": "Switzerland West",
-      "regionDisplayName": "Switzerland West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Azure AI Search",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Azure AI Search",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
       "geography": "United States",
       "offering": "Azure AI Search",
       "region": "East US",
@@ -4695,48 +772,8 @@
     {
       "geography": "United States",
       "offering": "Azure AI Search",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
       "region": "North Central US",
       "regionDisplayName": "North Central US",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "West US",
-      "regionDisplayName": "West US",
-      "sku": "AI Enrichment",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
       "sku": "AI Enrichment",
       "state": "GA"
     },
@@ -4757,42 +794,10 @@
       "state": "GA"
     },
     {
-      "geography": "Asia Pacific",
-      "offering": "Azure AI Search",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Azure AI Search",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Azure AI Search",
-      "region": "Australia Southeast",
-      "regionDisplayName": "Australia Southeast",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
       "geography": "Brazil",
       "offering": "Azure AI Search",
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "Canada",
-      "offering": "Azure AI Search",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
       "sku": "Semantic Ranker",
       "state": "GA"
     },
@@ -4829,14 +834,6 @@
       "state": "GA"
     },
     {
-      "geography": "France",
-      "offering": "Azure AI Search",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
       "geography": "Germany",
       "offering": "Azure AI Search",
       "region": "Germany West Central",
@@ -4853,34 +850,10 @@
       "state": "GA"
     },
     {
-      "geography": "Italy",
-      "offering": "Azure AI Search",
-      "region": "Italy North",
-      "regionDisplayName": "Italy North",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "Japan",
-      "offering": "Azure AI Search",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
       "geography": "Japan",
       "offering": "Azure AI Search",
       "region": "Japan West",
       "regionDisplayName": "Japan West",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Azure AI Search",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
       "sku": "Semantic Ranker",
       "state": "GA"
     },
@@ -4896,22 +869,6 @@
       "state": "GA"
     },
     {
-      "geography": "Poland",
-      "offering": "Azure AI Search",
-      "region": "Poland Central",
-      "regionDisplayName": "Poland Central",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "Qatar",
-      "offering": "Azure AI Search",
-      "region": "Qatar Central",
-      "regionDisplayName": "Qatar Central",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
       "geography": "Sweden",
       "offering": "Azure AI Search",
       "region": "Sweden Central",
@@ -4920,61 +877,10 @@
       "state": "GA"
     },
     {
-      "geography": "Switzerland",
-      "offering": "Azure AI Search",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Azure AI Search",
-      "region": "Switzerland West",
-      "regionDisplayName": "Switzerland West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
       "geography": "United Kingdom",
       "offering": "Azure AI Search",
       "region": "UK South",
       "regionDisplayName": "UK South",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Azure AI Search",
-      "region": "UK West",
-      "regionDisplayName": "UK West",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "Central US",
-      "regionDisplayName": "Central US",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
       "sku": "Semantic Ranker",
       "state": "GA"
     },
@@ -4997,24 +903,8 @@
     {
       "geography": "United States",
       "offering": "Azure AI Search",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
       "region": "West US",
       "regionDisplayName": "West US",
-      "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure AI Search",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
       "sku": "Semantic Ranker",
       "state": "GA"
     },
@@ -5024,14 +914,6 @@
       "region": "West US 3",
       "regionDisplayName": "West US 3",
       "sku": "Semantic Ranker",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Azure Analysis Services",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "",
       "state": "GA"
     },
     {
@@ -5059,14 +941,6 @@
       "state": "GA"
     },
     {
-      "geography": "Brazil",
-      "offering": "Azure Analysis Services",
-      "region": "Brazil South",
-      "regionDisplayName": "Brazil South",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Canada",
       "offering": "Azure Analysis Services",
       "region": "Canada Central",
@@ -5079,41 +953,6 @@
       "offering": "Azure Analysis Services",
       "region": "China East 2",
       "regionDisplayName": "China East 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Azure Analysis Services",
-      "region": "China North",
-      "regionDisplayName": "China North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Azure Analysis Services",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Azure Analysis Services",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Azure Analysis Services",
-      "region": "West India",
-      "regionDisplayName": "West India *",
-      "regionFlags": [
-        "restricted_access"
-      ],
       "sku": "",
       "state": "GA"
     },
@@ -5141,14 +980,6 @@
       "regionFlags": [
         "early_access"
       ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Azure Analysis Services",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
       "sku": "",
       "state": "GA"
     },
@@ -5221,33 +1052,6 @@
       "offering": "Azure App Configuration",
       "region": "East Asia",
       "regionDisplayName": "East Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Azure App Configuration",
-      "region": "Southeast Asia",
-      "regionDisplayName": "Southeast Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Azure App Configuration",
-      "region": "Australia Central",
-      "regionDisplayName": "Australia Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Azure App Configuration",
-      "region": "Australia Central 2",
-      "regionDisplayName": "Australia Central 2 *",
-      "regionFlags": [
-        "restricted_access"
-      ],
       "sku": "",
       "state": "GA"
     },
@@ -5308,22 +1112,6 @@
       "state": "GA"
     },
     {
-      "geography": "Canada",
-      "offering": "Azure App Configuration",
-      "region": "Canada East",
-      "regionDisplayName": "Canada East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Chile",
-      "offering": "Azure App Configuration",
-      "region": "Chile Central",
-      "regionDisplayName": "Chile Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "China (operated by 21Vianet)",
       "offering": "Azure App Configuration",
       "region": "China East 2",
@@ -5345,14 +1133,6 @@
     {
       "geography": "China (operated by 21Vianet)",
       "offering": "Azure App Configuration",
-      "region": "China North 2",
-      "regionDisplayName": "China North 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "China (operated by 21Vianet)",
-      "offering": "Azure App Configuration",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
       "sku": "",
@@ -5363,14 +1143,6 @@
       "offering": "Azure App Configuration",
       "region": "Denmark East",
       "regionDisplayName": "Denmark East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Europe",
-      "offering": "Azure App Configuration",
-      "region": "North Europe",
-      "regionDisplayName": "North Europe",
       "sku": "",
       "state": "GA"
     },
@@ -5421,22 +1193,6 @@
       "state": "GA"
     },
     {
-      "geography": "India",
-      "offering": "Azure App Configuration",
-      "region": "Central India",
-      "regionDisplayName": "Central India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "India",
-      "offering": "Azure App Configuration",
-      "region": "South India",
-      "regionDisplayName": "South India",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Indonesia",
       "offering": "Azure App Configuration",
       "region": "Indonesia Central",
@@ -5449,14 +1205,6 @@
       "offering": "Azure App Configuration",
       "region": "Israel Central",
       "regionDisplayName": "Israel Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Italy",
-      "offering": "Azure App Configuration",
-      "region": "Italy North",
-      "regionDisplayName": "Italy North",
       "sku": "",
       "state": "GA"
     },
@@ -5477,25 +1225,6 @@
       "state": "GA"
     },
     {
-      "geography": "Korea",
-      "offering": "Azure App Configuration",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Korea",
-      "offering": "Azure App Configuration",
-      "region": "Korea South",
-      "regionDisplayName": "Korea South *",
-      "regionFlags": [
-        "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Malaysia",
       "offering": "Azure App Configuration",
       "region": "Malaysia West",
@@ -5504,37 +1233,10 @@
       "state": "GA"
     },
     {
-      "geography": "Mexico",
-      "offering": "Azure App Configuration",
-      "region": "Mexico Central",
-      "regionDisplayName": "Mexico Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "New Zealand",
       "offering": "Azure App Configuration",
       "region": "New Zealand North",
       "regionDisplayName": "New Zealand North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Azure App Configuration",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Azure App Configuration",
-      "region": "Norway West",
-      "regionDisplayName": "Norway West *",
-      "regionFlags": [
-        "restricted_access"
-      ],
       "sku": "",
       "state": "GA"
     },
@@ -5551,14 +1253,6 @@
       "offering": "Azure App Configuration",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "South Africa",
-      "offering": "Azure App Configuration",
-      "region": "South Africa North",
-      "regionDisplayName": "South Africa North",
       "sku": "",
       "state": "GA"
     },
@@ -5620,17 +1314,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Azure App Configuration",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Azure App Configuration",
       "region": "UAE Central",
@@ -5638,14 +1321,6 @@
       "regionFlags": [
         "restricted_access"
       ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United Arab Emirates",
-      "offering": "Azure App Configuration",
-      "region": "UAE North",
-      "regionDisplayName": "UAE North",
       "sku": "",
       "state": "GA"
     },
@@ -5676,14 +1351,6 @@
     {
       "geography": "United States",
       "offering": "Azure App Configuration",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure App Configuration",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "",
@@ -5708,32 +1375,8 @@
     {
       "geography": "United States",
       "offering": "Azure App Configuration",
-      "region": "West Central US",
-      "regionDisplayName": "West Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure App Configuration",
       "region": "West US",
       "regionDisplayName": "West US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure App Configuration",
-      "region": "West US 2",
-      "regionDisplayName": "West US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure App Configuration",
-      "region": "West US 3",
-      "regionDisplayName": "West US 3",
       "sku": "",
       "state": "GA"
     },
@@ -5794,14 +1437,6 @@
       "state": "GA"
     },
     {
-      "geography": "Canada",
-      "offering": "Azure App Testing",
-      "region": "Canada Central",
-      "regionDisplayName": "Canada Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Europe",
       "offering": "Azure App Testing",
       "region": "North Europe",
@@ -5874,14 +1509,6 @@
       "state": "GA"
     },
     {
-      "geography": "Switzerland",
-      "offering": "Azure App Testing",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "United Kingdom",
       "offering": "Azure App Testing",
       "region": "UK South",
@@ -5894,14 +1521,6 @@
       "offering": "Azure App Testing",
       "region": "Central US",
       "regionDisplayName": "Central US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure App Testing",
-      "region": "East US",
-      "regionDisplayName": "East US",
       "sku": "",
       "state": "GA"
     },
@@ -5962,22 +1581,6 @@
       "state": "GA"
     },
     {
-      "geography": "Japan",
-      "offering": "Azure App Testing",
-      "region": "Japan East",
-      "regionDisplayName": "Japan East",
-      "sku": "Playwright Workspaces",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Azure App Testing",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "Playwright Workspaces",
-      "state": "GA"
-    },
-    {
       "geography": "United States",
       "offering": "Azure App Testing",
       "region": "East US",
@@ -6006,14 +1609,6 @@
       "offering": "Azure Applied AI Services",
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
-      "sku": "Azure AI Document Intelligence",
-      "state": "GA"
-    },
-    {
-      "geography": "Australia",
-      "offering": "Azure Applied AI Services",
-      "region": "Australia East",
-      "regionDisplayName": "Australia East",
       "sku": "Azure AI Document Intelligence",
       "state": "GA"
     },
@@ -6122,22 +1717,6 @@
       "state": "GA"
     },
     {
-      "geography": "Korea",
-      "offering": "Azure Applied AI Services",
-      "region": "Korea Central",
-      "regionDisplayName": "Korea Central",
-      "sku": "Azure AI Document Intelligence",
-      "state": "GA"
-    },
-    {
-      "geography": "Norway",
-      "offering": "Azure Applied AI Services",
-      "region": "Norway East",
-      "regionDisplayName": "Norway East",
-      "sku": "Azure AI Document Intelligence",
-      "state": "GA"
-    },
-    {
       "geography": "Qatar",
       "offering": "Azure Applied AI Services",
       "region": "Qatar Central",
@@ -6164,14 +1743,6 @@
     {
       "geography": "Switzerland",
       "offering": "Azure Applied AI Services",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
-      "sku": "Azure AI Document Intelligence",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Azure Applied AI Services",
       "region": "Switzerland West",
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
@@ -6185,14 +1756,6 @@
       "offering": "Azure Applied AI Services",
       "region": "UAE North",
       "regionDisplayName": "UAE North",
-      "sku": "Azure AI Document Intelligence",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Azure Applied AI Services",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
       "sku": "Azure AI Document Intelligence",
       "state": "GA"
     },
@@ -6225,14 +1788,6 @@
       "offering": "Azure Applied AI Services",
       "region": "North Central US",
       "regionDisplayName": "North Central US",
-      "sku": "Azure AI Document Intelligence",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure Applied AI Services",
-      "region": "South Central US",
-      "regionDisplayName": "South Central US",
       "sku": "Azure AI Document Intelligence",
       "state": "GA"
     },
@@ -6317,22 +1872,6 @@
       "state": "GA"
     },
     {
-      "geography": "Europe",
-      "offering": "Azure Applied AI Services",
-      "region": "West Europe",
-      "regionDisplayName": "West Europe",
-      "sku": "Azure AI Immersive Reader",
-      "state": "GA"
-    },
-    {
-      "geography": "France",
-      "offering": "Azure Applied AI Services",
-      "region": "France Central",
-      "regionDisplayName": "France Central",
-      "sku": "Azure AI Immersive Reader",
-      "state": "GA"
-    },
-    {
       "geography": "Germany",
       "offering": "Azure Applied AI Services",
       "region": "Germany West Central",
@@ -6357,14 +1896,6 @@
       "state": "GA"
     },
     {
-      "geography": "Japan",
-      "offering": "Azure Applied AI Services",
-      "region": "Japan West",
-      "regionDisplayName": "Japan West",
-      "sku": "Azure AI Immersive Reader",
-      "state": "GA"
-    },
-    {
       "geography": "Korea",
       "offering": "Azure Applied AI Services",
       "region": "Korea Central",
@@ -6385,22 +1916,6 @@
       "offering": "Azure Applied AI Services",
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
-      "sku": "Azure AI Immersive Reader",
-      "state": "GA"
-    },
-    {
-      "geography": "Sweden",
-      "offering": "Azure Applied AI Services",
-      "region": "Sweden Central",
-      "regionDisplayName": "Sweden Central",
-      "sku": "Azure AI Immersive Reader",
-      "state": "GA"
-    },
-    {
-      "geography": "Switzerland",
-      "offering": "Azure Applied AI Services",
-      "region": "Switzerland North",
-      "regionDisplayName": "Switzerland North",
       "sku": "Azure AI Immersive Reader",
       "state": "GA"
     },
@@ -6653,14 +2168,6 @@
     {
       "geography": "United States",
       "offering": "Azure Applied AI Services",
-      "region": "East US",
-      "regionDisplayName": "East US",
-      "sku": "Azure Video Indexer",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure Applied AI Services",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
       "sku": "Azure Video Indexer",
@@ -6709,14 +2216,6 @@
     {
       "geography": "Asia Pacific",
       "offering": "Azure Arc Appliance",
-      "region": "East Asia",
-      "regionDisplayName": "East Asia",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Asia Pacific",
-      "offering": "Azure Arc Appliance",
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
       "sku": "",
@@ -6751,14 +2250,6 @@
       "offering": "Azure Arc Appliance",
       "region": "West Europe",
       "regionDisplayName": "West Europe",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Germany",
-      "offering": "Azure Arc Appliance",
-      "region": "Germany West Central",
-      "regionDisplayName": "Germany West Central",
       "sku": "",
       "state": "GA"
     },
@@ -7223,14 +2714,6 @@
       "offering": "Azure Arc enabled Kubernetes",
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
-      "sku": "Arc enabled Open Service Mesh",
-      "state": "GA"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Azure Arc enabled Kubernetes",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
       "sku": "Arc enabled Open Service Mesh",
       "state": "GA"
     },
@@ -18280,14 +13763,6 @@
       "state": "GA"
     },
     {
-      "geography": "Belgium",
-      "offering": "Azure Databricks",
-      "region": "Belgium Central",
-      "regionDisplayName": "Belgium Central",
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Brazil",
       "offering": "Azure Databricks",
       "region": "Brazil South",
@@ -18343,14 +13818,6 @@
       "offering": "Azure Databricks",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Denmark",
-      "offering": "Azure Databricks",
-      "region": "Denmark East",
-      "regionDisplayName": "Denmark East",
       "sku": "",
       "state": "GA"
     },
@@ -18492,17 +13959,6 @@
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
         "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Azure Databricks",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
       ],
       "sku": "",
       "state": "GA"
@@ -28131,6 +23587,78 @@
       "regionDisplayName": "West US 3",
       "sku": "Azure Health Data Services",
       "state": "GA"
+    },
+    {
+      "geography": "Australia",
+      "offering": "Azure HorizonDB",
+      "region": "Australia East",
+      "regionDisplayName": "Australia East",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Canada",
+      "offering": "Azure HorizonDB",
+      "region": "Canada Central",
+      "regionDisplayName": "Canada Central",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Germany",
+      "offering": "Azure HorizonDB",
+      "region": "Germany West Central",
+      "regionDisplayName": "Germany West Central",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Korea",
+      "offering": "Azure HorizonDB",
+      "region": "Korea Central",
+      "regionDisplayName": "Korea Central",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Sweden",
+      "offering": "Azure HorizonDB",
+      "region": "Sweden Central",
+      "regionDisplayName": "Sweden Central",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "United States",
+      "offering": "Azure HorizonDB",
+      "region": "Central US",
+      "regionDisplayName": "Central US",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "United States",
+      "offering": "Azure HorizonDB",
+      "region": "East US",
+      "regionDisplayName": "East US",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "United States",
+      "offering": "Azure HorizonDB",
+      "region": "West US 2",
+      "regionDisplayName": "West US 2",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "United States",
+      "offering": "Azure HorizonDB",
+      "region": "West US 3",
+      "regionDisplayName": "West US 3",
+      "sku": "",
+      "state": "Preview"
     },
     {
       "geography": "",
@@ -48090,6 +43618,14 @@
       "state": "GA"
     },
     {
+      "geography": "Denmark",
+      "offering": "Backup",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Backup",
       "region": "North Europe",
@@ -63400,6 +58936,14 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Denmark",
+      "offering": "IoT Central",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
+      "sku": "",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Europe",
       "offering": "IoT Central",
       "region": "North Europe",
@@ -73092,7 +68636,7 @@
       "offering": "Microsoft Foundry",
       "region": "East Asia",
       "regionDisplayName": "East Asia",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73100,7 +68644,7 @@
       "offering": "Microsoft Foundry",
       "region": "Southeast Asia",
       "regionDisplayName": "Southeast Asia",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73108,7 +68652,7 @@
       "offering": "Microsoft Foundry",
       "region": "Australia East",
       "regionDisplayName": "Australia East",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73116,7 +68660,7 @@
       "offering": "Microsoft Foundry",
       "region": "Austria East",
       "regionDisplayName": "Austria East",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73124,7 +68668,7 @@
       "offering": "Microsoft Foundry",
       "region": "Brazil South",
       "regionDisplayName": "Brazil South",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73132,7 +68676,7 @@
       "offering": "Microsoft Foundry",
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73140,7 +68684,7 @@
       "offering": "Microsoft Foundry",
       "region": "China East 2",
       "regionDisplayName": "China East 2",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73148,7 +68692,7 @@
       "offering": "Microsoft Foundry",
       "region": "China North 2",
       "regionDisplayName": "China North 2",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73156,7 +68700,7 @@
       "offering": "Microsoft Foundry",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73164,7 +68708,7 @@
       "offering": "Microsoft Foundry",
       "region": "North Europe",
       "regionDisplayName": "North Europe",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73172,7 +68716,7 @@
       "offering": "Microsoft Foundry",
       "region": "West Europe",
       "regionDisplayName": "West Europe",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73180,7 +68724,7 @@
       "offering": "Microsoft Foundry",
       "region": "France Central",
       "regionDisplayName": "France Central",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73188,7 +68732,7 @@
       "offering": "Microsoft Foundry",
       "region": "Germany West Central",
       "regionDisplayName": "Germany West Central",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73196,7 +68740,7 @@
       "offering": "Microsoft Foundry",
       "region": "Central India",
       "regionDisplayName": "Central India",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73204,7 +68748,7 @@
       "offering": "Microsoft Foundry",
       "region": "Italy North",
       "regionDisplayName": "Italy North",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73212,7 +68756,7 @@
       "offering": "Microsoft Foundry",
       "region": "Japan East",
       "regionDisplayName": "Japan East",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73220,7 +68764,7 @@
       "offering": "Microsoft Foundry",
       "region": "Japan West",
       "regionDisplayName": "Japan West",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73228,7 +68772,7 @@
       "offering": "Microsoft Foundry",
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73236,7 +68780,7 @@
       "offering": "Microsoft Foundry",
       "region": "Norway East",
       "regionDisplayName": "Norway East",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73244,7 +68788,7 @@
       "offering": "Microsoft Foundry",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73252,7 +68796,7 @@
       "offering": "Microsoft Foundry",
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73260,7 +68804,7 @@
       "offering": "Microsoft Foundry",
       "region": "Sweden Central",
       "regionDisplayName": "Sweden Central",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73268,7 +68812,7 @@
       "offering": "Microsoft Foundry",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73279,7 +68823,7 @@
       "regionFlags": [
         "restricted_access"
       ],
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73287,7 +68831,7 @@
       "offering": "Microsoft Foundry",
       "region": "UAE North",
       "regionDisplayName": "UAE North",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73295,7 +68839,7 @@
       "offering": "Microsoft Foundry",
       "region": "UK South",
       "regionDisplayName": "UK South",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73303,7 +68847,7 @@
       "offering": "Microsoft Foundry",
       "region": "Central US",
       "regionDisplayName": "Central US",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73311,7 +68855,7 @@
       "offering": "Microsoft Foundry",
       "region": "East US",
       "regionDisplayName": "East US",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73319,7 +68863,7 @@
       "offering": "Microsoft Foundry",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73327,7 +68871,7 @@
       "offering": "Microsoft Foundry",
       "region": "North Central US",
       "regionDisplayName": "North Central US",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73335,7 +68879,7 @@
       "offering": "Microsoft Foundry",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73343,7 +68887,7 @@
       "offering": "Microsoft Foundry",
       "region": "West Central US",
       "regionDisplayName": "West Central US",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73351,7 +68895,7 @@
       "offering": "Microsoft Foundry",
       "region": "West US",
       "regionDisplayName": "West US",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73359,7 +68903,7 @@
       "offering": "Microsoft Foundry",
       "region": "West US 2",
       "regionDisplayName": "West US 2",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -73367,7 +68911,7 @@
       "offering": "Microsoft Foundry",
       "region": "West US 3",
       "regionDisplayName": "West US 3",
-      "sku": "Azure Document Intelligence",
+      "sku": "Azure Document Intelligence and Content Understanding",
       "state": "GA"
     },
     {
@@ -74746,6 +70290,14 @@
       "offering": "Microsoft Foundry",
       "region": "Canada Central",
       "regionDisplayName": "Canada Central",
+      "sku": "Azure Vision - Face",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Microsoft Foundry",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "Azure Vision - Face",
       "state": "GA"
     },
@@ -78202,6 +73754,14 @@
       "offering": "Notification Hubs",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Notification Hubs",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "",
       "state": "GA"
     },
@@ -86837,6 +82397,14 @@
       "offering": "Storage",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Storage",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "",
       "state": "GA"
     },
@@ -96176,6 +91744,14 @@
       "state": "GA"
     },
     {
+      "geography": "Denmark",
+      "offering": "Virtual Machines",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
+      "sku": "Azure Dedicated Host",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -99523,6 +95099,14 @@
       "state": "GA"
     },
     {
+      "geography": "Denmark",
+      "offering": "Virtual Machines",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
+      "sku": "Daldsv6-series",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -101796,6 +97380,14 @@
       "state": "GA"
     },
     {
+      "geography": "Denmark",
+      "offering": "Virtual Machines",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
+      "sku": "Dasv6-series",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -102441,6 +98033,14 @@
       "offering": "Virtual Machines",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
+      "sku": "DAv4-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Virtual Machines",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "DAv4-Series",
       "state": "GA"
     },
@@ -130662,6 +126262,14 @@
       "state": "GA"
     },
     {
+      "geography": "Denmark",
+      "offering": "Virtual Machines",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
+      "sku": "Famsv6-series",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -134157,14 +129765,6 @@
       "offering": "Virtual Machines",
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
-      "sku": "HBv4 series",
-      "state": "GA"
-    },
-    {
-      "geography": "Spain",
-      "offering": "Virtual Machines",
-      "region": "Spain Central",
-      "regionDisplayName": "Spain Central",
       "sku": "HBv4 series",
       "state": "GA"
     },
@@ -134341,14 +129941,6 @@
       "offering": "Virtual Machines",
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
-      "sku": "HX-series",
-      "state": "GA"
-    },
-    {
-      "geography": "Spain",
-      "offering": "Virtual Machines",
-      "region": "Spain Central",
-      "regionDisplayName": "Spain Central",
       "sku": "HX-series",
       "state": "GA"
     },
@@ -137737,6 +133329,14 @@
       "state": "GA"
     },
     {
+      "geography": "Denmark",
+      "offering": "Virtual Machines",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
+      "sku": "Mdsv2 Medium Memory Series",
+      "state": "GA"
+    },
+    {
       "geography": "Europe",
       "offering": "Virtual Machines",
       "region": "North Europe",
@@ -139384,6 +134984,14 @@
       "offering": "Virtual Machines",
       "region": "China North 3",
       "regionDisplayName": "China North 3",
+      "sku": "Mv2 SKL-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Virtual Machines",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "Mv2 SKL-series",
       "state": "GA"
     },
@@ -140581,6 +136189,14 @@
       "offering": "Virtual Machines",
       "region": "Belgium Central",
       "regionDisplayName": "Belgium Central",
+      "sku": "NDasr A100 v4-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Denmark",
+      "offering": "Virtual Machines",
+      "region": "Denmark East",
+      "regionDisplayName": "Denmark East",
       "sku": "NDasr A100 v4-Series",
       "state": "GA"
     },
