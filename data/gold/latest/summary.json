@@ -1,151 +1,1076 @@
 {
   "availability": {
     "changes": {
-      "added": 0,
-      "addedSamples": [],
-      "removed": 0,
-      "removedSamples": [],
-      "stateChanged": 0,
-      "stateChangedSamples": []
+      "added": 580,
+      "addedSamples": [
+        {
+          "geography": "Australia",
+          "offering": "API Management",
+          "region": "Australia Central",
+          "regionDisplayName": "Australia Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia Central",
+          "regionDisplayName": "Australia Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia Central",
+          "regionDisplayName": "Australia Central",
+          "sku": "App Service Environments",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia Central",
+          "regionDisplayName": "Australia Central",
+          "sku": "App Service Premium v3",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Application Gateway",
+          "region": "Australia Central",
+          "regionDisplayName": "Australia Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure App Configuration",
+          "region": "Australia Central",
+          "regionDisplayName": "Australia Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "API Management",
+          "region": "Australia Central 2",
+          "regionDisplayName": "Australia Central 2 *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia Central 2",
+          "regionDisplayName": "Australia Central 2 *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia Central 2",
+          "regionDisplayName": "Australia Central 2 *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "App Service Environments",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Application Gateway",
+          "region": "Australia Central 2",
+          "regionDisplayName": "Australia Central 2 *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Application Gateway",
+          "region": "Australia Central 2",
+          "regionDisplayName": "Australia Central 2 *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "Application Gateway v2",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Automation",
+          "region": "Australia Central 2",
+          "regionDisplayName": "Australia Central 2 *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure App Configuration",
+          "region": "Australia Central 2",
+          "regionDisplayName": "Australia Central 2 *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "API Management",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "App Service Environments",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Application Gateway",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Application Gateway",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "Application Gateway for Containers",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Application Gateway",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "Application Gateway v2",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Automation",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Automation",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "Update Management",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure AI Search",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure AI Search",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "Semantic Ranker",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure Applied AI Services",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "Azure AI Document Intelligence",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Security Platform Services",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Virtual Machines",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "HC-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Australia",
+          "offering": "API Management",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "App Service Environments",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "App Service",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "App Service Premium v3",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Application Gateway",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Application Gateway",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "Application Gateway v2",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Automation",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure AI Search",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Azure AI Search",
+          "region": "Australia Southeast",
+          "regionDisplayName": "Australia Southeast",
+          "sku": "Semantic Ranker",
+          "state": "GA"
+        },
+        {
+          "geography": "Austria",
+          "offering": "API Management",
+          "region": "Austria East",
+          "regionDisplayName": "Austria East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Austria",
+          "offering": "App Service",
+          "region": "Austria East",
+          "regionDisplayName": "Austria East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Austria",
+          "offering": "App Service",
+          "region": "Austria East",
+          "regionDisplayName": "Austria East",
+          "sku": "App Service Premium v3",
+          "state": "GA"
+        },
+        {
+          "geography": "Austria",
+          "offering": "Application Gateway",
+          "region": "Austria East",
+          "regionDisplayName": "Austria East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Austria",
+          "offering": "Application Gateway",
+          "region": "Austria East",
+          "regionDisplayName": "Austria East",
+          "sku": "Application Gateway v2",
+          "state": "GA"
+        },
+        {
+          "geography": "Belgium",
+          "offering": "API Management",
+          "region": "Belgium Central",
+          "regionDisplayName": "Belgium Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Belgium",
+          "offering": "App Service",
+          "region": "Belgium Central",
+          "regionDisplayName": "Belgium Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Belgium",
+          "offering": "App Service",
+          "region": "Belgium Central",
+          "regionDisplayName": "Belgium Central",
+          "sku": "App Service Premium v3",
+          "state": "GA"
+        },
+        {
+          "geography": "Belgium",
+          "offering": "Application Gateway",
+          "region": "Belgium Central",
+          "regionDisplayName": "Belgium Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "API Management",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "App Service",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "App Service",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "App Service Environments",
+          "state": "GA"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "App Service",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "App Service Premium v3",
+          "state": "GA"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "Application Gateway",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "Application Gateway",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "Application Gateway for Containers",
+          "state": "GA"
+        }
+      ],
+      "removed": 39,
+      "removedSamples": [
+        {
+          "geography": "Australia",
+          "offering": "Security Platform (Purview)",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Australia",
+          "offering": "Virtual Machines",
+          "region": "Australia East",
+          "regionDisplayName": "Australia East",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "Security Platform (Purview)",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "Virtual Machines",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Canada",
+          "offering": "Security Platform (Purview)",
+          "region": "Canada Central",
+          "regionDisplayName": "Canada Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Canada",
+          "offering": "Virtual Machines",
+          "region": "Canada Central",
+          "regionDisplayName": "Canada Central",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Canada",
+          "offering": "Security Platform (Purview)",
+          "region": "Canada East",
+          "regionDisplayName": "Canada East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Security Platform (Purview)",
+          "region": "Central India",
+          "regionDisplayName": "Central India",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "Central India",
+          "regionDisplayName": "Central India",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "China (operated by 21Vianet)",
+          "offering": "Security Platform (Purview)",
+          "region": "China North 3",
+          "regionDisplayName": "China North 3",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Security Platform (Purview)",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Security Platform (Purview)",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "France",
+          "offering": "Security Platform (Purview)",
+          "region": "France Central",
+          "regionDisplayName": "France Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Germany",
+          "offering": "Security Platform (Purview)",
+          "region": "Germany West Central",
+          "regionDisplayName": "Germany West Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Japan",
+          "offering": "Security Platform (Purview)",
+          "region": "Japan East",
+          "regionDisplayName": "Japan East",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Japan",
+          "offering": "Virtual Machines",
+          "region": "Japan East",
+          "regionDisplayName": "Japan East",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Korea",
+          "offering": "Security Platform (Purview)",
+          "region": "Korea Central",
+          "regionDisplayName": "Korea Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Korea",
+          "offering": "Virtual Machines",
+          "region": "Korea Central",
+          "regionDisplayName": "Korea Central",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Security Platform (Purview)",
+          "region": "North Europe",
+          "regionDisplayName": "North Europe",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Virtual Machines",
+          "region": "North Europe",
+          "regionDisplayName": "North Europe",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Qatar",
+          "offering": "Security Platform (Purview)",
+          "region": "Qatar Central",
+          "regionDisplayName": "Qatar Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "South Africa",
+          "offering": "Security Platform (Purview)",
+          "region": "South Africa North",
+          "regionDisplayName": "South Africa North",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Security Platform (Purview)",
+          "region": "South Central US",
+          "regionDisplayName": "South Central US",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "South Central US",
+          "regionDisplayName": "South Central US",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Asia Pacific",
+          "offering": "Security Platform (Purview)",
+          "region": "Southeast Asia",
+          "regionDisplayName": "Southeast Asia",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Asia Pacific",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia",
+          "regionDisplayName": "Southeast Asia",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Sweden",
+          "offering": "Security Platform (Purview)",
+          "region": "Sweden Central",
+          "regionDisplayName": "Sweden Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Switzerland",
+          "offering": "Security Platform (Purview)",
+          "region": "Switzerland North",
+          "regionDisplayName": "Switzerland North",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United Arab Emirates",
+          "offering": "Security Platform (Purview)",
+          "region": "UAE North",
+          "regionDisplayName": "UAE North",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United Kingdom",
+          "offering": "Security Platform (Purview)",
+          "region": "UK South",
+          "regionDisplayName": "UK South",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Security Platform (Purview)",
+          "region": "West Central US",
+          "regionDisplayName": "West Central US",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Security Platform (Purview)",
+          "region": "West Europe",
+          "regionDisplayName": "West Europe",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Virtual Machines",
+          "region": "West Europe",
+          "regionDisplayName": "West Europe",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Security Platform (Purview)",
+          "region": "West US",
+          "regionDisplayName": "West US",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Security Platform (Purview)",
+          "region": "West US 2",
+          "regionDisplayName": "West US 2",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "United States",
+          "offering": "Virtual Machines",
+          "region": "West US 2",
+          "regionDisplayName": "West US 2",
+          "sku": "HCv1-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Security Platform (Purview)",
+          "region": "West US 3",
+          "regionDisplayName": "West US 3",
+          "sku": "",
+          "state": "GA"
+        }
+      ],
+      "stateChanged": 27,
+      "stateChangedSamples": [
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Australia East",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Brazil South",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Canada Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Central India",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Central US",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "East Asia",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "East US",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "East US 2",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "France Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Germany West Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Italy North",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Japan East",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Japan West",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Korea Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "North Europe",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Poland Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "South Africa North",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "South Central US",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Southeast Asia",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Spain Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Sweden Central",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "Switzerland North",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "UAE North",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "UK South",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "West Europe",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "Preview",
+          "offering": "Azure Deployment Environments",
+          "region": "West US 2",
+          "sku": "",
+          "to": "Closing Down"
+        },
+        {
+          "from": "GA",
+          "offering": "Azure Deployment Environments",
+          "region": "West US 3",
+          "sku": "",
+          "to": "Closing Down"
+        }
+      ]
     },
-    "dataHash": "4efa574f7e378f30026e0fcd5974a1c087161b490f70f74350c594b02910e47c",
+    "dataHash": "2c554a03128895e47e15cd84fb195a1942e8607efde2cf6725dcfca6d9752577",
     "summary": {
       "geographies": [
         {
           "geography": "Asia Pacific",
-          "rowCount": 711
+          "rowCount": 736
         },
         {
           "geography": "Australia",
-          "rowCount": 1054
+          "rowCount": 1087
         },
         {
           "geography": "Austria",
-          "rowCount": 201
-        },
-        {
-          "geography": "Belgium",
-          "rowCount": 214
-        },
-        {
-          "geography": "Brazil",
-          "rowCount": 485
-        },
-        {
-          "geography": "Canada",
-          "rowCount": 622
-        },
-        {
-          "geography": "Chile",
-          "rowCount": 183
-        },
-        {
-          "geography": "China (operated by 21Vianet)",
-          "rowCount": 884
-        },
-        {
-          "geography": "Denmark",
-          "rowCount": 189
-        },
-        {
-          "geography": "Europe",
-          "rowCount": 800
-        },
-        {
-          "geography": "France",
-          "rowCount": 512
-        },
-        {
-          "geography": "Germany",
-          "rowCount": 527
-        },
-        {
-          "geography": "India",
-          "rowCount": 869
-        },
-        {
-          "geography": "Indonesia",
-          "rowCount": 237
-        },
-        {
-          "geography": "Israel",
-          "rowCount": 200
-        },
-        {
-          "geography": "Italy",
-          "rowCount": 289
-        },
-        {
-          "geography": "Japan",
-          "rowCount": 661
-        },
-        {
-          "geography": "Korea",
-          "rowCount": 505
-        },
-        {
-          "geography": "Malaysia",
-          "rowCount": 214
-        },
-        {
-          "geography": "Mexico",
           "rowCount": 206
         },
         {
-          "geography": "New Zealand",
-          "rowCount": 208
-        },
-        {
-          "geography": "Norway",
-          "rowCount": 436
-        },
-        {
-          "geography": "Poland",
-          "rowCount": 236
-        },
-        {
-          "geography": "Qatar",
+          "geography": "Belgium",
           "rowCount": 218
         },
         {
-          "geography": "South Africa",
-          "rowCount": 466
+          "geography": "Brazil",
+          "rowCount": 502
         },
         {
-          "geography": "Spain",
-          "rowCount": 230
+          "geography": "Canada",
+          "rowCount": 641
         },
         {
-          "geography": "Sweden",
-          "rowCount": 490
+          "geography": "Chile",
+          "rowCount": 190
         },
         {
-          "geography": "Switzerland",
+          "geography": "China (operated by 21Vianet)",
+          "rowCount": 917
+        },
+        {
+          "geography": "Denmark",
+          "rowCount": 192
+        },
+        {
+          "geography": "Europe",
+          "rowCount": 826
+        },
+        {
+          "geography": "France",
+          "rowCount": 527
+        },
+        {
+          "geography": "Germany",
+          "rowCount": 540
+        },
+        {
+          "geography": "India",
+          "rowCount": 898
+        },
+        {
+          "geography": "Indonesia",
+          "rowCount": 243
+        },
+        {
+          "geography": "Israel",
+          "rowCount": 206
+        },
+        {
+          "geography": "Italy",
+          "rowCount": 295
+        },
+        {
+          "geography": "Japan",
+          "rowCount": 683
+        },
+        {
+          "geography": "Korea",
           "rowCount": 525
         },
         {
+          "geography": "Malaysia",
+          "rowCount": 222
+        },
+        {
+          "geography": "Mexico",
+          "rowCount": 212
+        },
+        {
+          "geography": "New Zealand",
+          "rowCount": 212
+        },
+        {
+          "geography": "Norway",
+          "rowCount": 454
+        },
+        {
+          "geography": "Poland",
+          "rowCount": 244
+        },
+        {
+          "geography": "Qatar",
+          "rowCount": 224
+        },
+        {
+          "geography": "South Africa",
+          "rowCount": 479
+        },
+        {
+          "geography": "Spain",
+          "rowCount": 236
+        },
+        {
+          "geography": "Sweden",
+          "rowCount": 503
+        },
+        {
+          "geography": "Switzerland",
+          "rowCount": 546
+        },
+        {
           "geography": "Taiwan",
-          "rowCount": 213
+          "rowCount": 220
         },
         {
           "geography": "United Arab Emirates",
-          "rowCount": 504
+          "rowCount": 521
         },
         {
           "geography": "United Kingdom",
-          "rowCount": 656
+          "rowCount": 675
         },
         {
           "geography": "United States",
-          "rowCount": 3285
+          "rowCount": 3390
         },
         {
           "geography": "Unknown",
-          "rowCount": 62
+          "rowCount": 63
         }
       ],
       "geographyCount": 33,
-      "offeringCount": 193,
+      "offeringCount": 194,
       "offerings": [
         {
           "geographyCount": 33,
@@ -163,6 +1088,25 @@
           "skuCount": 4,
           "stateCounts": {
             "GA": 169,
+            "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "App Service",
+          "regionCount": 65,
+          "skuCount": 4,
+          "stateCounts": {
+            "GA": 165
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Application Gateway",
+          "regionCount": 65,
+          "skuCount": 3,
+          "stateCounts": {
+            "GA": 140,
             "Preview": 1
           }
         },
@@ -332,6 +1276,15 @@
           "skuCount": 3,
           "stateCounts": {
             "GA": 195
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "API Management",
+          "regionCount": 64,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 64
           }
         },
         {
@@ -535,6 +1488,24 @@
         },
         {
           "geographyCount": 32,
+          "offering": "Azure App Configuration",
+          "regionCount": 61,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 61
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Azure Database Migration Service",
+          "regionCount": 61,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 61
+          }
+        },
+        {
+          "geographyCount": 32,
           "offering": "Azure Firewall Manager",
           "regionCount": 61,
           "skuCount": 1,
@@ -596,15 +1567,6 @@
           "stateCounts": {
             "GA": 103,
             "Preview": 8
-          }
-        },
-        {
-          "geographyCount": 31,
-          "offering": "Azure Database Migration Service",
-          "regionCount": 60,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 60
           }
         },
         {
@@ -683,6 +1645,17 @@
           }
         },
         {
+          "geographyCount": 25,
+          "offering": "Automation",
+          "regionCount": 55,
+          "skuCount": 3,
+          "stateCounts": {
+            "Closing Down": 25,
+            "GA": 78,
+            "Preview": 1
+          }
+        },
+        {
           "geographyCount": 28,
           "offering": "Azure Compute Fleet",
           "regionCount": 55,
@@ -716,6 +1689,15 @@
           "skuCount": 1,
           "stateCounts": {
             "GA": 55
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Azure AI Search",
+          "regionCount": 54,
+          "skuCount": 3,
+          "stateCounts": {
+            "GA": 118
           }
         },
         {
@@ -908,21 +1890,12 @@
           }
         },
         {
-          "geographyCount": 25,
-          "offering": "Azure App Configuration",
-          "regionCount": 39,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 39
-          }
-        },
-        {
           "geographyCount": 22,
           "offering": "Azure Arc enabled Kubernetes",
           "regionCount": 38,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 50,
+            "GA": 51,
             "Preview": 1
           }
         },
@@ -943,15 +1916,6 @@
           "stateCounts": {
             "GA": 37,
             "Preview": 1
-          }
-        },
-        {
-          "geographyCount": 25,
-          "offering": "Azure AI Search",
-          "regionCount": 36,
-          "skuCount": 3,
-          "stateCounts": {
-            "GA": 46
           }
         },
         {
@@ -978,7 +1942,7 @@
           "regionCount": 34,
           "skuCount": 3,
           "stateCounts": {
-            "GA": 75,
+            "GA": 87,
             "Preview": 1
           }
         },
@@ -1117,8 +2081,7 @@
           "regionCount": 27,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 26,
-            "Preview": 1
+            "Closing Down": 27
           }
         },
         {
@@ -1150,22 +2113,11 @@
         },
         {
           "geographyCount": 18,
-          "offering": "Security Platform (Purview)",
+          "offering": "Security Platform Services",
           "regionCount": 26,
           "skuCount": 1,
           "stateCounts": {
             "GA": 26
-          }
-        },
-        {
-          "geographyCount": 18,
-          "offering": "Automation",
-          "regionCount": 25,
-          "skuCount": 3,
-          "stateCounts": {
-            "Closing Down": 7,
-            "GA": 19,
-            "Preview": 1
           }
         },
         {
@@ -1178,12 +2130,21 @@
           }
         },
         {
-          "geographyCount": 17,
-          "offering": "Application Gateway",
-          "regionCount": 22,
-          "skuCount": 3,
+          "geographyCount": 12,
+          "offering": "Azure Analysis Services",
+          "regionCount": 23,
+          "skuCount": 1,
           "stateCounts": {
-            "GA": 25
+            "GA": 23
+          }
+        },
+        {
+          "geographyCount": 15,
+          "offering": "Azure App Testing",
+          "regionCount": 22,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 29
           }
         },
         {
@@ -1196,12 +2157,12 @@
           }
         },
         {
-          "geographyCount": 13,
-          "offering": "Azure App Testing",
+          "geographyCount": 11,
+          "offering": "Azure Arc Appliance",
           "regionCount": 20,
-          "skuCount": 2,
+          "skuCount": 1,
           "stateCounts": {
-            "GA": 24
+            "GA": 20
           }
         },
         {
@@ -1233,15 +2194,6 @@
         },
         {
           "geographyCount": 10,
-          "offering": "Azure Arc Appliance",
-          "regionCount": 18,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 18
-          }
-        },
-        {
-          "geographyCount": 10,
           "offering": "IoT Central",
           "regionCount": 18,
           "skuCount": 1,
@@ -1256,15 +2208,6 @@
           "skuCount": 2,
           "stateCounts": {
             "GA": 30
-          }
-        },
-        {
-          "geographyCount": 7,
-          "offering": "Azure Analysis Services",
-          "regionCount": 16,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 16
           }
         },
         {
@@ -1386,15 +2329,6 @@
           }
         },
         {
-          "geographyCount": 9,
-          "offering": "App Service",
-          "regionCount": 10,
-          "skuCount": 3,
-          "stateCounts": {
-            "GA": 10
-          }
-        },
-        {
           "geographyCount": 6,
           "offering": "Azure Data Lake Storage Gen1",
           "regionCount": 10,
@@ -1482,6 +2416,15 @@
           "skuCount": 1,
           "stateCounts": {
             "Preview": 8
+          }
+        },
+        {
+          "geographyCount": 2,
+          "offering": "Artifact Signing",
+          "regionCount": 7,
+          "skuCount": 1,
+          "stateCounts": {
+            "Preview": 7
           }
         },
         {
@@ -1580,15 +2523,6 @@
         },
         {
           "geographyCount": 1,
-          "offering": "Artifact Signing",
-          "regionCount": 1,
-          "skuCount": 1,
-          "stateCounts": {
-            "Preview": 1
-          }
-        },
-        {
-          "geographyCount": 1,
           "offering": "Azure Active Directory B2C",
           "regionCount": 1,
           "skuCount": 1,
@@ -1600,9 +2534,9 @@
           "geographyCount": 1,
           "offering": "Azure Advisor",
           "regionCount": 1,
-          "skuCount": 1,
+          "skuCount": 2,
           "stateCounts": {
-            "GA": 1
+            "GA": 2
           }
         },
         {
@@ -1932,10 +2866,69 @@
       ],
       "previewSamples": [
         {
+          "geography": "France",
+          "offering": "Application Gateway",
+          "region": "France South",
+          "regionDisplayName": "France South *",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "sku": "Application Gateway v2",
+          "state": "Preview"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Artifact Signing",
+          "region": "North Europe",
+          "regionDisplayName": "North Europe",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Artifact Signing",
+          "region": "West Europe",
+          "regionDisplayName": "West Europe",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
+          "geography": "United States",
+          "offering": "Artifact Signing",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
+          "geography": "United States",
+          "offering": "Artifact Signing",
+          "region": "West Central US",
+          "regionDisplayName": "West Central US",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
+          "geography": "United States",
+          "offering": "Artifact Signing",
+          "region": "West US",
+          "regionDisplayName": "West US",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
           "geography": "United States",
           "offering": "Artifact Signing",
           "region": "West US 2",
           "regionDisplayName": "West US 2",
+          "sku": "",
+          "state": "Preview"
+        },
+        {
+          "geography": "United States",
+          "offering": "Artifact Signing",
+          "region": "West US 3",
+          "regionDisplayName": "West US 3",
           "sku": "",
           "state": "Preview"
         },
@@ -2274,510 +3267,436 @@
           "regionDisplayName": "West Central US",
           "sku": "",
           "state": "Preview"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Container Storage",
-          "region": "West US",
-          "regionDisplayName": "West US",
-          "sku": "",
-          "state": "Preview"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Container Storage",
-          "region": "West US 2",
-          "regionDisplayName": "West US 2",
-          "sku": "",
-          "state": "Preview"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Container Storage",
-          "region": "West US 3",
-          "regionDisplayName": "West US 3",
-          "sku": "",
-          "state": "Preview"
-        },
-        {
-          "geography": "China (operated by 21Vianet)",
-          "offering": "Azure Data Explorer",
-          "region": "China East",
-          "regionDisplayName": "China East",
-          "sku": "",
-          "state": "Preview"
-        },
-        {
-          "geography": "China (operated by 21Vianet)",
-          "offering": "Azure Data Explorer",
-          "region": "China North",
-          "regionDisplayName": "China North",
-          "sku": "",
-          "state": "Preview"
-        },
-        {
-          "geography": "Norway",
-          "offering": "Azure Data Explorer",
-          "region": "Norway West",
-          "regionDisplayName": "Norway West *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "",
-          "state": "Preview"
-        },
-        {
-          "geography": "Switzerland",
-          "offering": "Azure Data Explorer",
-          "region": "Switzerland West",
-          "regionDisplayName": "Switzerland West *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "",
-          "state": "Preview"
         }
       ],
       "regionCount": 66,
       "regions": [
         {
           "geography": "United States",
-          "offeringCount": 143,
+          "offeringCount": 149,
           "region": "East US",
           "regionFlags": [],
-          "skuCount": 415,
+          "skuCount": 430,
           "stateCounts": {
-            "Closing Down": 58,
-            "GA": 337,
-            "Preview": 20
+            "Closing Down": 60,
+            "GA": 349,
+            "Preview": 21
           }
         },
         {
           "geography": "Europe",
-          "offeringCount": 143,
+          "offeringCount": 148,
           "region": "West Europe",
           "regionFlags": [],
-          "skuCount": 415,
+          "skuCount": 428,
           "stateCounts": {
-            "Closing Down": 63,
-            "GA": 336,
-            "Preview": 16
-          }
-        },
-        {
-          "geography": "Australia",
-          "offeringCount": 140,
-          "region": "Australia East",
-          "regionFlags": [],
-          "skuCount": 386,
-          "stateCounts": {
-            "Closing Down": 53,
-            "GA": 320,
-            "Preview": 13
-          }
-        },
-        {
-          "geography": "United Kingdom",
-          "offeringCount": 137,
-          "region": "UK South",
-          "regionFlags": [],
-          "skuCount": 380,
-          "stateCounts": {
-            "Closing Down": 53,
-            "GA": 317,
-            "Preview": 10
-          }
-        },
-        {
-          "geography": "United States",
-          "offeringCount": 135,
-          "region": "East US 2",
-          "regionFlags": [],
-          "skuCount": 396,
-          "stateCounts": {
-            "Closing Down": 54,
-            "GA": 327,
-            "Preview": 15
-          }
-        },
-        {
-          "geography": "Europe",
-          "offeringCount": 135,
-          "region": "North Europe",
-          "regionFlags": [],
-          "skuCount": 385,
-          "stateCounts": {
-            "Closing Down": 59,
-            "GA": 316,
-            "Preview": 10
-          }
-        },
-        {
-          "geography": "United States",
-          "offeringCount": 134,
-          "region": "South Central US",
-          "regionFlags": [],
-          "skuCount": 393,
-          "stateCounts": {
-            "Closing Down": 55,
-            "GA": 330,
-            "Preview": 8
-          }
-        },
-        {
-          "geography": "United States",
-          "offeringCount": 133,
-          "region": "West US 2",
-          "regionFlags": [],
-          "skuCount": 390,
-          "stateCounts": {
-            "Closing Down": 51,
-            "GA": 322,
+            "Closing Down": 65,
+            "GA": 346,
             "Preview": 17
           }
         },
         {
-          "geography": "Asia Pacific",
-          "offeringCount": 132,
-          "region": "Southeast Asia",
+          "geography": "Australia",
+          "offeringCount": 142,
+          "region": "Australia East",
           "regionFlags": [],
-          "skuCount": 386,
+          "skuCount": 397,
+          "stateCounts": {
+            "Closing Down": 54,
+            "GA": 330,
+            "Preview": 13
+          }
+        },
+        {
+          "geography": "Europe",
+          "offeringCount": 140,
+          "region": "North Europe",
+          "regionFlags": [],
+          "skuCount": 398,
+          "stateCounts": {
+            "Closing Down": 61,
+            "GA": 326,
+            "Preview": 11
+          }
+        },
+        {
+          "geography": "United Kingdom",
+          "offeringCount": 140,
+          "region": "UK South",
+          "regionFlags": [],
+          "skuCount": 392,
+          "stateCounts": {
+            "Closing Down": 54,
+            "GA": 328,
+            "Preview": 10
+          }
+        },
+        {
+          "geography": "United States",
+          "offeringCount": 138,
+          "region": "East US 2",
+          "regionFlags": [],
+          "skuCount": 408,
           "stateCounts": {
             "Closing Down": 56,
-            "GA": 320,
+            "GA": 337,
+            "Preview": 15
+          }
+        },
+        {
+          "geography": "United States",
+          "offeringCount": 138,
+          "region": "West US 2",
+          "regionFlags": [],
+          "skuCount": 403,
+          "stateCounts": {
+            "Closing Down": 53,
+            "GA": 334,
+            "Preview": 16
+          }
+        },
+        {
+          "geography": "United States",
+          "offeringCount": 137,
+          "region": "South Central US",
+          "regionFlags": [],
+          "skuCount": 405,
+          "stateCounts": {
+            "Closing Down": 56,
+            "GA": 341,
+            "Preview": 8
+          }
+        },
+        {
+          "geography": "Asia Pacific",
+          "offeringCount": 137,
+          "region": "Southeast Asia",
+          "regionFlags": [],
+          "skuCount": 399,
+          "stateCounts": {
+            "Closing Down": 58,
+            "GA": 331,
             "Preview": 10
           }
         },
         {
           "geography": "Canada",
-          "offeringCount": 127,
+          "offeringCount": 131,
           "region": "Canada Central",
           "regionFlags": [],
-          "skuCount": 347,
+          "skuCount": 359,
           "stateCounts": {
-            "Closing Down": 46,
-            "GA": 292,
+            "Closing Down": 48,
+            "GA": 302,
             "Preview": 9
           }
         },
         {
           "geography": "Japan",
-          "offeringCount": 126,
+          "offeringCount": 130,
           "region": "Japan East",
           "regionFlags": [],
-          "skuCount": 365,
+          "skuCount": 378,
           "stateCounts": {
-            "Closing Down": 47,
-            "GA": 312,
+            "Closing Down": 49,
+            "GA": 323,
             "Preview": 6
           }
         },
         {
-          "geography": "India",
-          "offeringCount": 121,
-          "region": "Central India",
-          "regionFlags": [],
-          "skuCount": 337,
-          "stateCounts": {
-            "Closing Down": 45,
-            "GA": 284,
-            "Preview": 8
-          }
-        },
-        {
           "geography": "United States",
-          "offeringCount": 121,
+          "offeringCount": 125,
           "region": "Central US",
           "regionFlags": [],
-          "skuCount": 361,
+          "skuCount": 373,
           "stateCounts": {
-            "Closing Down": 46,
-            "GA": 306,
+            "Closing Down": 48,
+            "GA": 316,
             "Preview": 9
           }
         },
         {
           "geography": "United States",
-          "offeringCount": 119,
-          "region": "West US",
+          "offeringCount": 125,
+          "region": "West US 3",
           "regionFlags": [],
-          "skuCount": 365,
+          "skuCount": 357,
           "stateCounts": {
-            "Closing Down": 49,
-            "GA": 303,
-            "Preview": 13
+            "Closing Down": 34,
+            "GA": 312,
+            "Preview": 11
           }
         },
         {
-          "geography": "United States",
-          "offeringCount": 119,
-          "region": "West US 3",
+          "geography": "India",
+          "offeringCount": 124,
+          "region": "Central India",
           "regionFlags": [],
-          "skuCount": 346,
+          "skuCount": 347,
           "stateCounts": {
-            "Closing Down": 32,
-            "GA": 304,
-            "Preview": 10
+            "Closing Down": 46,
+            "GA": 293,
+            "Preview": 8
           }
         },
         {
           "geography": "Brazil",
-          "offeringCount": 118,
+          "offeringCount": 123,
           "region": "Brazil South",
           "regionFlags": [],
-          "skuCount": 321,
+          "skuCount": 333,
+          "stateCounts": {
+            "Closing Down": 40,
+            "GA": 285,
+            "Preview": 8
+          }
+        },
+        {
+          "geography": "United States",
+          "offeringCount": 123,
+          "region": "West US",
+          "regionFlags": [],
+          "skuCount": 377,
+          "stateCounts": {
+            "Closing Down": 50,
+            "GA": 313,
+            "Preview": 14
+          }
+        },
+        {
+          "geography": "Germany",
+          "offeringCount": 120,
+          "region": "Germany West Central",
+          "regionFlags": [],
+          "skuCount": 364,
           "stateCounts": {
             "Closing Down": 38,
-            "GA": 275,
+            "GA": 318,
             "Preview": 8
           }
         },
         {
           "geography": "Sweden",
-          "offeringCount": 118,
+          "offeringCount": 120,
           "region": "Sweden Central",
           "regionFlags": [],
-          "skuCount": 338,
+          "skuCount": 346,
           "stateCounts": {
-            "Closing Down": 32,
-            "GA": 296,
+            "Closing Down": 33,
+            "GA": 303,
             "Preview": 10
           }
         },
         {
-          "geography": "Germany",
-          "offeringCount": 117,
-          "region": "Germany West Central",
-          "regionFlags": [],
-          "skuCount": 356,
-          "stateCounts": {
-            "Closing Down": 37,
-            "GA": 311,
-            "Preview": 8
-          }
-        },
-        {
           "geography": "United States",
-          "offeringCount": 116,
+          "offeringCount": 118,
           "region": "North Central US",
           "regionFlags": [],
-          "skuCount": 334,
+          "skuCount": 342,
           "stateCounts": {
             "Closing Down": 41,
-            "GA": 284,
+            "GA": 292,
             "Preview": 9
           }
         },
         {
+          "geography": "Asia Pacific",
+          "offeringCount": 116,
+          "region": "East Asia",
+          "regionFlags": [],
+          "skuCount": 337,
+          "stateCounts": {
+            "Closing Down": 44,
+            "GA": 285,
+            "Preview": 8
+          }
+        },
+        {
           "geography": "France",
-          "offeringCount": 114,
+          "offeringCount": 116,
           "region": "France Central",
           "regionFlags": [],
-          "skuCount": 325,
+          "skuCount": 336,
           "stateCounts": {
-            "Closing Down": 35,
-            "GA": 284,
+            "Closing Down": 37,
+            "GA": 293,
             "Preview": 6
           }
         },
         {
           "geography": "Switzerland",
-          "offeringCount": 113,
+          "offeringCount": 116,
           "region": "Switzerland North",
           "regionFlags": [],
-          "skuCount": 309,
+          "skuCount": 323,
           "stateCounts": {
-            "Closing Down": 35,
-            "GA": 266,
-            "Preview": 8
-          }
-        },
-        {
-          "geography": "Asia Pacific",
-          "offeringCount": 111,
-          "region": "East Asia",
-          "regionFlags": [],
-          "skuCount": 325,
-          "stateCounts": {
-            "Closing Down": 42,
-            "GA": 275,
+            "Closing Down": 37,
+            "GA": 278,
             "Preview": 8
           }
         },
         {
           "geography": "United Arab Emirates",
-          "offeringCount": 111,
+          "offeringCount": 116,
           "region": "UAE North",
           "regionFlags": [],
-          "skuCount": 320,
+          "skuCount": 332,
           "stateCounts": {
-            "Closing Down": 34,
-            "GA": 280,
+            "Closing Down": 36,
+            "GA": 290,
             "Preview": 6
           }
         },
         {
           "geography": "Korea",
-          "offeringCount": 110,
+          "offeringCount": 114,
           "region": "Korea Central",
           "regionFlags": [],
-          "skuCount": 307,
+          "skuCount": 320,
           "stateCounts": {
-            "Closing Down": 33,
-            "GA": 267,
+            "Closing Down": 35,
+            "GA": 278,
             "Preview": 7
           }
         },
         {
+          "geography": "United States",
+          "offeringCount": 113,
+          "region": "West Central US",
+          "regionFlags": [],
+          "skuCount": 295,
+          "stateCounts": {
+            "Closing Down": 27,
+            "GA": 257,
+            "Preview": 11
+          }
+        },
+        {
           "geography": "Japan",
-          "offeringCount": 108,
+          "offeringCount": 111,
           "region": "Japan West",
           "regionFlags": [],
-          "skuCount": 296,
+          "skuCount": 305,
           "stateCounts": {
-            "Closing Down": 32,
-            "GA": 258,
+            "Closing Down": 33,
+            "GA": 266,
             "Preview": 6
           }
         },
         {
-          "geography": "United States",
-          "offeringCount": 107,
-          "region": "West Central US",
-          "regionFlags": [],
-          "skuCount": 285,
-          "stateCounts": {
-            "Closing Down": 27,
-            "GA": 248,
-            "Preview": 10
-          }
-        },
-        {
           "geography": "South Africa",
-          "offeringCount": 106,
+          "offeringCount": 109,
           "region": "South Africa North",
           "regionFlags": [],
-          "skuCount": 292,
+          "skuCount": 300,
           "stateCounts": {
-            "Closing Down": 31,
-            "GA": 256,
+            "Closing Down": 32,
+            "GA": 263,
             "Preview": 5
           }
         },
         {
           "geography": "Norway",
-          "offeringCount": 101,
+          "offeringCount": 104,
           "region": "Norway East",
           "regionFlags": [],
-          "skuCount": 271,
+          "skuCount": 282,
           "stateCounts": {
-            "Closing Down": 22,
-            "GA": 244,
+            "Closing Down": 23,
+            "GA": 254,
             "Preview": 5
           }
         },
         {
           "geography": "United Kingdom",
-          "offeringCount": 100,
+          "offeringCount": 104,
           "region": "UK West",
           "regionFlags": [],
-          "skuCount": 276,
+          "skuCount": 283,
           "stateCounts": {
             "Closing Down": 32,
-            "GA": 241,
+            "GA": 248,
             "Preview": 3
-          }
-        },
-        {
-          "geography": "Canada",
-          "offeringCount": 98,
-          "region": "Canada East",
-          "regionFlags": [],
-          "skuCount": 275,
-          "stateCounts": {
-            "Closing Down": 33,
-            "GA": 236,
-            "Preview": 6
-          }
-        },
-        {
-          "geography": "Italy",
-          "offeringCount": 98,
-          "region": "Italy North",
-          "regionFlags": [],
-          "skuCount": 289,
-          "stateCounts": {
-            "Closing Down": 29,
-            "GA": 258,
-            "Preview": 2
           }
         },
         {
           "geography": "Australia",
-          "offeringCount": 97,
+          "offeringCount": 102,
           "region": "Australia Southeast",
           "regionFlags": [],
-          "skuCount": 263,
+          "skuCount": 272,
           "stateCounts": {
             "Closing Down": 30,
-            "GA": 230,
+            "GA": 239,
             "Preview": 3
           }
         },
         {
-          "geography": "Qatar",
-          "offeringCount": 90,
-          "region": "Qatar Central",
+          "geography": "Italy",
+          "offeringCount": 102,
+          "region": "Italy North",
           "regionFlags": [],
-          "skuCount": 218,
+          "skuCount": 295,
           "stateCounts": {
-            "Closing Down": 19,
-            "GA": 195,
-            "Preview": 4
+            "Closing Down": 30,
+            "GA": 263,
+            "Preview": 2
+          }
+        },
+        {
+          "geography": "Canada",
+          "offeringCount": 101,
+          "region": "Canada East",
+          "regionFlags": [],
+          "skuCount": 282,
+          "stateCounts": {
+            "Closing Down": 33,
+            "GA": 243,
+            "Preview": 6
           }
         },
         {
           "geography": "India",
-          "offeringCount": 89,
+          "offeringCount": 94,
           "region": "South India",
           "regionFlags": [],
-          "skuCount": 253,
+          "skuCount": 261,
           "stateCounts": {
             "Closing Down": 23,
-            "GA": 226,
+            "GA": 234,
+            "Preview": 4
+          }
+        },
+        {
+          "geography": "Qatar",
+          "offeringCount": 93,
+          "region": "Qatar Central",
+          "regionFlags": [],
+          "skuCount": 224,
+          "stateCounts": {
+            "Closing Down": 19,
+            "GA": 201,
             "Preview": 4
           }
         },
         {
           "geography": "Switzerland",
-          "offeringCount": 86,
+          "offeringCount": 90,
           "region": "Switzerland West",
           "regionFlags": [
             "restricted_access"
           ],
-          "skuCount": 216,
+          "skuCount": 223,
           "stateCounts": {
             "Closing Down": 19,
-            "GA": 194,
+            "GA": 201,
             "Preview": 3
           }
         },
         {
           "geography": "Spain",
-          "offeringCount": 83,
+          "offeringCount": 88,
           "region": "Spain Central",
-          "regionFlags": [],
-          "skuCount": 230,
-          "stateCounts": {
-            "Closing Down": 17,
-            "GA": 211,
-            "Preview": 2
-          }
-        },
-        {
-          "geography": "Poland",
-          "offeringCount": 80,
-          "region": "Poland Central",
           "regionFlags": [],
           "skuCount": 236,
           "stateCounts": {
@@ -2787,331 +3706,355 @@
           }
         },
         {
+          "geography": "Poland",
+          "offeringCount": 85,
+          "region": "Poland Central",
+          "regionFlags": [],
+          "skuCount": 244,
+          "stateCounts": {
+            "Closing Down": 19,
+            "GA": 223,
+            "Preview": 2
+          }
+        },
+        {
           "geography": "Australia",
-          "offeringCount": 79,
+          "offeringCount": 83,
           "region": "Australia Central",
           "regionFlags": [],
-          "skuCount": 224,
+          "skuCount": 230,
           "stateCounts": {
             "Closing Down": 21,
-            "GA": 201,
+            "GA": 207,
             "Preview": 2
           }
         },
         {
           "geography": "China (operated by 21Vianet)",
-          "offeringCount": 79,
+          "offeringCount": 83,
           "region": "China North 3",
           "regionFlags": [],
-          "skuCount": 204,
+          "skuCount": 211,
           "stateCounts": {
             "Closing Down": 21,
-            "GA": 176,
+            "GA": 183,
             "Preview": 7
           }
         },
         {
           "geography": "Indonesia",
-          "offeringCount": 79,
+          "offeringCount": 82,
           "region": "Indonesia Central",
           "regionFlags": [],
-          "skuCount": 237,
+          "skuCount": 243,
           "stateCounts": {
             "Closing Down": 19,
-            "GA": 216,
+            "GA": 222,
             "Preview": 2
-          }
-        },
-        {
-          "geography": "China (operated by 21Vianet)",
-          "offeringCount": 77,
-          "region": "China East 2",
-          "regionFlags": [],
-          "skuCount": 181,
-          "stateCounts": {
-            "Closing Down": 21,
-            "GA": 157,
-            "Preview": 3
           }
         },
         {
           "geography": "Korea",
-          "offeringCount": 76,
+          "offeringCount": 81,
           "region": "Korea South",
           "regionFlags": [
             "restricted_access"
           ],
-          "skuCount": 198,
+          "skuCount": 205,
           "stateCounts": {
             "Closing Down": 16,
-            "GA": 180,
+            "GA": 187,
             "Preview": 2
-          }
-        },
-        {
-          "geography": "Belgium",
-          "offeringCount": 74,
-          "region": "Belgium Central",
-          "regionFlags": [],
-          "skuCount": 214,
-          "stateCounts": {
-            "Closing Down": 19,
-            "GA": 194,
-            "Preview": 1
-          }
-        },
-        {
-          "geography": "Israel",
-          "offeringCount": 74,
-          "region": "Israel Central",
-          "regionFlags": [],
-          "skuCount": 200,
-          "stateCounts": {
-            "Closing Down": 15,
-            "GA": 182,
-            "Preview": 3
-          }
-        },
-        {
-          "geography": "Taiwan",
-          "offeringCount": 74,
-          "region": "Taiwan North",
-          "regionFlags": [
-            "early_access"
-          ],
-          "skuCount": 213,
-          "stateCounts": {
-            "Closing Down": 20,
-            "GA": 191,
-            "Preview": 2
-          }
-        },
-        {
-          "geography": "Malaysia",
-          "offeringCount": 72,
-          "region": "Malaysia West",
-          "regionFlags": [],
-          "skuCount": 214,
-          "stateCounts": {
-            "Closing Down": 14,
-            "GA": 197,
-            "Preview": 3
-          }
-        },
-        {
-          "geography": "Austria",
-          "offeringCount": 71,
-          "region": "Austria East",
-          "regionFlags": [],
-          "skuCount": 201,
-          "stateCounts": {
-            "Closing Down": 15,
-            "GA": 185,
-            "Preview": 1
           }
         },
         {
           "geography": "China (operated by 21Vianet)",
-          "offeringCount": 71,
-          "region": "China North 2",
+          "offeringCount": 80,
+          "region": "China East 2",
           "regionFlags": [],
-          "skuCount": 167,
+          "skuCount": 188,
           "stateCounts": {
-            "Closing Down": 20,
-            "GA": 144,
-            "Preview": 3
-          }
-        },
-        {
-          "geography": "France",
-          "offeringCount": 71,
-          "region": "France South",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "skuCount": 187,
-          "stateCounts": {
-            "Closing Down": 17,
-            "GA": 167,
-            "Preview": 3
-          }
-        },
-        {
-          "geography": "Germany",
-          "offeringCount": 71,
-          "region": "Germany North",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "skuCount": 171,
-          "stateCounts": {
-            "Closing Down": 15,
-            "GA": 153,
-            "Preview": 3
-          }
-        },
-        {
-          "geography": "Mexico",
-          "offeringCount": 71,
-          "region": "Mexico Central",
-          "regionFlags": [],
-          "skuCount": 206,
-          "stateCounts": {
-            "Closing Down": 15,
-            "GA": 189,
-            "Preview": 2
-          }
-        },
-        {
-          "geography": "New Zealand",
-          "offeringCount": 71,
-          "region": "New Zealand North",
-          "regionFlags": [],
-          "skuCount": 208,
-          "stateCounts": {
-            "Closing Down": 15,
-            "GA": 192,
-            "Preview": 1
-          }
-        },
-        {
-          "geography": "Australia",
-          "offeringCount": 68,
-          "region": "Australia Central 2",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "skuCount": 181,
-          "stateCounts": {
-            "Closing Down": 17,
-            "GA": 161,
-            "Preview": 3
-          }
-        },
-        {
-          "geography": "Denmark",
-          "offeringCount": 67,
-          "region": "Denmark East",
-          "regionFlags": [],
-          "skuCount": 189,
-          "stateCounts": {
-            "Closing Down": 16,
-            "GA": 172,
-            "Preview": 1
-          }
-        },
-        {
-          "geography": "India",
-          "offeringCount": 67,
-          "region": "West India",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "skuCount": 173,
-          "stateCounts": {
-            "Closing Down": 18,
-            "GA": 152,
-            "Preview": 3
-          }
-        },
-        {
-          "geography": "Chile",
-          "offeringCount": 66,
-          "region": "Chile Central",
-          "regionFlags": [],
-          "skuCount": 183,
-          "stateCounts": {
-            "Closing Down": 15,
-            "GA": 167,
-            "Preview": 1
-          }
-        },
-        {
-          "geography": "United Arab Emirates",
-          "offeringCount": 66,
-          "region": "UAE Central",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "skuCount": 184,
-          "stateCounts": {
-            "Closing Down": 17,
+            "Closing Down": 21,
             "GA": 164,
             "Preview": 3
           }
         },
         {
-          "geography": "China (operated by 21Vianet)",
-          "offeringCount": 65,
-          "region": "China East 3",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "skuCount": 156,
-          "stateCounts": {
-            "Closing Down": 13,
-            "GA": 137,
-            "Preview": 6
-          }
-        },
-        {
-          "geography": "Norway",
-          "offeringCount": 65,
-          "region": "Norway West",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "skuCount": 165,
+          "geography": "Israel",
+          "offeringCount": 78,
+          "region": "Israel Central",
+          "regionFlags": [],
+          "skuCount": 206,
           "stateCounts": {
             "Closing Down": 15,
-            "GA": 147,
+            "GA": 188,
             "Preview": 3
           }
         },
         {
-          "geography": "Brazil",
-          "offeringCount": 64,
-          "region": "Brazil Southeast",
+          "geography": "Taiwan",
+          "offeringCount": 78,
+          "region": "Taiwan North",
+          "regionFlags": [
+            "early_access"
+          ],
+          "skuCount": 220,
+          "stateCounts": {
+            "Closing Down": 20,
+            "GA": 198,
+            "Preview": 2
+          }
+        },
+        {
+          "geography": "Malaysia",
+          "offeringCount": 77,
+          "region": "Malaysia West",
           "regionFlags": [],
-          "skuCount": 164,
+          "skuCount": 222,
+          "stateCounts": {
+            "Closing Down": 14,
+            "GA": 205,
+            "Preview": 3
+          }
+        },
+        {
+          "geography": "China (operated by 21Vianet)",
+          "offeringCount": 76,
+          "region": "China North 2",
+          "regionFlags": [],
+          "skuCount": 174,
+          "stateCounts": {
+            "Closing Down": 20,
+            "GA": 151,
+            "Preview": 3
+          }
+        },
+        {
+          "geography": "Mexico",
+          "offeringCount": 76,
+          "region": "Mexico Central",
+          "regionFlags": [],
+          "skuCount": 212,
+          "stateCounts": {
+            "Closing Down": 15,
+            "GA": 195,
+            "Preview": 2
+          }
+        },
+        {
+          "geography": "Belgium",
+          "offeringCount": 75,
+          "region": "Belgium Central",
+          "regionFlags": [],
+          "skuCount": 218,
+          "stateCounts": {
+            "Closing Down": 19,
+            "GA": 198,
+            "Preview": 1
+          }
+        },
+        {
+          "geography": "Germany",
+          "offeringCount": 75,
+          "region": "Germany North",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "skuCount": 176,
+          "stateCounts": {
+            "Closing Down": 15,
+            "GA": 158,
+            "Preview": 3
+          }
+        },
+        {
+          "geography": "Austria",
+          "offeringCount": 74,
+          "region": "Austria East",
+          "regionFlags": [],
+          "skuCount": 206,
+          "stateCounts": {
+            "Closing Down": 15,
+            "GA": 190,
+            "Preview": 1
+          }
+        },
+        {
+          "geography": "France",
+          "offeringCount": 74,
+          "region": "France South",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "skuCount": 191,
           "stateCounts": {
             "Closing Down": 17,
-            "GA": 145,
+            "GA": 170,
+            "Preview": 4
+          }
+        },
+        {
+          "geography": "New Zealand",
+          "offeringCount": 74,
+          "region": "New Zealand North",
+          "regionFlags": [],
+          "skuCount": 212,
+          "stateCounts": {
+            "Closing Down": 15,
+            "GA": 196,
+            "Preview": 1
+          }
+        },
+        {
+          "geography": "Australia",
+          "offeringCount": 73,
+          "region": "Australia Central 2",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "skuCount": 188,
+          "stateCounts": {
+            "Closing Down": 17,
+            "GA": 168,
+            "Preview": 3
+          }
+        },
+        {
+          "geography": "Chile",
+          "offeringCount": 71,
+          "region": "Chile Central",
+          "regionFlags": [],
+          "skuCount": 190,
+          "stateCounts": {
+            "Closing Down": 15,
+            "GA": 174,
+            "Preview": 1
+          }
+        },
+        {
+          "geography": "India",
+          "offeringCount": 71,
+          "region": "West India",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "skuCount": 179,
+          "stateCounts": {
+            "Closing Down": 18,
+            "GA": 158,
+            "Preview": 3
+          }
+        },
+        {
+          "geography": "Norway",
+          "offeringCount": 70,
+          "region": "Norway West",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "skuCount": 172,
+          "stateCounts": {
+            "Closing Down": 15,
+            "GA": 154,
+            "Preview": 3
+          }
+        },
+        {
+          "geography": "United Arab Emirates",
+          "offeringCount": 70,
+          "region": "UAE Central",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "skuCount": 189,
+          "stateCounts": {
+            "Closing Down": 17,
+            "GA": 169,
+            "Preview": 3
+          }
+        },
+        {
+          "geography": "China (operated by 21Vianet)",
+          "offeringCount": 69,
+          "region": "China East 3",
+          "regionFlags": [
+            "restricted_access"
+          ],
+          "skuCount": 162,
+          "stateCounts": {
+            "Closing Down": 13,
+            "GA": 143,
+            "Preview": 6
+          }
+        },
+        {
+          "geography": "Denmark",
+          "offeringCount": 69,
+          "region": "Denmark East",
+          "regionFlags": [],
+          "skuCount": 192,
+          "stateCounts": {
+            "Closing Down": 16,
+            "GA": 175,
+            "Preview": 1
+          }
+        },
+        {
+          "geography": "Brazil",
+          "offeringCount": 68,
+          "region": "Brazil Southeast",
+          "regionFlags": [],
+          "skuCount": 169,
+          "stateCounts": {
+            "Closing Down": 17,
+            "GA": 150,
             "Preview": 2
           }
         },
         {
           "geography": "South Africa",
-          "offeringCount": 63,
+          "offeringCount": 66,
           "region": "South Africa West",
           "regionFlags": [
             "restricted_access"
           ],
-          "skuCount": 174,
+          "skuCount": 179,
           "stateCounts": {
             "Closing Down": 15,
-            "GA": 156,
+            "GA": 161,
             "Preview": 3
           }
         },
         {
           "geography": "Sweden",
-          "offeringCount": 57,
+          "offeringCount": 60,
           "region": "Sweden South",
           "regionFlags": [
             "restricted_access"
           ],
-          "skuCount": 152,
+          "skuCount": 157,
           "stateCounts": {
             "Closing Down": 14,
-            "GA": 134,
+            "GA": 139,
             "Preview": 4
           }
         },
         {
           "geography": "China (operated by 21Vianet)",
-          "offeringCount": 52,
+          "offeringCount": 56,
           "region": "China North",
+          "regionFlags": [],
+          "skuCount": 93,
+          "stateCounts": {
+            "Closing Down": 12,
+            "GA": 77,
+            "Preview": 4
+          }
+        },
+        {
+          "geography": "China (operated by 21Vianet)",
+          "offeringCount": 53,
+          "region": "China East",
           "regionFlags": [],
           "skuCount": 89,
           "stateCounts": {
@@ -3121,48 +4064,92 @@
           }
         },
         {
-          "geography": "China (operated by 21Vianet)",
-          "offeringCount": 51,
-          "region": "China East",
-          "regionFlags": [],
-          "skuCount": 87,
-          "stateCounts": {
-            "Closing Down": 12,
-            "GA": 71,
-            "Preview": 4
-          }
-        },
-        {
           "geography": "Unknown",
           "offeringCount": 44,
           "region": "Non Regional",
           "regionFlags": [],
-          "skuCount": 62,
+          "skuCount": 63,
           "stateCounts": {
             "Closing Down": 9,
-            "GA": 50,
+            "GA": 51,
             "Preview": 3
           }
         },
         {
           "geography": "India",
-          "offeringCount": 36,
+          "offeringCount": 39,
           "region": "India South Central",
           "regionFlags": [],
-          "skuCount": 106,
+          "skuCount": 111,
           "stateCounts": {
             "Closing Down": 11,
-            "GA": 94,
+            "GA": 99,
             "Preview": 1
           }
         }
       ],
       "retiringSamples": [
         {
+          "geography": "Asia Pacific",
+          "offering": "Automation",
+          "region": "East Asia",
+          "regionDisplayName": "East Asia",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Asia Pacific",
+          "offering": "Automation",
+          "region": "Southeast Asia",
+          "regionDisplayName": "Southeast Asia",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
           "geography": "Australia",
           "offering": "Automation",
           "region": "Australia East",
           "regionDisplayName": "Australia East",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Brazil",
+          "offering": "Automation",
+          "region": "Brazil South",
+          "regionDisplayName": "Brazil South",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Canada",
+          "offering": "Automation",
+          "region": "Canada Central",
+          "regionDisplayName": "Canada Central",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Automation",
+          "region": "North Europe",
+          "regionDisplayName": "North Europe",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Europe",
+          "offering": "Automation",
+          "region": "West Europe",
+          "regionDisplayName": "West Europe",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "France",
+          "offering": "Automation",
+          "region": "France Central",
+          "regionDisplayName": "France Central",
           "sku": "Change Tracking",
           "state": "Closing Down"
         },
@@ -3183,6 +4170,30 @@
           "state": "Closing Down"
         },
         {
+          "geography": "Japan",
+          "offering": "Automation",
+          "region": "Japan East",
+          "regionDisplayName": "Japan East",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Korea",
+          "offering": "Automation",
+          "region": "Korea Central",
+          "regionDisplayName": "Korea Central",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Norway",
+          "offering": "Automation",
+          "region": "Norway East",
+          "regionDisplayName": "Norway East",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
           "geography": "Sweden",
           "offering": "Automation",
           "region": "Sweden Central",
@@ -3191,10 +4202,50 @@
           "state": "Closing Down"
         },
         {
+          "geography": "Switzerland",
+          "offering": "Automation",
+          "region": "Switzerland North",
+          "regionDisplayName": "Switzerland North",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United Arab Emirates",
+          "offering": "Automation",
+          "region": "UAE North",
+          "regionDisplayName": "UAE North",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
           "geography": "United Kingdom",
           "offering": "Automation",
           "region": "UK South",
           "regionDisplayName": "UK South",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "Central US",
+          "regionDisplayName": "Central US",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "East US",
+          "regionDisplayName": "East US",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "East US 2",
+          "regionDisplayName": "East US 2",
           "sku": "Change Tracking",
           "state": "Closing Down"
         },
@@ -3211,6 +4262,30 @@
           "offering": "Automation",
           "region": "South Central US",
           "regionDisplayName": "South Central US",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "West US",
+          "regionDisplayName": "West US",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "West US 2",
+          "regionDisplayName": "West US 2",
+          "sku": "Change Tracking",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "United States",
+          "offering": "Automation",
+          "region": "West US 3",
+          "regionDisplayName": "West US 3",
           "sku": "Change Tracking",
           "state": "Closing Down"
         },
@@ -3416,161 +4491,14 @@
           "regionDisplayName": "Australia East",
           "sku": "",
           "state": "Closing Down"
-        },
-        {
-          "geography": "Australia",
-          "offering": "Azure Dedicated HSM",
-          "region": "Australia Southeast",
-          "regionDisplayName": "Australia Southeast",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "Canada",
-          "offering": "Azure Dedicated HSM",
-          "region": "Canada Central",
-          "regionDisplayName": "Canada Central",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "Canada",
-          "offering": "Azure Dedicated HSM",
-          "region": "Canada East",
-          "regionDisplayName": "Canada East",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "Europe",
-          "offering": "Azure Dedicated HSM",
-          "region": "North Europe",
-          "regionDisplayName": "North Europe",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "Europe",
-          "offering": "Azure Dedicated HSM",
-          "region": "West Europe",
-          "regionDisplayName": "West Europe",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "India",
-          "offering": "Azure Dedicated HSM",
-          "region": "Central India",
-          "regionDisplayName": "Central India",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "India",
-          "offering": "Azure Dedicated HSM",
-          "region": "South India",
-          "regionDisplayName": "South India",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "Japan",
-          "offering": "Azure Dedicated HSM",
-          "region": "Japan East",
-          "regionDisplayName": "Japan East",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "Japan",
-          "offering": "Azure Dedicated HSM",
-          "region": "Japan West",
-          "regionDisplayName": "Japan West",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "Switzerland",
-          "offering": "Azure Dedicated HSM",
-          "region": "Switzerland North",
-          "regionDisplayName": "Switzerland North",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "Switzerland",
-          "offering": "Azure Dedicated HSM",
-          "region": "Switzerland West",
-          "regionDisplayName": "Switzerland West *",
-          "regionFlags": [
-            "restricted_access"
-          ],
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "United Kingdom",
-          "offering": "Azure Dedicated HSM",
-          "region": "UK South",
-          "regionDisplayName": "UK South",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "United Kingdom",
-          "offering": "Azure Dedicated HSM",
-          "region": "UK West",
-          "regionDisplayName": "UK West",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Dedicated HSM",
-          "region": "East US",
-          "regionDisplayName": "East US",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Dedicated HSM",
-          "region": "East US 2",
-          "regionDisplayName": "East US 2",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Dedicated HSM",
-          "region": "South Central US",
-          "regionDisplayName": "South Central US",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Dedicated HSM",
-          "region": "West US",
-          "regionDisplayName": "West US",
-          "sku": "",
-          "state": "Closing Down"
-        },
-        {
-          "geography": "United States",
-          "offering": "Azure Dedicated HSM",
-          "region": "West US 2",
-          "regionDisplayName": "West US 2",
-          "sku": "",
-          "state": "Closing Down"
         }
       ],
-      "rowCount": 17092,
-      "skuCount": 523,
+      "rowCount": 17633,
+      "skuCount": 526,
       "stateCounts": {
-        "Closing Down": 1890,
-        "GA": 14824,
-        "Preview": 378
+        "Closing Down": 1935,
+        "GA": 15314,
+        "Preview": 384
       },
       "topOfferingsByRegionCount": [
         {
@@ -3589,6 +4517,25 @@
           "skuCount": 4,
           "stateCounts": {
             "GA": 169,
+            "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "App Service",
+          "regionCount": 65,
+          "skuCount": 4,
+          "stateCounts": {
+            "GA": 165
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Application Gateway",
+          "regionCount": 65,
+          "skuCount": 3,
+          "stateCounts": {
+            "GA": 140,
             "Preview": 1
           }
         },
@@ -3761,6 +4708,15 @@
           }
         },
         {
+          "geographyCount": 32,
+          "offering": "API Management",
+          "regionCount": 64,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 64
+          }
+        },
+        {
           "geographyCount": 31,
           "offering": "Azure Data Explorer",
           "regionCount": 64,
@@ -3779,342 +4735,313 @@
             "GA": 153,
             "Preview": 28
           }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Azure Firewall",
-          "regionCount": 64,
-          "skuCount": 4,
-          "stateCounts": {
-            "GA": 244
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Azure Monitor",
-          "regionCount": 64,
-          "skuCount": 7,
-          "stateCounts": {
-            "Closing Down": 15,
-            "GA": 227,
-            "Preview": 4
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Azure Resource Manager",
-          "regionCount": 64,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 64
-          }
         }
       ],
       "topRegionsByOfferingCount": [
         {
           "geography": "United States",
-          "offeringCount": 143,
+          "offeringCount": 149,
           "region": "East US",
           "regionFlags": [],
-          "skuCount": 415,
+          "skuCount": 430,
           "stateCounts": {
-            "Closing Down": 58,
-            "GA": 337,
-            "Preview": 20
+            "Closing Down": 60,
+            "GA": 349,
+            "Preview": 21
           }
         },
         {
           "geography": "Europe",
-          "offeringCount": 143,
+          "offeringCount": 148,
           "region": "West Europe",
           "regionFlags": [],
-          "skuCount": 415,
+          "skuCount": 428,
           "stateCounts": {
-            "Closing Down": 63,
-            "GA": 336,
-            "Preview": 16
-          }
-        },
-        {
-          "geography": "Australia",
-          "offeringCount": 140,
-          "region": "Australia East",
-          "regionFlags": [],
-          "skuCount": 386,
-          "stateCounts": {
-            "Closing Down": 53,
-            "GA": 320,
-            "Preview": 13
-          }
-        },
-        {
-          "geography": "United Kingdom",
-          "offeringCount": 137,
-          "region": "UK South",
-          "regionFlags": [],
-          "skuCount": 380,
-          "stateCounts": {
-            "Closing Down": 53,
-            "GA": 317,
-            "Preview": 10
-          }
-        },
-        {
-          "geography": "United States",
-          "offeringCount": 135,
-          "region": "East US 2",
-          "regionFlags": [],
-          "skuCount": 396,
-          "stateCounts": {
-            "Closing Down": 54,
-            "GA": 327,
-            "Preview": 15
-          }
-        },
-        {
-          "geography": "Europe",
-          "offeringCount": 135,
-          "region": "North Europe",
-          "regionFlags": [],
-          "skuCount": 385,
-          "stateCounts": {
-            "Closing Down": 59,
-            "GA": 316,
-            "Preview": 10
-          }
-        },
-        {
-          "geography": "United States",
-          "offeringCount": 134,
-          "region": "South Central US",
-          "regionFlags": [],
-          "skuCount": 393,
-          "stateCounts": {
-            "Closing Down": 55,
-            "GA": 330,
-            "Preview": 8
-          }
-        },
-        {
-          "geography": "United States",
-          "offeringCount": 133,
-          "region": "West US 2",
-          "regionFlags": [],
-          "skuCount": 390,
-          "stateCounts": {
-            "Closing Down": 51,
-            "GA": 322,
+            "Closing Down": 65,
+            "GA": 346,
             "Preview": 17
           }
         },
         {
-          "geography": "Asia Pacific",
-          "offeringCount": 132,
-          "region": "Southeast Asia",
+          "geography": "Australia",
+          "offeringCount": 142,
+          "region": "Australia East",
           "regionFlags": [],
-          "skuCount": 386,
+          "skuCount": 397,
+          "stateCounts": {
+            "Closing Down": 54,
+            "GA": 330,
+            "Preview": 13
+          }
+        },
+        {
+          "geography": "Europe",
+          "offeringCount": 140,
+          "region": "North Europe",
+          "regionFlags": [],
+          "skuCount": 398,
+          "stateCounts": {
+            "Closing Down": 61,
+            "GA": 326,
+            "Preview": 11
+          }
+        },
+        {
+          "geography": "United Kingdom",
+          "offeringCount": 140,
+          "region": "UK South",
+          "regionFlags": [],
+          "skuCount": 392,
+          "stateCounts": {
+            "Closing Down": 54,
+            "GA": 328,
+            "Preview": 10
+          }
+        },
+        {
+          "geography": "United States",
+          "offeringCount": 138,
+          "region": "East US 2",
+          "regionFlags": [],
+          "skuCount": 408,
           "stateCounts": {
             "Closing Down": 56,
-            "GA": 320,
+            "GA": 337,
+            "Preview": 15
+          }
+        },
+        {
+          "geography": "United States",
+          "offeringCount": 138,
+          "region": "West US 2",
+          "regionFlags": [],
+          "skuCount": 403,
+          "stateCounts": {
+            "Closing Down": 53,
+            "GA": 334,
+            "Preview": 16
+          }
+        },
+        {
+          "geography": "United States",
+          "offeringCount": 137,
+          "region": "South Central US",
+          "regionFlags": [],
+          "skuCount": 405,
+          "stateCounts": {
+            "Closing Down": 56,
+            "GA": 341,
+            "Preview": 8
+          }
+        },
+        {
+          "geography": "Asia Pacific",
+          "offeringCount": 137,
+          "region": "Southeast Asia",
+          "regionFlags": [],
+          "skuCount": 399,
+          "stateCounts": {
+            "Closing Down": 58,
+            "GA": 331,
             "Preview": 10
           }
         },
         {
           "geography": "Canada",
-          "offeringCount": 127,
+          "offeringCount": 131,
           "region": "Canada Central",
           "regionFlags": [],
-          "skuCount": 347,
+          "skuCount": 359,
           "stateCounts": {
-            "Closing Down": 46,
-            "GA": 292,
+            "Closing Down": 48,
+            "GA": 302,
             "Preview": 9
           }
         },
         {
           "geography": "Japan",
-          "offeringCount": 126,
+          "offeringCount": 130,
           "region": "Japan East",
           "regionFlags": [],
-          "skuCount": 365,
+          "skuCount": 378,
           "stateCounts": {
-            "Closing Down": 47,
-            "GA": 312,
+            "Closing Down": 49,
+            "GA": 323,
             "Preview": 6
           }
         },
         {
-          "geography": "India",
-          "offeringCount": 121,
-          "region": "Central India",
-          "regionFlags": [],
-          "skuCount": 337,
-          "stateCounts": {
-            "Closing Down": 45,
-            "GA": 284,
-            "Preview": 8
-          }
-        },
-        {
           "geography": "United States",
-          "offeringCount": 121,
+          "offeringCount": 125,
           "region": "Central US",
           "regionFlags": [],
-          "skuCount": 361,
+          "skuCount": 373,
           "stateCounts": {
-            "Closing Down": 46,
-            "GA": 306,
+            "Closing Down": 48,
+            "GA": 316,
             "Preview": 9
           }
         },
         {
           "geography": "United States",
-          "offeringCount": 119,
-          "region": "West US",
+          "offeringCount": 125,
+          "region": "West US 3",
           "regionFlags": [],
-          "skuCount": 365,
+          "skuCount": 357,
           "stateCounts": {
-            "Closing Down": 49,
-            "GA": 303,
-            "Preview": 13
+            "Closing Down": 34,
+            "GA": 312,
+            "Preview": 11
           }
         },
         {
-          "geography": "United States",
-          "offeringCount": 119,
-          "region": "West US 3",
+          "geography": "India",
+          "offeringCount": 124,
+          "region": "Central India",
           "regionFlags": [],
-          "skuCount": 346,
+          "skuCount": 347,
           "stateCounts": {
-            "Closing Down": 32,
-            "GA": 304,
-            "Preview": 10
+            "Closing Down": 46,
+            "GA": 293,
+            "Preview": 8
           }
         },
         {
           "geography": "Brazil",
-          "offeringCount": 118,
+          "offeringCount": 123,
           "region": "Brazil South",
           "regionFlags": [],
-          "skuCount": 321,
+          "skuCount": 333,
+          "stateCounts": {
+            "Closing Down": 40,
+            "GA": 285,
+            "Preview": 8
+          }
+        },
+        {
+          "geography": "United States",
+          "offeringCount": 123,
+          "region": "West US",
+          "regionFlags": [],
+          "skuCount": 377,
+          "stateCounts": {
+            "Closing Down": 50,
+            "GA": 313,
+            "Preview": 14
+          }
+        },
+        {
+          "geography": "Germany",
+          "offeringCount": 120,
+          "region": "Germany West Central",
+          "regionFlags": [],
+          "skuCount": 364,
           "stateCounts": {
             "Closing Down": 38,
-            "GA": 275,
+            "GA": 318,
             "Preview": 8
           }
         },
         {
           "geography": "Sweden",
-          "offeringCount": 118,
+          "offeringCount": 120,
           "region": "Sweden Central",
           "regionFlags": [],
-          "skuCount": 338,
+          "skuCount": 346,
           "stateCounts": {
-            "Closing Down": 32,
-            "GA": 296,
+            "Closing Down": 33,
+            "GA": 303,
             "Preview": 10
           }
         },
         {
-          "geography": "Germany",
-          "offeringCount": 117,
-          "region": "Germany West Central",
-          "regionFlags": [],
-          "skuCount": 356,
-          "stateCounts": {
-            "Closing Down": 37,
-            "GA": 311,
-            "Preview": 8
-          }
-        },
-        {
           "geography": "United States",
-          "offeringCount": 116,
+          "offeringCount": 118,
           "region": "North Central US",
           "regionFlags": [],
-          "skuCount": 334,
+          "skuCount": 342,
           "stateCounts": {
             "Closing Down": 41,
-            "GA": 284,
+            "GA": 292,
             "Preview": 9
           }
         },
         {
+          "geography": "Asia Pacific",
+          "offeringCount": 116,
+          "region": "East Asia",
+          "regionFlags": [],
+          "skuCount": 337,
+          "stateCounts": {
+            "Closing Down": 44,
+            "GA": 285,
+            "Preview": 8
+          }
+        },
+        {
           "geography": "France",
-          "offeringCount": 114,
+          "offeringCount": 116,
           "region": "France Central",
           "regionFlags": [],
-          "skuCount": 325,
+          "skuCount": 336,
           "stateCounts": {
-            "Closing Down": 35,
-            "GA": 284,
+            "Closing Down": 37,
+            "GA": 293,
             "Preview": 6
           }
         },
         {
           "geography": "Switzerland",
-          "offeringCount": 113,
+          "offeringCount": 116,
           "region": "Switzerland North",
           "regionFlags": [],
-          "skuCount": 309,
+          "skuCount": 323,
           "stateCounts": {
-            "Closing Down": 35,
-            "GA": 266,
-            "Preview": 8
-          }
-        },
-        {
-          "geography": "Asia Pacific",
-          "offeringCount": 111,
-          "region": "East Asia",
-          "regionFlags": [],
-          "skuCount": 325,
-          "stateCounts": {
-            "Closing Down": 42,
-            "GA": 275,
+            "Closing Down": 37,
+            "GA": 278,
             "Preview": 8
           }
         },
         {
           "geography": "United Arab Emirates",
-          "offeringCount": 111,
+          "offeringCount": 116,
           "region": "UAE North",
           "regionFlags": [],
-          "skuCount": 320,
+          "skuCount": 332,
           "stateCounts": {
-            "Closing Down": 34,
-            "GA": 280,
+            "Closing Down": 36,
+            "GA": 290,
             "Preview": 6
           }
         },
         {
           "geography": "Korea",
-          "offeringCount": 110,
+          "offeringCount": 114,
           "region": "Korea Central",
           "regionFlags": [],
-          "skuCount": 307,
+          "skuCount": 320,
           "stateCounts": {
-            "Closing Down": 33,
-            "GA": 267,
+            "Closing Down": 35,
+            "GA": 278,
             "Preview": 7
           }
         },
         {
-          "geography": "Japan",
-          "offeringCount": 108,
-          "region": "Japan West",
+          "geography": "United States",
+          "offeringCount": 113,
+          "region": "West Central US",
           "regionFlags": [],
-          "skuCount": 296,
+          "skuCount": 295,
           "stateCounts": {
-            "Closing Down": 32,
-            "GA": 258,
-            "Preview": 6
+            "Closing Down": 27,
+            "GA": 257,
+            "Preview": 11
           }
         }
       ]
     }
   },
-  "generatedAt": "2026-11-02T15:57:34Z",
+  "generatedAt": "2026-11-03T00:59:18Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -4122,389 +5049,8 @@
   },
   "price": {
     "changes": {
-      "added": 20,
-      "addedSamples": [
-        {
-          "armRegionName": "australiaeast",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2023-05-01T00:00:00Z",
-          "location": "AU East",
-          "meterId": "313663e5-e3ab-591b-8877-497a5b096900",
-          "meterName": "E10 ZRS Disk",
-          "productId": "DZH318Z0BP88",
-          "productName": "Standard SSD Managed Disks",
-          "retailPrice": 19.584,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BP88/023D",
-          "skuName": "E10 ZRS",
-          "unitOfMeasure": "1/Month",
-          "unitPrice": 19.584
-        },
-        {
-          "armRegionName": "australiaeast",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2019-05-01T00:00:00Z",
-          "location": "AU East",
-          "meterId": "311b4e55-03d1-4c45-8841-a67c5896cadb",
-          "meterName": "Archive LRS Write Operations",
-          "productId": "DZH318Z0C120",
-          "productName": "General Block Blob v2 Hierarchical Namespace",
-          "retailPrice": 0.156,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0C120/002N",
-          "skuName": "Archive LRS",
-          "unitOfMeasure": "10K",
-          "unitPrice": 0.156
-        },
-        {
-          "armRegionName": "brazilsouth",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2019-10-04T00:00:00Z",
-          "location": "BR South",
-          "meterId": "2a5da3be-068d-4aab-aca2-fd32cd492224",
-          "meterName": "Archive RA-GRS Early Delete",
-          "productId": "DZH318Z0BNZJ",
-          "productName": "Blob Storage",
-          "retailPrice": 0.0056,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BNZJ/002G",
-          "skuName": "Archive RA-GRS",
-          "unitOfMeasure": "1 GB",
-          "unitPrice": 0.0056
-        },
-        {
-          "armRegionName": "brazilsouth",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2022-11-01T00:00:00Z",
-          "location": "BR South",
-          "meterId": "2a2f0c05-f5e2-5ab9-a9b0-f29ae66ef116",
-          "meterName": "Premium ZRS Iterative Read Operations",
-          "productId": "DZH318Z0CPS8",
-          "productName": "Premium ADLS Gen2 Flat Namespace",
-          "retailPrice": 0.035,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0CPS8/0007",
-          "skuName": "Premium ZRS",
-          "unitOfMeasure": "10K",
-          "unitPrice": 0.035
-        },
-        {
-          "armRegionName": "brazilsouth",
-          "armSkuName": "HDD",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2024-08-01T00:00:00Z",
-          "location": "BR South",
-          "meterId": "2a1a41e9-27a4-5950-85c7-6a93680624b4",
-          "meterName": "HDD LRS Soft-Deleted Usage",
-          "productId": "DZH318Z0H96B",
-          "productName": "Azure Files Provisioned v2",
-          "retailPrice": 2e-05,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0H96B/00MK",
-          "skuName": "HDD LRS",
-          "unitOfMeasure": "1 GiB/Hour",
-          "unitPrice": 2e-05
-        },
-        {
-          "armRegionName": "brazilsouth",
-          "armSkuName": "Standard_D4_v3",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2017-11-03T00:00:00Z",
-          "location": "BR South",
-          "meterId": "07b295d8-6ec7-4c70-98bf-9449873aa718",
-          "meterName": "D4 v3/D4s v3 Low Priority",
-          "productId": "DZH318Z0BPVL",
-          "productName": "Virtual Machines Dv3 Series Windows",
-          "retailPrice": 0.201,
-          "serviceFamily": "Compute",
-          "serviceId": "DZH313Z7MMC8",
-          "serviceName": "Virtual Machines",
-          "skuId": "DZH318Z0BPVL/005N",
-          "skuName": "D4 v3 Low Priority",
-          "unitOfMeasure": "1 Hour",
-          "unitPrice": 0.201
-        },
-        {
-          "armRegionName": "eastus",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2020-02-01T00:00:00Z",
-          "location": "US East",
-          "meterId": "2cc54bb9-a018-4dfd-a1d6-8bb06679514b",
-          "meterName": "Archive LRS Early Delete",
-          "productId": "DZH318Z0BJRM",
-          "productName": "Azure Data Lake Storage Gen2 Hierarchical Namespace",
-          "retailPrice": 0.00099,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BJRM/005R",
-          "skuName": "Archive LRS",
-          "unitOfMeasure": "1 GB",
-          "unitPrice": 0.00099
-        },
-        {
-          "armRegionName": "eastus",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2019-06-01T00:00:00Z",
-          "location": "US East",
-          "meterId": "2bf64077-b5e2-4bd2-980f-0f32a9bbed81",
-          "meterName": "ZRS Data Stored",
-          "productId": "DZH318Z0BNZ5",
-          "productName": "Tables",
-          "retailPrice": 0.0562,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BNZ5/004J",
-          "skuName": "Standard ZRS",
-          "unitOfMeasure": "1 GB/Month",
-          "unitPrice": 0.0562
-        },
-        {
-          "armRegionName": "eastus",
-          "armSkuName": "Turbo",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2026-11-01T00:00:00Z",
-          "location": "US East",
-          "meterId": "2bd19a36-c54b-9dff-c086-4d752e832822",
-          "meterName": "Account Enabled",
-          "productId": "DZH318Z0BPH7",
-          "productName": "General Block Blob v2",
-          "retailPrice": 20.0,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BPH7/03Q0",
-          "skuName": "Turbo LRS",
-          "unitOfMeasure": "1/Month",
-          "unitPrice": 20.0
-        },
-        {
-          "armRegionName": "eastus2",
-          "armSkuName": "Cold",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2023-05-01T00:00:00Z",
-          "location": "US East 2",
-          "meterId": "3418faf6-3c58-50d5-967d-aade22a7f1d4",
-          "meterName": "Cold ZRS Read Operations",
-          "productId": "DZH318Z0BJRN",
-          "productName": "Azure Data Lake Storage Gen2 Flat Namespace",
-          "retailPrice": 0.1,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BJRN/01LD",
-          "skuName": "Cold ZRS",
-          "unitOfMeasure": "10K",
-          "unitPrice": 0.1
-        },
-        {
-          "armRegionName": "eastus2",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2021-03-01T00:00:00Z",
-          "location": "US East 2",
-          "meterId": "3338fd1e-5e23-53f3-a963-86d4c8368c39",
-          "meterName": "LRS Data Stored",
-          "productId": "DZH318Z0BNZ5",
-          "productName": "Tables",
-          "retailPrice": 0.045,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BNZ5/00FS",
-          "skuName": "Account Encrypted LRS",
-          "unitOfMeasure": "1 GB/Month",
-          "unitPrice": 0.045
-        },
-        {
-          "armRegionName": "eastus2",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2019-01-01T00:00:00Z",
-          "location": "US East 2",
-          "meterId": "33e16a00-97e4-425d-8ed1-0682867920f3",
-          "meterName": "E6 LRS Disk",
-          "productId": "DZH318Z0BP88",
-          "productName": "Standard SSD Managed Disks",
-          "retailPrice": 4.8,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BP88/009W",
-          "skuName": "E6 LRS",
-          "unitOfMeasure": "1/Month",
-          "unitPrice": 4.8
-        },
-        {
-          "armRegionName": "japaneast",
-          "armSkuName": "Cold",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2023-05-01T00:00:00Z",
-          "location": "JA East",
-          "meterId": "30fb0737-f4fd-507c-991d-b7405952cc99",
-          "meterName": "Cold GRS Data Stored",
-          "productId": "DZH318Z0BJRN",
-          "productName": "Azure Data Lake Storage Gen2 Flat Namespace",
-          "retailPrice": 0.009,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BJRN/01PL",
-          "skuName": "Cold GRS",
-          "unitOfMeasure": "1 GB/Month",
-          "unitPrice": 0.009
-        },
-        {
-          "armRegionName": "northeurope",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2019-04-01T00:00:00Z",
-          "location": "EU North",
-          "meterId": "38436967-dc61-41fe-ac1d-91f8483b04bb",
-          "meterName": "Hot GRS Iterative Read Operations",
-          "productId": "DZH318Z0BJRN",
-          "productName": "Azure Data Lake Storage Gen2 Flat Namespace",
-          "retailPrice": 0.1,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BJRN/00CW",
-          "skuName": "Hot GRS",
-          "unitOfMeasure": "10K",
-          "unitPrice": 0.1
-        },
-        {
-          "armRegionName": "southeastasia",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2022-12-01T00:00:00Z",
-          "location": "AP Southeast",
-          "meterId": "344f8e8c-6b68-56b0-9ff2-b940aba86b90",
-          "meterName": "Archive GRS Priority Data Retrieval",
-          "productId": "DZH318Z0C120",
-          "productName": "General Block Blob v2 Hierarchical Namespace",
-          "retailPrice": 0.14,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0C120/007C",
-          "skuName": "Archive GRS",
-          "unitOfMeasure": "1 GB",
-          "unitPrice": 0.14
-        },
-        {
-          "armRegionName": "westeurope",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2017-11-01T00:00:00Z",
-          "location": "EU West",
-          "meterId": "331ffa77-a340-4aa9-b23c-fc13aaaa5d0e",
-          "meterName": "Read Additional IO",
-          "productId": "DZH318Z0BNWT",
-          "productName": "Standard Page Blob v2",
-          "retailPrice": 0.00018,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BNWT/000G",
-          "skuName": "Standard LRS",
-          "unitOfMeasure": "10K",
-          "unitPrice": 0.00018
-        },
-        {
-          "armRegionName": "westeurope",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2020-05-01T00:00:00Z",
-          "location": "EU West",
-          "meterId": "32a94448-76e7-4c3f-b0de-d0628c2c6267",
-          "meterName": "Hot LRS Write Operations",
-          "productId": "DZH318Z0BP09",
-          "productName": "Files v2",
-          "retailPrice": 0.0702,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BP09/009Q",
-          "skuName": "Hot LRS",
-          "unitOfMeasure": "10K",
-          "unitPrice": 0.0702
-        },
-        {
-          "armRegionName": "westeurope",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2020-03-01T00:00:00Z",
-          "location": "EU West",
-          "meterId": "32d38a15-a528-4fb1-b203-822350765a61",
-          "meterName": "Hot ZRS Write Operations",
-          "productId": "DZH318Z0C120",
-          "productName": "General Block Blob v2 Hierarchical Namespace",
-          "retailPrice": 0.088,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0C120/001K",
-          "skuName": "Hot ZRS",
-          "unitOfMeasure": "10K",
-          "unitPrice": 0.088
-        },
-        {
-          "armRegionName": "westus2",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2019-06-01T00:00:00Z",
-          "location": "US West 2",
-          "meterId": "2e073eb1-3b56-4bd2-aafe-e61279c8f6a9",
-          "meterName": "Cool LRS Write Operations",
-          "productId": "DZH318Z0BP09",
-          "productName": "Files v2",
-          "retailPrice": 0.13,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0BP09/008B",
-          "skuName": "Cool LRS",
-          "unitOfMeasure": "10K",
-          "unitPrice": 0.13
-        },
-        {
-          "armRegionName": "westus2",
-          "armSkuName": "",
-          "currencyCode": "USD",
-          "effectiveStartDate": "2020-03-01T00:00:00Z",
-          "location": "US West 2",
-          "meterId": "2e9065bd-6d09-4f31-bb28-8a5ec8d5f33b",
-          "meterName": "Cool LRS Data Retrieval",
-          "productId": "DZH318Z0C120",
-          "productName": "General Block Blob v2 Hierarchical Namespace",
-          "retailPrice": 0.01,
-          "serviceFamily": "Storage",
-          "serviceId": "DZH317F1HKN0",
-          "serviceName": "Storage",
-          "skuId": "DZH318Z0C120/002J",
-          "skuName": "Cool LRS",
-          "unitOfMeasure": "1 GB",
-          "unitPrice": 0.01
-        }
-      ],
+      "added": 0,
+      "addedSamples": [],
       "priceChanged": 0,
       "priceChangedSamples": [],
       "removed": 0,
@@ -14585,9 +15131,9 @@
   "schemaVersion": 1,
   "sources": {
     "availability": {
-      "contentLength": 3255638,
-      "etag": "W/\"0838812265dd1:0\"",
-      "lastModified": "Mon, 26 Oct 2026 08:14:22 GMT",
+      "contentLength": 3356230,
+      "etag": "W/\"0b76e549b6add1:0\"",
+      "lastModified": "Mon, 02 Nov 2026 07:25:26 GMT",
       "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
     },
     "prices": {
