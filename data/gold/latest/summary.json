@@ -4116,7 +4116,7 @@
       ]
     }
   },
-  "generatedAt": "2026-11-04T23:41:01Z",
+  "generatedAt": "2026-11-05T23:38:58Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
