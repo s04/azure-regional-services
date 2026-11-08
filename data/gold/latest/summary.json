@@ -4116,7 +4116,7 @@
       ]
     }
   },
-  "generatedAt": "2026-11-07T21:52:33Z",
+  "generatedAt": "2026-11-08T22:07:32Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -4124,16 +4124,207 @@
   },
   "price": {
     "changes": {
-      "added": 0,
-      "addedSamples": [],
+      "added": 10,
+      "addedSamples": [
+        {
+          "armRegionName": "australiaeast",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "AU East",
+          "meterId": "636b5961-90ab-50f0-a20e-de37529701d0",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.18125,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/000X",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.18125
+        },
+        {
+          "armRegionName": "brazilsouth",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "BR South",
+          "meterId": "24282f72-1ea6-517c-b78d-2cdd33299660",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.25,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/000G",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.25
+        },
+        {
+          "armRegionName": "eastus",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "US East",
+          "meterId": "520b1fde-418e-56a4-a5b7-a69e2f08fd30",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.125,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/0009",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.125
+        },
+        {
+          "armRegionName": "eastus2",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "US East 2",
+          "meterId": "54c3b503-954e-515b-a11c-b745113638f8",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.125,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/001N",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.125
+        },
+        {
+          "armRegionName": "japaneast",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "JA East",
+          "meterId": "6d467eff-b173-5bf2-8f0c-1a073a5e2e3e",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.18125,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/001X",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.18125
+        },
+        {
+          "armRegionName": "northeurope",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "EU North",
+          "meterId": "8a2054db-99f2-54c5-adee-c1a4a1d38531",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.17875,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/0012",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.17875
+        },
+        {
+          "armRegionName": "southeastasia",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "AP Southeast",
+          "meterId": "1cc00b92-9f7a-5a4a-8d81-ec1fa0ca16f0",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.175,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/0010",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.175
+        },
+        {
+          "armRegionName": "swedencentral",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "SE Central",
+          "meterId": "313036d6-89fe-5c71-b6a3-2ce1d0df7e36",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.1625,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/000Z",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.1625
+        },
+        {
+          "armRegionName": "westeurope",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "EU West",
+          "meterId": "1f4b9dbd-3063-5480-aa68-f5888abaade0",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.17875,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/000K",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.17875
+        },
+        {
+          "armRegionName": "westus2",
+          "armSkuName": "1 vCore",
+          "currencyCode": "USD",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
+          "location": "US West 2",
+          "meterId": "b0f8cbe6-5b2c-5184-941f-ccf9722b704b",
+          "meterName": "1 vCore",
+          "productId": "DZH318XZNPGD",
+          "productName": "Azure Database for PostgreSQL Flex Serv Memory Opt Easv5 Ser Comp",
+          "retailPrice": 0.125,
+          "serviceFamily": "Databases",
+          "serviceId": "DZH3199QPQTD",
+          "serviceName": "Azure Database for PostgreSQL",
+          "skuId": "DZH318XZNPGD/001F",
+          "skuName": "1 vCore",
+          "unitOfMeasure": "1 Hour",
+          "unitPrice": 0.125
+        }
+      ],
       "priceChanged": 0,
       "priceChangedSamples": [],
       "removed": 0,
       "removedSamples": []
     },
-    "dataHash": "2c3b114d7882cca375f1dbf8e70d2a29ffb9050fe3e8249a3cd02acdf8df94a3",
+    "dataHash": "84fbf7853ded6edb187877ff287141f9dad8359e9bd3bb9253bb3c26a91c23b5",
     "failures": [],
-    "itemCount": 8976,
+    "itemCount": 8986,
     "maxItemsPerQuery": 200,
     "queryCount": 100,
     "querySummaries": [
@@ -7438,7 +7629,7 @@
         "unitCount": 7
       },
       {
-        "averageRetailPrice": 3.74292574,
+        "averageRetailPrice": 3.71248407,
         "cheapestSamples": [
           {
             "armRegionName": "australiaeast",
@@ -7537,10 +7728,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 116,
+        "itemCount": 117,
         "maxRetailPrice": 76.343,
         "minRetailPrice": 0.0,
-        "productCount": 48,
+        "productCount": 49,
         "region": "australiaeast",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 51,
@@ -7548,7 +7739,7 @@
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 5.85401073,
+        "averageRetailPrice": 5.8076966,
         "cheapestSamples": [
           {
             "armRegionName": "brazilsouth",
@@ -7647,10 +7838,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 120,
+        "itemCount": 121,
         "maxRetailPrice": 133.345,
         "minRetailPrice": 0.0,
-        "productCount": 50,
+        "productCount": 51,
         "region": "brazilsouth",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 51,
@@ -7658,7 +7849,7 @@
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 2.94413681,
+        "averageRetailPrice": 2.92083816,
         "cheapestSamples": [
           {
             "armRegionName": "eastus",
@@ -7757,10 +7948,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 120,
+        "itemCount": 121,
         "maxRetailPrice": 63.619,
         "minRetailPrice": 0.0,
-        "productCount": 51,
+        "productCount": 52,
         "region": "eastus",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 51,
@@ -7768,7 +7959,7 @@
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 2.92294973,
+        "averageRetailPrice": 2.90001571,
         "cheapestSamples": [
           {
             "armRegionName": "eastus2",
@@ -7867,10 +8058,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 121,
+        "itemCount": 122,
         "maxRetailPrice": 63.619,
         "minRetailPrice": 0.0,
-        "productCount": 52,
+        "productCount": 53,
         "region": "eastus2",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 51,
@@ -7878,7 +8069,7 @@
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.65096493,
+        "averageRetailPrice": 3.62205064,
         "cheapestSamples": [
           {
             "armRegionName": "japaneast",
@@ -7977,10 +8168,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 119,
+        "itemCount": 120,
         "maxRetailPrice": 76.343,
         "minRetailPrice": 0.0,
-        "productCount": 50,
+        "productCount": 51,
         "region": "japaneast",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 51,
@@ -7988,7 +8179,7 @@
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.26479976,
+        "averageRetailPrice": 3.23950427,
         "cheapestSamples": [
           {
             "armRegionName": "northeurope",
@@ -8087,10 +8278,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 121,
+        "itemCount": 122,
         "maxRetailPrice": 71.253,
         "minRetailPrice": 0.0,
-        "productCount": 52,
+        "productCount": 53,
         "region": "northeurope",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 51,
@@ -8098,7 +8289,7 @@
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.64798895,
+        "averageRetailPrice": 3.61904738,
         "cheapestSamples": [
           {
             "armRegionName": "southeastasia",
@@ -8197,10 +8388,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 119,
+        "itemCount": 120,
         "maxRetailPrice": 76.343,
         "minRetailPrice": 0.0,
-        "productCount": 50,
+        "productCount": 51,
         "region": "southeastasia",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 51,
@@ -8208,7 +8399,7 @@
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.18727712,
+        "averageRetailPrice": 3.16097471,
         "cheapestSamples": [
           {
             "armRegionName": "swedencentral",
@@ -8307,10 +8498,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 114,
+        "itemCount": 115,
         "maxRetailPrice": 65.4,
         "minRetailPrice": 0.0,
-        "productCount": 49,
+        "productCount": 50,
         "region": "swedencentral",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 50,
@@ -8318,7 +8509,7 @@
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.48872557,
+        "averageRetailPrice": 3.46203222,
         "cheapestSamples": [
           {
             "armRegionName": "westeurope",
@@ -8417,10 +8608,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 123,
+        "itemCount": 124,
         "maxRetailPrice": 77.615,
         "minRetailPrice": 0.0,
-        "productCount": 54,
+        "productCount": 55,
         "region": "westeurope",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 51,
@@ -8428,7 +8619,7 @@
         "unitCount": 4
       },
       {
-        "averageRetailPrice": 3.01826339,
+        "averageRetailPrice": 2.99374421,
         "cheapestSamples": [
           {
             "armRegionName": "westus2",
@@ -8527,10 +8718,10 @@
           }
         ],
         "currency": "USD",
-        "itemCount": 117,
+        "itemCount": 118,
         "maxRetailPrice": 63.619,
         "minRetailPrice": 0.0,
-        "productCount": 49,
+        "productCount": 50,
         "region": "westus2",
         "service": "Azure Database for PostgreSQL",
         "skuCount": 51,
