@@ -1,14 +1,207 @@
 {
   "availability": {
     "changes": {
-      "added": 0,
-      "addedSamples": [],
+      "added": 24,
+      "addedSamples": [
+        {
+          "geography": "India",
+          "offering": "Azure Analysis Services",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Azure DDoS Protection",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "DDoS IP Protection",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Azure Database for MySQL",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Azure Database for MySQL - Flexible Server",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Azure Firewall",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Azure Firewall Standard",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Azure Health Data Services",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Azure Health Data Services",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Azure Kubernetes Service (AKS)",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Azure Monitor",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Application Insights",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Storage",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Ultra Disk Storage",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "DASv4-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "DAv4-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Dadsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Daldsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Ddsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Dldsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Dlsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Dsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Eadsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Easv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Edsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Esv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Falsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Famsv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "India",
+          "offering": "Virtual Machines",
+          "region": "India South Central",
+          "regionDisplayName": "India South Central",
+          "sku": "Fasv6-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Indonesia",
+          "offering": "Azure Analysis Services",
+          "region": "Indonesia Central",
+          "regionDisplayName": "Indonesia Central",
+          "sku": "",
+          "state": "GA"
+        }
+      ],
       "removed": 0,
       "removedSamples": [],
       "stateChanged": 0,
       "stateChangedSamples": []
     },
-    "dataHash": "2c554a03128895e47e15cd84fb195a1942e8607efde2cf6725dcfca6d9752577",
+    "dataHash": "b1dda859038b841394f426000509aeb3cc3152842cdf0acfe29f40a96aeea1e5",
     "summary": {
       "geographies": [
         {
@@ -61,11 +254,11 @@
         },
         {
           "geography": "India",
-          "rowCount": 898
+          "rowCount": 921
         },
         {
           "geography": "Indonesia",
-          "rowCount": 243
+          "rowCount": 244
         },
         {
           "geography": "Israel",
@@ -303,7 +496,7 @@
           "regionCount": 65,
           "skuCount": 16,
           "stateCounts": {
-            "GA": 859
+            "GA": 860
           }
         },
         {
@@ -340,7 +533,7 @@
           "skuCount": 169,
           "stateCounts": {
             "Closing Down": 1007,
-            "GA": 4673,
+            "GA": 4688,
             "Preview": 22
           }
         },
@@ -374,6 +567,15 @@
         },
         {
           "geographyCount": 32,
+          "offering": "Azure Database for MySQL",
+          "regionCount": 64,
+          "skuCount": 2,
+          "stateCounts": {
+            "GA": 121
+          }
+        },
+        {
+          "geographyCount": 32,
           "offering": "Azure Database for PostgreSQL",
           "regionCount": 64,
           "skuCount": 4,
@@ -388,7 +590,7 @@
           "regionCount": 64,
           "skuCount": 4,
           "stateCounts": {
-            "GA": 244
+            "GA": 245
           }
         },
         {
@@ -398,7 +600,7 @@
           "skuCount": 7,
           "stateCounts": {
             "Closing Down": 15,
-            "GA": 227,
+            "GA": 228,
             "Preview": 4
           }
         },
@@ -480,11 +682,12 @@
         },
         {
           "geographyCount": 32,
-          "offering": "Azure Database for MySQL",
+          "offering": "Azure DDoS Protection",
           "regionCount": 63,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 120
+            "GA": 122,
+            "Preview": 1
           }
         },
         {
@@ -508,12 +711,11 @@
         },
         {
           "geographyCount": 32,
-          "offering": "Azure DDoS Protection",
+          "offering": "Azure Kubernetes Service (AKS)",
           "regionCount": 62,
-          "skuCount": 2,
+          "skuCount": 1,
           "stateCounts": {
-            "GA": 121,
-            "Preview": 1
+            "GA": 62
           }
         },
         {
@@ -591,15 +793,6 @@
         {
           "geographyCount": 32,
           "offering": "Azure Kubernetes Fleet Manager",
-          "regionCount": 61,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 61
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Azure Kubernetes Service (AKS)",
           "regionCount": 61,
           "skuCount": 1,
           "stateCounts": {
@@ -1097,11 +1290,11 @@
         {
           "geographyCount": 19,
           "offering": "Azure Health Data Services",
-          "regionCount": 30,
+          "regionCount": 31,
           "skuCount": 3,
           "stateCounts": {
             "Closing Down": 26,
-            "GA": 44,
+            "GA": 45,
             "Preview": 9
           }
         },
@@ -1196,8 +1389,8 @@
           }
         },
         {
-          "geographyCount": 16,
-          "offering": "Azure Arc-enabled SQL Server",
+          "geographyCount": 13,
+          "offering": "Azure Analysis Services",
           "regionCount": 25,
           "skuCount": 1,
           "stateCounts": {
@@ -1205,12 +1398,12 @@
           }
         },
         {
-          "geographyCount": 12,
-          "offering": "Azure Analysis Services",
-          "regionCount": 23,
+          "geographyCount": 16,
+          "offering": "Azure Arc-enabled SQL Server",
+          "regionCount": 25,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 23
+            "GA": 25
           }
         },
         {
@@ -2818,13 +3011,13 @@
         },
         {
           "geography": "Indonesia",
-          "offeringCount": 82,
+          "offeringCount": 83,
           "region": "Indonesia Central",
           "regionFlags": [],
-          "skuCount": 243,
+          "skuCount": 244,
           "stateCounts": {
             "Closing Down": 19,
-            "GA": 222,
+            "GA": 223,
             "Preview": 2
           }
         },
@@ -3139,6 +3332,18 @@
           }
         },
         {
+          "geography": "India",
+          "offeringCount": 44,
+          "region": "India South Central",
+          "regionFlags": [],
+          "skuCount": 134,
+          "stateCounts": {
+            "Closing Down": 11,
+            "GA": 122,
+            "Preview": 1
+          }
+        },
+        {
           "geography": "Unknown",
           "offeringCount": 44,
           "region": "Non Regional",
@@ -3148,18 +3353,6 @@
             "Closing Down": 9,
             "GA": 51,
             "Preview": 3
-          }
-        },
-        {
-          "geography": "India",
-          "offeringCount": 39,
-          "region": "India South Central",
-          "regionFlags": [],
-          "skuCount": 111,
-          "stateCounts": {
-            "Closing Down": 11,
-            "GA": 99,
-            "Preview": 1
           }
         }
       ],
@@ -3568,11 +3761,11 @@
           "state": "Closing Down"
         }
       ],
-      "rowCount": 17633,
+      "rowCount": 17657,
       "skuCount": 526,
       "stateCounts": {
         "Closing Down": 1935,
-        "GA": 15314,
+        "GA": 15338,
         "Preview": 384
       },
       "topOfferingsByRegionCount": [
@@ -3732,7 +3925,7 @@
           "regionCount": 65,
           "skuCount": 16,
           "stateCounts": {
-            "GA": 859
+            "GA": 860
           }
         },
         {
@@ -3769,7 +3962,7 @@
           "skuCount": 169,
           "stateCounts": {
             "Closing Down": 1007,
-            "GA": 4673,
+            "GA": 4688,
             "Preview": 22
           }
         },
@@ -3803,12 +3996,11 @@
         },
         {
           "geographyCount": 32,
-          "offering": "Azure Database for PostgreSQL",
+          "offering": "Azure Database for MySQL",
           "regionCount": 64,
-          "skuCount": 4,
+          "skuCount": 2,
           "stateCounts": {
-            "GA": 153,
-            "Preview": 28
+            "GA": 121
           }
         }
       ],
@@ -4116,7 +4308,7 @@
       ]
     }
   },
-  "generatedAt": "2026-11-09T16:23:33Z",
+  "generatedAt": "2026-11-10T01:33:25Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -14206,9 +14398,9 @@
   "schemaVersion": 1,
   "sources": {
     "availability": {
-      "contentLength": 3356230,
-      "etag": "W/\"0b76e549b6add1:0\"",
-      "lastModified": "Mon, 02 Nov 2026 07:25:26 GMT",
+      "contentLength": 3360872,
+      "etag": "W/\"08d81382870dd1:0\"",
+      "lastModified": "Mon, 09 Nov 2026 08:56:34 GMT",
       "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
     },
     "prices": {
