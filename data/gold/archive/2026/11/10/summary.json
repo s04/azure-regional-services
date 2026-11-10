@@ -1,8 +1,10 @@
 {
   "availability": {
     "changes": {
-      "added": 24,
-      "addedSamples": [
+      "added": 0,
+      "addedSamples": [],
+      "removed": 24,
+      "removedSamples": [
         {
           "geography": "India",
           "offering": "Azure Analysis Services",
@@ -196,12 +198,10 @@
           "state": "GA"
         }
       ],
-      "removed": 0,
-      "removedSamples": [],
       "stateChanged": 0,
       "stateChangedSamples": []
     },
-    "dataHash": "b1dda859038b841394f426000509aeb3cc3152842cdf0acfe29f40a96aeea1e5",
+    "dataHash": "2c554a03128895e47e15cd84fb195a1942e8607efde2cf6725dcfca6d9752577",
     "summary": {
       "geographies": [
         {
@@ -254,11 +254,11 @@
         },
         {
           "geography": "India",
-          "rowCount": 921
+          "rowCount": 898
         },
         {
           "geography": "Indonesia",
-          "rowCount": 244
+          "rowCount": 243
         },
         {
           "geography": "Israel",
@@ -1150,11 +1150,11 @@
           "state": "Closing Down"
         }
       ],
-      "rowCount": 17657,
+      "rowCount": 17633,
       "skuCount": 526,
       "stateCounts": {
         "Closing Down": 1935,
-        "GA": 15338,
+        "GA": 15314,
         "Preview": 384
       },
       "topOfferingsByRegionCount": [
@@ -1314,7 +1314,7 @@
           "regionCount": 65,
           "skuCount": 16,
           "stateCounts": {
-            "GA": 860
+            "GA": 859
           }
         },
         {
@@ -1351,7 +1351,7 @@
           "skuCount": 169,
           "stateCounts": {
             "Closing Down": 1007,
-            "GA": 4688,
+            "GA": 4673,
             "Preview": 22
           }
         },
@@ -1385,11 +1385,12 @@
         },
         {
           "geographyCount": 32,
-          "offering": "Azure Database for MySQL",
+          "offering": "Azure Database for PostgreSQL",
           "regionCount": 64,
-          "skuCount": 2,
+          "skuCount": 4,
           "stateCounts": {
-            "GA": 121
+            "GA": 153,
+            "Preview": 28
           }
         }
       ],
@@ -1698,7 +1699,7 @@
     }
   },
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T01:33:25Z",
+  "generatedAt": "2026-11-10T23:24:13Z",
   "price": {
     "changes": {
       "added": 0,

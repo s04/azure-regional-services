@@ -1,8 +1,10 @@
 {
   "availability": {
     "changes": {
-      "added": 24,
-      "addedSamples": [
+      "added": 0,
+      "addedSamples": [],
+      "removed": 24,
+      "removedSamples": [
         {
           "geography": "India",
           "offering": "Azure Analysis Services",
@@ -196,12 +198,10 @@
           "state": "GA"
         }
       ],
-      "removed": 0,
-      "removedSamples": [],
       "stateChanged": 0,
       "stateChangedSamples": []
     },
-    "dataHash": "b1dda859038b841394f426000509aeb3cc3152842cdf0acfe29f40a96aeea1e5",
+    "dataHash": "2c554a03128895e47e15cd84fb195a1942e8607efde2cf6725dcfca6d9752577",
     "summary": {
       "geographies": [
         {
@@ -254,11 +254,11 @@
         },
         {
           "geography": "India",
-          "rowCount": 921
+          "rowCount": 898
         },
         {
           "geography": "Indonesia",
-          "rowCount": 244
+          "rowCount": 243
         },
         {
           "geography": "Israel",
@@ -496,7 +496,7 @@
           "regionCount": 65,
           "skuCount": 16,
           "stateCounts": {
-            "GA": 860
+            "GA": 859
           }
         },
         {
@@ -533,7 +533,7 @@
           "skuCount": 169,
           "stateCounts": {
             "Closing Down": 1007,
-            "GA": 4688,
+            "GA": 4673,
             "Preview": 22
           }
         },
@@ -567,15 +567,6 @@
         },
         {
           "geographyCount": 32,
-          "offering": "Azure Database for MySQL",
-          "regionCount": 64,
-          "skuCount": 2,
-          "stateCounts": {
-            "GA": 121
-          }
-        },
-        {
-          "geographyCount": 32,
           "offering": "Azure Database for PostgreSQL",
           "regionCount": 64,
           "skuCount": 4,
@@ -590,7 +581,7 @@
           "regionCount": 64,
           "skuCount": 4,
           "stateCounts": {
-            "GA": 245
+            "GA": 244
           }
         },
         {
@@ -600,7 +591,7 @@
           "skuCount": 7,
           "stateCounts": {
             "Closing Down": 15,
-            "GA": 228,
+            "GA": 227,
             "Preview": 4
           }
         },
@@ -682,12 +673,11 @@
         },
         {
           "geographyCount": 32,
-          "offering": "Azure DDoS Protection",
+          "offering": "Azure Database for MySQL",
           "regionCount": 63,
           "skuCount": 2,
           "stateCounts": {
-            "GA": 122,
-            "Preview": 1
+            "GA": 120
           }
         },
         {
@@ -711,11 +701,12 @@
         },
         {
           "geographyCount": 32,
-          "offering": "Azure Kubernetes Service (AKS)",
+          "offering": "Azure DDoS Protection",
           "regionCount": 62,
-          "skuCount": 1,
+          "skuCount": 2,
           "stateCounts": {
-            "GA": 62
+            "GA": 121,
+            "Preview": 1
           }
         },
         {
@@ -793,6 +784,15 @@
         {
           "geographyCount": 32,
           "offering": "Azure Kubernetes Fleet Manager",
+          "regionCount": 61,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 61
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Azure Kubernetes Service (AKS)",
           "regionCount": 61,
           "skuCount": 1,
           "stateCounts": {
@@ -1290,11 +1290,11 @@
         {
           "geographyCount": 19,
           "offering": "Azure Health Data Services",
-          "regionCount": 31,
+          "regionCount": 30,
           "skuCount": 3,
           "stateCounts": {
             "Closing Down": 26,
-            "GA": 45,
+            "GA": 44,
             "Preview": 9
           }
         },
@@ -1389,8 +1389,8 @@
           }
         },
         {
-          "geographyCount": 13,
-          "offering": "Azure Analysis Services",
+          "geographyCount": 16,
+          "offering": "Azure Arc-enabled SQL Server",
           "regionCount": 25,
           "skuCount": 1,
           "stateCounts": {
@@ -1398,12 +1398,12 @@
           }
         },
         {
-          "geographyCount": 16,
-          "offering": "Azure Arc-enabled SQL Server",
-          "regionCount": 25,
+          "geographyCount": 12,
+          "offering": "Azure Analysis Services",
+          "regionCount": 23,
           "skuCount": 1,
           "stateCounts": {
-            "GA": 25
+            "GA": 23
           }
         },
         {
@@ -3011,13 +3011,13 @@
         },
         {
           "geography": "Indonesia",
-          "offeringCount": 83,
+          "offeringCount": 82,
           "region": "Indonesia Central",
           "regionFlags": [],
-          "skuCount": 244,
+          "skuCount": 243,
           "stateCounts": {
             "Closing Down": 19,
-            "GA": 223,
+            "GA": 222,
             "Preview": 2
           }
         },
@@ -3332,18 +3332,6 @@
           }
         },
         {
-          "geography": "India",
-          "offeringCount": 44,
-          "region": "India South Central",
-          "regionFlags": [],
-          "skuCount": 134,
-          "stateCounts": {
-            "Closing Down": 11,
-            "GA": 122,
-            "Preview": 1
-          }
-        },
-        {
           "geography": "Unknown",
           "offeringCount": 44,
           "region": "Non Regional",
@@ -3353,6 +3341,18 @@
             "Closing Down": 9,
             "GA": 51,
             "Preview": 3
+          }
+        },
+        {
+          "geography": "India",
+          "offeringCount": 39,
+          "region": "India South Central",
+          "regionFlags": [],
+          "skuCount": 111,
+          "stateCounts": {
+            "Closing Down": 11,
+            "GA": 99,
+            "Preview": 1
           }
         }
       ],
@@ -3761,11 +3761,11 @@
           "state": "Closing Down"
         }
       ],
-      "rowCount": 17657,
+      "rowCount": 17633,
       "skuCount": 526,
       "stateCounts": {
         "Closing Down": 1935,
-        "GA": 15338,
+        "GA": 15314,
         "Preview": 384
       },
       "topOfferingsByRegionCount": [
@@ -3925,7 +3925,7 @@
           "regionCount": 65,
           "skuCount": 16,
           "stateCounts": {
-            "GA": 860
+            "GA": 859
           }
         },
         {
@@ -3962,7 +3962,7 @@
           "skuCount": 169,
           "stateCounts": {
             "Closing Down": 1007,
-            "GA": 4688,
+            "GA": 4673,
             "Preview": 22
           }
         },
@@ -3996,11 +3996,12 @@
         },
         {
           "geographyCount": 32,
-          "offering": "Azure Database for MySQL",
+          "offering": "Azure Database for PostgreSQL",
           "regionCount": 64,
-          "skuCount": 2,
+          "skuCount": 4,
           "stateCounts": {
-            "GA": 121
+            "GA": 153,
+            "Preview": 28
           }
         }
       ],
@@ -4308,7 +4309,7 @@
       ]
     }
   },
-  "generatedAt": "2026-11-10T01:33:25Z",
+  "generatedAt": "2026-11-10T23:24:13Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -14398,9 +14399,9 @@
   "schemaVersion": 1,
   "sources": {
     "availability": {
-      "contentLength": 3360872,
-      "etag": "W/\"08d81382870dd1:0\"",
-      "lastModified": "Mon, 09 Nov 2026 08:56:34 GMT",
+      "contentLength": 3356230,
+      "etag": "W/\"0b76e549b6add1:0\"",
+      "lastModified": "Mon, 02 Nov 2026 07:25:26 GMT",
       "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
     },
     "prices": {
