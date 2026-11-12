@@ -1,5 +1,5 @@
 {
-  "dataHash": "2c554a03128895e47e15cd84fb195a1942e8607efde2cf6725dcfca6d9752577",
+  "dataHash": "b1dda859038b841394f426000509aeb3cc3152842cdf0acfe29f40a96aeea1e5",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -5125,11 +5125,27 @@
     {
       "geography": "India",
       "offering": "Azure Analysis Services",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure Analysis Services",
       "region": "West India",
       "regionDisplayName": "West India *",
       "regionFlags": [
         "restricted_access"
       ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Azure Analysis Services",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
       "sku": "",
       "state": "GA"
     },
@@ -15922,6 +15938,14 @@
     {
       "geography": "India",
       "offering": "Azure Database for MySQL",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Azure Database for MySQL - Flexible Server",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure Database for MySQL",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Azure Database for MySQL - Flexible Server",
@@ -19325,6 +19349,14 @@
       "offering": "Azure DDoS Protection",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "DDoS IP Protection",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure DDoS Protection",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "DDoS IP Protection",
       "state": "GA"
     },
@@ -26349,6 +26381,14 @@
     {
       "geography": "India",
       "offering": "Azure Firewall",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Azure Firewall Standard",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure Firewall",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Azure Firewall Standard",
@@ -27999,6 +28039,14 @@
       "state": "GA"
     },
     {
+      "geography": "India",
+      "offering": "Azure Health Data Services",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Azure Health Data Services",
+      "state": "GA"
+    },
+    {
       "geography": "Indonesia",
       "offering": "Azure Health Data Services",
       "region": "Indonesia Central",
@@ -29035,6 +29083,14 @@
       "offering": "Azure Kubernetes Service (AKS)",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure Kubernetes Service (AKS)",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "",
       "state": "GA"
     },
@@ -33397,6 +33453,14 @@
       "offering": "Azure Monitor",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Application Insights",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Azure Monitor",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "Application Insights",
       "state": "GA"
     },
@@ -93837,6 +93901,14 @@
       "state": "GA"
     },
     {
+      "geography": "India",
+      "offering": "Storage",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Ultra Disk Storage",
+      "state": "GA"
+    },
+    {
       "geography": "Indonesia",
       "offering": "Storage",
       "region": "Indonesia Central",
@@ -99098,6 +99170,14 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Dadsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Dadsv6-series",
@@ -99706,6 +99786,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Daldsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "Daldsv6-series",
       "state": "GA"
     },
@@ -100969,6 +101057,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "DASv4-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "DASv4-Series",
       "state": "GA"
     },
@@ -102644,6 +102740,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "DAv4-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "DAv4-Series",
       "state": "GA"
     },
@@ -106014,6 +106118,14 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Ddsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Ddsv6-series",
@@ -107995,6 +108107,14 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Dldsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Dldsv6-series",
@@ -108885,6 +109005,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Dlsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "Dlsv6-series",
       "state": "GA"
     },
@@ -113680,6 +113808,14 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Dsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Dsv6-series",
@@ -116853,6 +116989,14 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Eadsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Eadsv6-series",
@@ -118530,6 +118674,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Easv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "Easv6-series",
       "state": "GA"
     },
@@ -123220,6 +123372,14 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Edsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Edsv6-series",
@@ -127211,6 +127371,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Esv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "Esv6-series",
       "state": "GA"
     },
@@ -130125,6 +130293,14 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Falsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Falsv6-series",
@@ -130875,6 +131051,14 @@
     {
       "geography": "India",
       "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "Famsv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
       "region": "South India",
       "regionDisplayName": "South India",
       "sku": "Famsv6-series",
@@ -131475,6 +131659,14 @@
       "offering": "Virtual Machines",
       "region": "Central India",
       "regionDisplayName": "Central India",
+      "sku": "Fasv6-series",
+      "state": "GA"
+    },
+    {
+      "geography": "India",
+      "offering": "Virtual Machines",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
       "sku": "Fasv6-series",
       "state": "GA"
     },
