@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-14T13:33:24Z",
+  "capturedAt": "2026-11-14T22:26:29Z",
   "failures": [],
   "items": [
     {
@@ -50852,6 +50852,44 @@
       "currencyCode": "USD",
       "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "US East",
+      "meterId": "45aff545-4794-53e6-841a-48f973d30dcd",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNPVC",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp DCedsv6 Ser Comp",
+      "retailPrice": 0.13775,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNPVC/001N",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.13775
+    },
+    {
+      "armRegionName": "eastus",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "US East",
+      "meterId": "8b8aca0c-cbd9-591d-8cd9-93dffabb1acf",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNP4M",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp ECedsv6 Ser Comp",
+      "retailPrice": 0.17854,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNP4M/0018",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.17854
+    },
+    {
+      "armRegionName": "eastus",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "US East",
       "meterId": "d2db1f28-67ae-5cb8-8736-01839e2766c6",
       "meterName": "1 vCore",
       "productId": "DZH318XZNP94",
@@ -55469,6 +55507,44 @@
       "currencyCode": "USD",
       "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "JA East",
+      "meterId": "adc08fca-514a-5001-9000-e46e59cc1035",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNPVC",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp DCedsv6 Ser Comp",
+      "retailPrice": 0.19974,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNPVC/0001",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.19974
+    },
+    {
+      "armRegionName": "japaneast",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "JA East",
+      "meterId": "eeed25a0-b35c-5d28-a821-271ed723f547",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNP4M",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp ECedsv6 Ser Comp",
+      "retailPrice": 0.25888,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNP4M/000X",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.25888
+    },
+    {
+      "armRegionName": "japaneast",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "JA East",
       "meterId": "3e896cc2-f76e-560f-9a00-0e869badab85",
       "meterName": "1 vCore",
       "productId": "DZH318XZNP94",
@@ -57742,6 +57818,44 @@
       "skuName": "General Purpose",
       "unitOfMeasure": "1 GiB/Month",
       "unitPrice": 0.127
+    },
+    {
+      "armRegionName": "northeurope",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "EU North",
+      "meterId": "977b27bf-5531-5b3a-94d4-5cf356653a9e",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNPVC",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp DCedsv6 Ser Comp",
+      "retailPrice": 0.19699,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNPVC/000S",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.19699
+    },
+    {
+      "armRegionName": "northeurope",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "EU North",
+      "meterId": "121331ef-d91f-58a3-bb77-5ce1206c994f",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNP4M",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp ECedsv6 Ser Comp",
+      "retailPrice": 0.25531,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNP4M/002K",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.25531
     },
     {
       "armRegionName": "northeurope",
@@ -62302,6 +62416,44 @@
       "skuName": "General Purpose",
       "unitOfMeasure": "1 GiB/Month",
       "unitPrice": 0.115
+    },
+    {
+      "armRegionName": "swedencentral",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "SE Central",
+      "meterId": "60cbc4fa-a0a7-50bd-b753-a91402d9fe6a",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNPVC",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp DCedsv6 Ser Comp",
+      "retailPrice": 0.17908,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNPVC/0018",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.17908
+    },
+    {
+      "armRegionName": "swedencentral",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "SE Central",
+      "meterId": "2b332326-642d-5881-9eb1-d306af336e0f",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNP4M",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp ECedsv6 Ser Comp",
+      "retailPrice": 0.2321,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNP4M/0014",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.2321
     },
     {
       "armRegionName": "swedencentral",
@@ -66881,6 +67033,44 @@
       "skuName": "General Purpose",
       "unitOfMeasure": "1 GiB/Month",
       "unitPrice": 0.115
+    },
+    {
+      "armRegionName": "westus2",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "US West 2",
+      "meterId": "3dde99ea-faa9-5b79-aebd-d80fcc198f96",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNPVC",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp DCedsv6 Ser Comp",
+      "retailPrice": 0.13775,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNPVC/0006",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.13775
+    },
+    {
+      "armRegionName": "westus2",
+      "armSkuName": "1 vCore",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "US West 2",
+      "meterId": "f839c7e5-d4b3-5487-9799-7b346683ecc7",
+      "meterName": "1 vCore",
+      "productId": "DZH318XZNP4M",
+      "productName": "Azure Database for PostgreSQL Flex Serv Confid Comp ECedsv6 Ser Comp",
+      "retailPrice": 0.17854,
+      "serviceFamily": "Databases",
+      "serviceId": "DZH3199QPQTD",
+      "serviceName": "Azure Database for PostgreSQL",
+      "skuId": "DZH318XZNP4M/001S",
+      "skuName": "1 vCore",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 0.17854
     },
     {
       "armRegionName": "westus2",
@@ -147503,20 +147693,20 @@
       "armRegionName": "eastus2",
       "armSkuName": "Standard_M1ps_v4",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "US East 2",
       "meterId": "02538ef4-8e83-583a-bed8-cbd1890a19ed",
       "meterName": "M1ps v4",
       "productId": "DZH318XZR84C",
       "productName": "Virtual Machines Mpsv4 Series",
-      "retailPrice": 0.114,
+      "retailPrice": 0.0977,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR84C/00T9",
       "skuName": "M1ps v4",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.114
+      "unitPrice": 0.0977
     },
     {
       "armRegionName": "eastus2",
@@ -153260,20 +153450,20 @@
       "armRegionName": "northeurope",
       "armSkuName": "Standard_D8ps_v7",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "EU North",
       "meterId": "03c02358-da7d-5222-a243-b5e3446684aa",
       "meterName": "D8ps v7",
       "productId": "DZH318XZR5CF",
       "productName": "Virtual Machines Dpsv7 Series",
-      "retailPrice": 0.652,
+      "retailPrice": 0.56,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR5CF/008K",
       "skuName": "D8ps v7",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.652
+      "unitPrice": 0.56
     },
     {
       "armRegionName": "northeurope",
@@ -155350,20 +155540,20 @@
       "armRegionName": "northeurope",
       "armSkuName": "Standard_M2ps_v4",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "EU North",
       "meterId": "001cb30e-0d6a-5332-ba67-e1dfd1c76f50",
       "meterName": "M2ps v4 Spot",
       "productId": "DZH318XZR84C",
       "productName": "Virtual Machines Mpsv4 Series",
-      "retailPrice": 0.065,
+      "retailPrice": 0.0558,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR84C/0123",
       "skuName": "M2ps v4 Spot",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.065
+      "unitPrice": 0.0558
     },
     {
       "armRegionName": "northeurope",
@@ -160613,20 +160803,20 @@
       "armRegionName": "swedencentral",
       "armSkuName": "Standard_D16ps_v7",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "SE Central",
       "meterId": "058f0c37-b05f-5062-b3aa-bd7bc39980f8",
       "meterName": "D16ps v7",
       "productId": "DZH318XZR5CF",
       "productName": "Virtual Machines Dpsv7 Series",
-      "retailPrice": 1.185,
+      "retailPrice": 1.018,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR5CF/00CX",
       "skuName": "D16ps v7",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 1.185
+      "unitPrice": 1.018
     },
     {
       "armRegionName": "swedencentral",
@@ -162912,58 +163102,58 @@
       "armRegionName": "swedencentral",
       "armSkuName": "Standard_M4ps_v4",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "SE Central",
       "meterId": "04d1360f-023c-5776-86f4-8b1f561e8e7c",
       "meterName": "M4ps v4",
       "productId": "DZH318XZR84C",
       "productName": "Virtual Machines Mpsv4 Series",
-      "retailPrice": 0.592,
+      "retailPrice": 0.508,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR84C/008D",
       "skuName": "M4ps v4",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.592
+      "unitPrice": 0.508
     },
     {
       "armRegionName": "swedencentral",
       "armSkuName": "Standard_M16ps_v4",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "SE Central",
       "meterId": "0389f7c1-339d-56e1-b67c-593440d2a089",
       "meterName": "M16ps v4",
       "productId": "DZH318XZR84F",
       "productName": "Virtual Machines Mpsv4 Series Windows",
-      "retailPrice": 3.102,
+      "retailPrice": 2.768,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR84F/00G5",
       "skuName": "M16ps v4",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 3.102
+      "unitPrice": 2.768
     },
     {
       "armRegionName": "swedencentral",
       "armSkuName": "Standard_M8ps_v4",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "SE Central",
       "meterId": "01bb9ed3-f5d4-506a-ad20-949d48c3a743",
       "meterName": "M8ps v4 Spot",
       "productId": "DZH318XZR84F",
       "productName": "Virtual Machines Mpsv4 Series Windows",
-      "retailPrice": 0.3102,
+      "retailPrice": 0.2768,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR84F/00G0",
       "skuName": "M8ps v4 Spot",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.3102
+      "unitPrice": 0.2768
     },
     {
       "armRegionName": "swedencentral",
@@ -174260,7 +174450,7 @@
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 2.92083816,
+      "averageRetailPrice": 2.87591632,
       "cheapestSamples": [
         {
           "armRegionName": "eastus",
@@ -174359,10 +174549,10 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 121,
+      "itemCount": 123,
       "maxRetailPrice": 63.619,
       "minRetailPrice": 0.0,
-      "productCount": 52,
+      "productCount": 54,
       "region": "eastus",
       "service": "Azure Database for PostgreSQL",
       "skuCount": 51,
@@ -174480,7 +174670,7 @@
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 3.62205064,
+      "averageRetailPrice": 3.56643194,
       "cheapestSamples": [
         {
           "armRegionName": "japaneast",
@@ -174579,10 +174769,10 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 120,
+      "itemCount": 122,
       "maxRetailPrice": 76.343,
       "minRetailPrice": 0.0,
-      "productCount": 51,
+      "productCount": 53,
       "region": "japaneast",
       "service": "Azure Database for PostgreSQL",
       "skuCount": 51,
@@ -174590,7 +174780,7 @@
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 3.23950427,
+      "averageRetailPrice": 3.19090178,
       "cheapestSamples": [
         {
           "armRegionName": "northeurope",
@@ -174689,10 +174879,10 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 122,
+      "itemCount": 124,
       "maxRetailPrice": 71.253,
       "minRetailPrice": 0.0,
-      "productCount": 53,
+      "productCount": 55,
       "region": "northeurope",
       "service": "Azure Database for PostgreSQL",
       "skuCount": 51,
@@ -174810,7 +175000,7 @@
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 3.16097471,
+      "averageRetailPrice": 3.11045532,
       "cheapestSamples": [
         {
           "armRegionName": "swedencentral",
@@ -174909,10 +175099,10 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 115,
+      "itemCount": 117,
       "maxRetailPrice": 65.4,
       "minRetailPrice": 0.0,
-      "productCount": 50,
+      "productCount": 52,
       "region": "swedencentral",
       "service": "Azure Database for PostgreSQL",
       "skuCount": 50,
@@ -175030,7 +175220,7 @@
       "unitCount": 4
     },
     {
-      "averageRetailPrice": 2.99374421,
+      "averageRetailPrice": 2.94648422,
       "cheapestSamples": [
         {
           "armRegionName": "westus2",
@@ -175129,10 +175319,10 @@
         }
       ],
       "currency": "USD",
-      "itemCount": 118,
+      "itemCount": 120,
       "maxRetailPrice": 63.619,
       "minRetailPrice": 0.0,
-      "productCount": 50,
+      "productCount": 52,
       "region": "westus2",
       "service": "Azure Database for PostgreSQL",
       "skuCount": 51,
@@ -180010,7 +180200,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 4.35048229,
+      "averageRetailPrice": 4.35040079,
       "cheapestSamples": [
         {
           "armRegionName": "eastus2",
@@ -180230,7 +180420,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 2.52221631,
+      "averageRetailPrice": 2.52171031,
       "cheapestSamples": [
         {
           "armRegionName": "northeurope",
@@ -180450,7 +180640,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 4.646073,
+      "averageRetailPrice": 4.642981,
       "cheapestSamples": [
         {
           "armRegionName": "swedencentral",
