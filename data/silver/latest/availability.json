@@ -1,5 +1,5 @@
 {
-  "dataHash": "b1dda859038b841394f426000509aeb3cc3152842cdf0acfe29f40a96aeea1e5",
+  "dataHash": "93a5c6e65fb30e7a4f84505151ad04ed3e83f3473d192d3789bdf811a7fe6160",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -30378,6 +30378,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Load Balancer",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure Load Balancer",
       "region": "Mexico Central",
@@ -31454,6 +31465,17 @@
       "offering": "Azure Load Balancer",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Standard",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Azure Load Balancer",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Standard",
       "state": "GA"
     },
@@ -94547,6 +94569,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machine Scale Sets",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machine Scale Sets",
       "region": "Mexico Central",
@@ -95103,6 +95136,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -96008,6 +96052,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Av2-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -97025,6 +97080,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "B-Series",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "B-Series",
       "state": "Closing Down"
     },
@@ -105214,6 +105280,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ddsv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -105754,6 +105831,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ddsv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -106740,6 +106828,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ddv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -107258,6 +107357,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ddv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -107765,6 +107875,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dldsv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -108657,6 +108778,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Dlsv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dlsv5-Series",
       "state": "GA"
     },
@@ -112356,6 +112488,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "DSv3-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -113432,6 +113575,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Dsv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dsv5-Series",
       "state": "GA"
     },
@@ -114975,6 +115129,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dv3-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -115515,6 +115680,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -116055,6 +116231,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -119985,6 +120172,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ebdsv5-series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -120521,6 +120719,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Ebsv5-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Ebsv5-series",
       "state": "GA"
     },
@@ -122471,6 +122680,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Edsv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -122996,6 +123216,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Edsv5-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Edsv5-series",
       "state": "GA"
     },
@@ -123961,6 +124192,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Edv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -124486,6 +124728,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Edv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Edv5-Series",
       "state": "GA"
     },
@@ -125958,6 +126211,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "ESv3-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -126472,6 +126736,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Esv4-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Esv4-series",
       "state": "GA"
     },
@@ -127001,6 +127276,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Esv5-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Esv5-series",
       "state": "GA"
     },
@@ -127968,6 +128254,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Ev3-Series",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Ev3-Series",
       "state": "Closing Down"
     },
@@ -128528,6 +128825,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ev4-series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -129064,6 +129372,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Ev5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Ev5-Series",
       "state": "GA"
     },
@@ -129624,6 +129943,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "F-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -132434,6 +132764,17 @@
       "offering": "Virtual Machines",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "FS-Series",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "FS-Series",
       "state": "Closing Down"
     },

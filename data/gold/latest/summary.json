@@ -1,14 +1,356 @@
 {
   "availability": {
     "changes": {
-      "added": 0,
-      "addedSamples": [],
+      "added": 31,
+      "addedSamples": [
+        {
+          "geography": "Malaysia",
+          "offering": "Azure Load Balancer",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Azure Load Balancer",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Standard",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machine Scale Sets",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Av2-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "B-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "DSv3-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Ddsv4-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Ddsv5-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Ddv4-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Ddv5-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Dldsv5-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Dlsv5-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Dsv5-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Dv3-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Dv4-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Dv5-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "ESv3-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Ebdsv5-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Ebsv5-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Edsv4-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Edsv5-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Edv4-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Edv5-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Esv4-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Esv5-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Ev3-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Ev4-series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "Ev5-Series",
+          "state": "GA"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "F-Series",
+          "state": "Closing Down"
+        },
+        {
+          "geography": "Malaysia",
+          "offering": "Virtual Machines",
+          "region": "Southeast Asia 3",
+          "regionDisplayName": "Southeast Asia 3 **",
+          "regionFlags": [
+            "early_access"
+          ],
+          "sku": "FS-Series",
+          "state": "Closing Down"
+        }
+      ],
       "removed": 0,
       "removedSamples": [],
       "stateChanged": 0,
       "stateChangedSamples": []
     },
-    "dataHash": "b1dda859038b841394f426000509aeb3cc3152842cdf0acfe29f40a96aeea1e5",
+    "dataHash": "93a5c6e65fb30e7a4f84505151ad04ed3e83f3473d192d3789bdf811a7fe6160",
     "summary": {
       "geographies": [
         {
@@ -85,7 +427,7 @@
         },
         {
           "geography": "Malaysia",
-          "rowCount": 222
+          "rowCount": 253
         },
         {
           "geography": "Mexico",
@@ -157,6 +499,16 @@
           }
         },
         {
+          "geographyCount": 32,
+          "offering": "Azure Load Balancer",
+          "regionCount": 66,
+          "skuCount": 3,
+          "stateCounts": {
+            "Closing Down": 64,
+            "GA": 129
+          }
+        },
+        {
           "geographyCount": 33,
           "offering": "Azure Web Application Firewall",
           "regionCount": 66,
@@ -164,6 +516,26 @@
           "stateCounts": {
             "GA": 169,
             "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Virtual Machine Scale Sets",
+          "regionCount": 66,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 66
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Virtual Machines",
+          "regionCount": 66,
+          "skuCount": 169,
+          "stateCounts": {
+            "Closing Down": 1014,
+            "GA": 4709,
+            "Preview": 22
           }
         },
         {
@@ -201,16 +573,6 @@
           "skuCount": 5,
           "stateCounts": {
             "GA": 286
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Azure Load Balancer",
-          "regionCount": 65,
-          "skuCount": 3,
-          "stateCounts": {
-            "Closing Down": 64,
-            "GA": 127
           }
         },
         {
@@ -322,26 +684,6 @@
           "skuCount": 1,
           "stateCounts": {
             "GA": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Virtual Machine Scale Sets",
-          "regionCount": 65,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Virtual Machines",
-          "regionCount": 65,
-          "skuCount": 169,
-          "stateCounts": {
-            "Closing Down": 1007,
-            "GA": 4688,
-            "Preview": 22
           }
         },
         {
@@ -2344,7 +2686,7 @@
           "state": "Preview"
         }
       ],
-      "regionCount": 66,
+      "regionCount": 67,
       "regions": [
         {
           "geography": "United States",
@@ -3161,6 +3503,19 @@
             "GA": 51,
             "Preview": 3
           }
+        },
+        {
+          "geography": "Malaysia",
+          "offeringCount": 3,
+          "region": "Southeast Asia 3",
+          "regionFlags": [
+            "early_access"
+          ],
+          "skuCount": 31,
+          "stateCounts": {
+            "Closing Down": 7,
+            "GA": 24
+          }
         }
       ],
       "retiringSamples": [
@@ -3568,11 +3923,11 @@
           "state": "Closing Down"
         }
       ],
-      "rowCount": 17657,
+      "rowCount": 17688,
       "skuCount": 526,
       "stateCounts": {
-        "Closing Down": 1935,
-        "GA": 15338,
+        "Closing Down": 1942,
+        "GA": 15362,
         "Preview": 384
       },
       "topOfferingsByRegionCount": [
@@ -3586,6 +3941,16 @@
           }
         },
         {
+          "geographyCount": 32,
+          "offering": "Azure Load Balancer",
+          "regionCount": 66,
+          "skuCount": 3,
+          "stateCounts": {
+            "Closing Down": 64,
+            "GA": 129
+          }
+        },
+        {
           "geographyCount": 33,
           "offering": "Azure Web Application Firewall",
           "regionCount": 66,
@@ -3593,6 +3958,26 @@
           "stateCounts": {
             "GA": 169,
             "Preview": 1
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Virtual Machine Scale Sets",
+          "regionCount": 66,
+          "skuCount": 1,
+          "stateCounts": {
+            "GA": 66
+          }
+        },
+        {
+          "geographyCount": 32,
+          "offering": "Virtual Machines",
+          "regionCount": 66,
+          "skuCount": 169,
+          "stateCounts": {
+            "Closing Down": 1014,
+            "GA": 4709,
+            "Preview": 22
           }
         },
         {
@@ -3630,16 +4015,6 @@
           "skuCount": 5,
           "stateCounts": {
             "GA": 286
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Azure Load Balancer",
-          "regionCount": 65,
-          "skuCount": 3,
-          "stateCounts": {
-            "Closing Down": 64,
-            "GA": 127
           }
         },
         {
@@ -3751,26 +4126,6 @@
           "skuCount": 1,
           "stateCounts": {
             "GA": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Virtual Machine Scale Sets",
-          "regionCount": 65,
-          "skuCount": 1,
-          "stateCounts": {
-            "GA": 65
-          }
-        },
-        {
-          "geographyCount": 32,
-          "offering": "Virtual Machines",
-          "regionCount": 65,
-          "skuCount": 169,
-          "stateCounts": {
-            "Closing Down": 1007,
-            "GA": 4688,
-            "Preview": 22
           }
         },
         {
@@ -4115,7 +4470,7 @@
       ]
     }
   },
-  "generatedAt": "2026-11-16T15:49:59Z",
+  "generatedAt": "2026-11-17T01:52:10Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
@@ -14205,9 +14560,9 @@
   "schemaVersion": 1,
   "sources": {
     "availability": {
-      "contentLength": 3360872,
-      "etag": "W/\"08d81382870dd1:0\"",
-      "lastModified": "Mon, 09 Nov 2026 08:56:34 GMT",
+      "contentLength": 3366869,
+      "etag": "W/\"0dc7e78f575dd1:0\"",
+      "lastModified": "Mon, 16 Nov 2026 18:08:24 GMT",
       "url": "https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table"
     },
     "prices": {
