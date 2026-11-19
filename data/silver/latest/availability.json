@@ -1,5 +1,5 @@
 {
-  "dataHash": "93a5c6e65fb30e7a4f84505151ad04ed3e83f3473d192d3789bdf811a7fe6160",
+  "dataHash": "444ab3b53619736529a35f474e2a4665868fb7aec2471f844daaeaf531dec94a",
   "rows": [
     {
       "geography": "Asia Pacific",
@@ -1492,25 +1492,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "App Service",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "App Service Free",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "App Service",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "App Service Free",
-      "state": "GA"
-    },
-    {
       "geography": "Asia Pacific",
       "offering": "App Service",
       "region": "East Asia",
@@ -2261,6 +2242,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Application Gateway",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Application Gateway",
       "region": "Mexico Central",
@@ -2308,6 +2300,17 @@
       "offering": "Application Gateway",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Application Gateway",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -3039,17 +3042,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Application Gateway",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Application Gateway v2",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Application Gateway",
       "region": "UAE North",
@@ -3536,17 +3528,6 @@
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
         "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Automation",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
       ],
       "sku": "",
       "state": "GA"
@@ -5162,17 +5143,6 @@
       "offering": "Azure Analysis Services",
       "region": "Japan West",
       "regionDisplayName": "Japan West",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Azure Analysis Services",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
       "sku": "",
       "state": "GA"
     },
@@ -8705,6 +8675,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Bastion",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure Bastion",
       "region": "Mexico Central",
@@ -8752,6 +8733,17 @@
       "offering": "Azure Bastion",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Bastion",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -10127,6 +10119,14 @@
       "state": "GA"
     },
     {
+      "geography": "Australia",
+      "offering": "Azure Communication Services",
+      "region": "Australia Southeast",
+      "regionDisplayName": "Australia Southeast",
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Austria",
       "offering": "Azure Communication Services",
       "region": "Austria East",
@@ -10254,6 +10254,28 @@
       "offering": "Azure Communication Services",
       "region": "Korea Central",
       "regionDisplayName": "Korea Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Azure Communication Services",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Communication Services",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -12109,6 +12131,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Cosmos DB",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure Cosmos DB",
       "region": "Mexico Central",
@@ -12156,6 +12189,17 @@
       "offering": "Azure Cosmos DB",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Cosmos DB",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -14409,6 +14453,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Data Explorer",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure Data Explorer",
       "region": "Mexico Central",
@@ -14456,6 +14511,17 @@
       "offering": "Azure Data Explorer",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Data Explorer",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -14664,25 +14730,6 @@
       "state": "Closing Down"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Azure Data Lake Storage Gen1",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United Kingdom",
-      "offering": "Azure Data Lake Storage Gen1",
-      "region": "UK South",
-      "regionDisplayName": "UK South",
-      "sku": "",
-      "state": "Closing Down"
-    },
-    {
       "geography": "United States",
       "offering": "Azure Data Lake Storage Gen1",
       "region": "Central US",
@@ -14695,14 +14742,6 @@
       "offering": "Azure Data Lake Storage Gen1",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
-      "sku": "",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure Data Lake Storage Gen1",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
       "sku": "",
       "state": "Closing Down"
     },
@@ -14895,17 +14934,6 @@
       "offering": "Azure Data Share",
       "region": "South Africa North",
       "regionDisplayName": "South Africa North",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Azure Data Share",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
       "sku": "",
       "state": "GA"
     },
@@ -16653,17 +16681,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Azure Database for PostgreSQL",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Azure Database for PostgreSQL",
       "region": "UAE Central",
@@ -17174,6 +17191,17 @@
       "state": "GA"
     },
     {
+      "geography": "Taiwan",
+      "offering": "Azure Database for PostgreSQL",
+      "region": "Taiwan North",
+      "regionDisplayName": "Taiwan North **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Database for PostgreSQL - Flexible Server",
+      "state": "GA"
+    },
+    {
       "geography": "United Arab Emirates",
       "offering": "Azure Database for PostgreSQL",
       "region": "UAE Central",
@@ -18907,6 +18935,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure DDoS Protection",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure DDoS Protection",
       "region": "Mexico Central",
@@ -18954,6 +18993,17 @@
       "offering": "Azure DDoS Protection",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure DDoS Protection",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -19443,6 +19493,17 @@
       "offering": "Azure DDoS Protection",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "DDoS IP Protection",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Azure DDoS Protection",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "DDoS IP Protection",
       "state": "GA"
     },
@@ -20432,6 +20493,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure DevTest Labs",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Norway",
       "offering": "Azure DevTest Labs",
       "region": "Norway East",
@@ -20446,6 +20518,17 @@
       "regionDisplayName": "Qatar Central",
       "sku": "",
       "state": "Preview"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure DevTest Labs",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
     },
     {
       "geography": "South Africa",
@@ -21512,6 +21595,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure DNS",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure DNS Private Zones",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure DNS",
       "region": "Mexico Central",
@@ -21559,6 +21653,17 @@
       "offering": "Azure DNS",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Azure DNS Private Zones",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure DNS",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Azure DNS Private Zones",
       "state": "GA"
     },
@@ -22542,6 +22647,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Files",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure Files",
       "region": "Mexico Central",
@@ -22589,6 +22705,17 @@
       "offering": "Azure Files",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Files",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -22991,6 +23118,17 @@
       "offering": "Azure Files",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Geo redundant HDD storage",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Azure Files",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Geo redundant HDD storage",
       "state": "GA"
     },
@@ -23496,6 +23634,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Files",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Locally redundant HDD storage",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure Files",
       "region": "Mexico Central",
@@ -23543,6 +23692,17 @@
       "offering": "Azure Files",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Locally redundant HDD storage",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Files",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Locally redundant HDD storage",
       "state": "GA"
     },
@@ -28103,17 +28263,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Azure Health Data Services",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Azure Health Data Services",
-      "state": "GA"
-    },
-    {
       "geography": "United Kingdom",
       "offering": "Azure Health Data Services",
       "region": "UK South",
@@ -28202,6 +28351,30 @@
       "state": "Preview"
     },
     {
+      "geography": "India",
+      "offering": "Azure HorizonDB",
+      "region": "India South Central",
+      "regionDisplayName": "India South Central",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Indonesia",
+      "offering": "Azure HorizonDB",
+      "region": "Indonesia Central",
+      "regionDisplayName": "Indonesia Central",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "Japan",
+      "offering": "Azure HorizonDB",
+      "region": "Japan East",
+      "regionDisplayName": "Japan East",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
       "geography": "Korea",
       "offering": "Azure HorizonDB",
       "region": "Korea Central",
@@ -28230,6 +28403,14 @@
       "offering": "Azure HorizonDB",
       "region": "East US",
       "regionDisplayName": "East US",
+      "sku": "",
+      "state": "Preview"
+    },
+    {
+      "geography": "United States",
+      "offering": "Azure HorizonDB",
+      "region": "South Central US",
+      "regionDisplayName": "South Central US",
       "sku": "",
       "state": "Preview"
     },
@@ -30440,6 +30621,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Load Balancer",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Azure Load Balancer",
       "region": "South Africa North",
@@ -31465,17 +31657,6 @@
       "offering": "Azure Load Balancer",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
-      "sku": "Standard",
-      "state": "GA"
-    },
-    {
-      "geography": "Malaysia",
-      "offering": "Azure Load Balancer",
-      "region": "Southeast Asia 3",
-      "regionDisplayName": "Southeast Asia 3 **",
-      "regionFlags": [
-        "early_access"
-      ],
       "sku": "Standard",
       "state": "GA"
     },
@@ -32715,22 +32896,6 @@
       "offering": "Azure Migrate",
       "region": "East US",
       "regionDisplayName": "East US",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure Migrate",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Azure Migrate",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
       "sku": "",
       "state": "GA"
     },
@@ -37817,7 +37982,7 @@
       "region": "Australia Southeast",
       "regionDisplayName": "Australia Southeast",
       "sku": "",
-      "state": "Preview"
+      "state": "GA"
     },
     {
       "geography": "Austria",
@@ -38069,6 +38234,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Route Server",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure Route Server",
       "region": "Mexico Central",
@@ -38105,6 +38281,17 @@
       "offering": "Azure Route Server",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Route Server",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -40458,6 +40645,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure SQL Database",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure SQL Database",
       "region": "Mexico Central",
@@ -40505,6 +40703,17 @@
       "offering": "Azure SQL Database",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure SQL Database",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -42707,6 +42916,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Stream Analytics",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure Stream Analytics",
       "region": "Mexico Central",
@@ -42754,6 +42974,17 @@
       "offering": "Azure Stream Analytics",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Stream Analytics",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -43212,6 +43443,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Stream Analytics",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Stream Analytics Dedicated",
+      "state": "GA"
+    },
+    {
       "geography": "Norway",
       "offering": "Azure Stream Analytics",
       "region": "Norway East",
@@ -43243,6 +43485,17 @@
       "offering": "Azure Stream Analytics",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Stream Analytics Dedicated",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Stream Analytics",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Stream Analytics Dedicated",
       "state": "GA"
     },
@@ -43690,6 +43943,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Synapse Analytics",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Azure Synapse Analytics",
       "region": "Mexico Central",
@@ -43718,6 +43982,17 @@
       "offering": "Azure Synapse Analytics",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Azure Synapse Analytics",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -45041,6 +45316,14 @@
       "offering": "Azure VM Image Builder",
       "region": "Australia East",
       "regionDisplayName": "Australia East",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Australia",
+      "offering": "Azure VM Image Builder",
+      "region": "Australia Southeast",
+      "regionDisplayName": "Australia Southeast",
       "sku": "",
       "state": "GA"
     },
@@ -47092,6 +47375,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Azure Web Application Firewall",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Web Application Firewall - Regional (WAF on Application Gateway)",
+      "state": "GA"
+    },
+    {
       "geography": "Norway",
       "offering": "Azure Web Application Firewall",
       "region": "Norway East",
@@ -49748,17 +50042,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Batch",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Batch",
       "region": "UAE North",
@@ -50257,6 +50540,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Cloud Services",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Av2-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Mexico",
       "offering": "Cloud Services",
       "region": "Mexico Central",
@@ -50649,6 +50943,28 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Cloud Services",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "D-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Cloud Services",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "D-Series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Cloud Services",
       "region": "South Africa North",
@@ -51068,6 +51384,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Cloud Services",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dv2-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Cloud Services",
       "region": "Mexico Central",
@@ -51115,6 +51442,17 @@
       "offering": "Cloud Services",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Dv2-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Cloud Services",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dv2-Series",
       "state": "GA"
     },
@@ -51608,6 +51946,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Cloud Services",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dv3-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Cloud Services",
       "region": "Mexico Central",
@@ -52144,6 +52493,17 @@
       "offering": "Cloud Services",
       "region": "Malaysia West",
       "regionDisplayName": "Malaysia West",
+      "sku": "Ev3-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Malaysia",
+      "offering": "Cloud Services",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Ev3-Series",
       "state": "GA"
     },
@@ -53817,6 +54177,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Container Instances",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Container Instances",
       "region": "Mexico Central",
@@ -53864,6 +54235,17 @@
       "offering": "Container Instances",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Container Instances",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -54362,6 +54744,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Container Registry",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Container Registry",
       "region": "Mexico Central",
@@ -54409,6 +54802,17 @@
       "offering": "Container Registry",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Container Registry",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -55431,6 +55835,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Event Grid",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Event Grid",
       "region": "Mexico Central",
@@ -55470,6 +55885,17 @@
       "offering": "Event Grid",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Event Grid",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -56300,6 +56726,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Event Hubs",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Event Hubs",
       "region": "Mexico Central",
@@ -56347,6 +56784,17 @@
       "offering": "Event Hubs",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Event Hubs",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -56753,6 +57201,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Event Hubs",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Event Hubs Premium SKU",
+      "state": "GA"
+    },
+    {
       "geography": "Norway",
       "offering": "Event Hubs",
       "region": "Norway East",
@@ -56784,6 +57243,17 @@
       "offering": "Event Hubs",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Azure Event Hubs Premium SKU",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Event Hubs",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Azure Event Hubs Premium SKU",
       "state": "GA"
     },
@@ -57260,6 +57730,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "ExpressRoute",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "ExpressRoute",
       "region": "Mexico Central",
@@ -57307,6 +57788,17 @@
       "offering": "ExpressRoute",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "ExpressRoute",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -57816,6 +58308,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "ExpressRoute",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "ExpressRoute Gateways",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "ExpressRoute",
       "region": "Mexico Central",
@@ -57863,6 +58366,17 @@
       "offering": "ExpressRoute",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "ExpressRoute Gateways",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "ExpressRoute",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "ExpressRoute Gateways",
       "state": "GA"
     },
@@ -59879,17 +60393,6 @@
       "state": "Closing Down"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Functions",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Consumption Plan Linux",
-      "state": "Closing Down"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Functions",
       "region": "UAE North",
@@ -62923,17 +63426,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "HDInsight",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "HDInsight",
       "region": "UAE Central",
@@ -63603,17 +64095,6 @@
       "state": "Closing Down"
     },
     {
-      "geography": "Taiwan",
-      "offering": "IoT Central",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "Closing Down"
-    },
-    {
       "geography": "United Kingdom",
       "offering": "IoT Central",
       "region": "UK South",
@@ -63642,14 +64123,6 @@
       "offering": "IoT Central",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
-      "sku": "",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "IoT Central",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
       "sku": "",
       "state": "Closing Down"
     },
@@ -63974,17 +64447,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "IoT Hub",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "IoT Hub",
       "region": "UAE Central",
@@ -64288,17 +64750,6 @@
       "regionDisplayName": "Korea South *",
       "regionFlags": [
         "restricted_access"
-      ],
-      "sku": "IoT Hub Device Provisioning Service",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "IoT Hub",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
       ],
       "sku": "IoT Hub Device Provisioning Service",
       "state": "GA"
@@ -66249,6 +66700,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "IP Services",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Public IP Address Standard",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "IP Services",
       "region": "Mexico Central",
@@ -66296,6 +66758,17 @@
       "offering": "IP Services",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Azure Public IP Address Standard",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "IP Services",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Azure Public IP Address Standard",
       "state": "GA"
     },
@@ -66805,6 +67278,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "IP Services",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Public IP Prefix",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "IP Services",
       "region": "Mexico Central",
@@ -66852,6 +67336,17 @@
       "offering": "IP Services",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Azure Public IP Prefix",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "IP Services",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Azure Public IP Prefix",
       "state": "GA"
     },
@@ -67361,6 +67856,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Key Vault",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Key Vault",
       "region": "Mexico Central",
@@ -67408,6 +67914,17 @@
       "offering": "Key Vault",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Key Vault",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -68398,6 +68915,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Key Vault",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Premium",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Key Vault",
       "region": "Mexico Central",
@@ -68445,6 +68973,17 @@
       "offering": "Key Vault",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Premium",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Key Vault",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Premium",
       "state": "GA"
     },
@@ -72415,17 +72954,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Microsoft Foundry",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Microsoft Foundry",
       "region": "UAE North",
@@ -72534,6 +73062,14 @@
       "offering": "Microsoft Foundry",
       "region": "Australia East",
       "regionDisplayName": "Australia East",
+      "sku": "Azure AI Content Moderator",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Australia",
+      "offering": "Microsoft Foundry",
+      "region": "Australia Southeast",
+      "regionDisplayName": "Australia Southeast",
       "sku": "Azure AI Content Moderator",
       "state": "Closing Down"
     },
@@ -72650,6 +73186,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Microsoft Foundry",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure AI Content Moderator",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Norway",
       "offering": "Microsoft Foundry",
       "region": "Norway East",
@@ -72662,6 +73209,17 @@
       "offering": "Microsoft Foundry",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Azure AI Content Moderator",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Microsoft Foundry",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Azure AI Content Moderator",
       "state": "Closing Down"
     },
@@ -73764,17 +74322,6 @@
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
         "restricted_access"
-      ],
-      "sku": "Azure Language",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Microsoft Foundry",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
       ],
       "sku": "Azure Language",
       "state": "GA"
@@ -74245,6 +74792,14 @@
       "state": "GA"
     },
     {
+      "geography": "Australia",
+      "offering": "Microsoft Foundry",
+      "region": "Australia Southeast",
+      "regionDisplayName": "Australia Southeast",
+      "sku": "Azure Speech",
+      "state": "GA"
+    },
+    {
       "geography": "Belgium",
       "offering": "Microsoft Foundry",
       "region": "Belgium Central",
@@ -74389,6 +74944,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Microsoft Foundry",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Speech",
+      "state": "GA"
+    },
+    {
       "geography": "Norway",
       "offering": "Microsoft Foundry",
       "region": "Norway East",
@@ -74401,6 +74967,17 @@
       "offering": "Microsoft Foundry",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Azure Speech",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Microsoft Foundry",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Azure Speech",
       "state": "GA"
     },
@@ -74774,17 +75351,6 @@
       "state": "Closing Down"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Microsoft Foundry",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Azure Vision",
-      "state": "Closing Down"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Microsoft Foundry",
       "region": "UAE North",
@@ -75060,17 +75626,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Microsoft Foundry",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Azure Vision - Face",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Microsoft Foundry",
       "region": "UAE North",
@@ -75115,14 +75670,6 @@
       "offering": "Microsoft Foundry",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
-      "sku": "Azure Vision - Face",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Microsoft Foundry",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
       "sku": "Azure Vision - Face",
       "state": "GA"
     },
@@ -75893,6 +76440,14 @@
       "state": "GA"
     },
     {
+      "geography": "Australia",
+      "offering": "Microsoft Foundry",
+      "region": "Australia Southeast",
+      "regionDisplayName": "Australia Southeast",
+      "sku": "Immersive Reader",
+      "state": "GA"
+    },
+    {
       "geography": "Belgium",
       "offering": "Microsoft Foundry",
       "region": "Belgium Central",
@@ -75997,10 +76552,32 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Microsoft Foundry",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Immersive Reader",
+      "state": "GA"
+    },
+    {
       "geography": "Norway",
       "offering": "Microsoft Foundry",
       "region": "Norway East",
       "regionDisplayName": "Norway East",
+      "sku": "Immersive Reader",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Microsoft Foundry",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Immersive Reader",
       "state": "GA"
     },
@@ -77635,6 +78212,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Network Watcher",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Network Watcher",
       "region": "Mexico Central",
@@ -77682,6 +78270,17 @@
       "offering": "Network Watcher",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Network Watcher",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -78093,6 +78692,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Network Watcher",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Traffic Analytics",
+      "state": "GA"
+    },
+    {
       "geography": "Norway",
       "offering": "Network Watcher",
       "region": "Norway East",
@@ -78113,6 +78723,17 @@
       "offering": "Network Watcher",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Traffic Analytics",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Network Watcher",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Traffic Analytics",
       "state": "GA"
     },
@@ -78546,17 +79167,6 @@
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
         "restricted_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Notification Hubs",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
       ],
       "sku": "",
       "state": "GA"
@@ -79338,6 +79948,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Power BI",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Power BI",
       "region": "Mexico Central",
@@ -79377,6 +79998,17 @@
       "offering": "Power BI",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Power BI",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -82369,6 +83001,14 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Australia",
+      "offering": "Redis Cache",
+      "region": "Australia Southeast",
+      "regionDisplayName": "Australia Southeast",
+      "sku": "Redis Enterprise",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Austria",
       "offering": "Redis Cache",
       "region": "Austria East",
@@ -82513,6 +83153,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Redis Cache",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Redis Enterprise",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Mexico",
       "offering": "Redis Cache",
       "region": "Mexico Central",
@@ -82541,6 +83192,17 @@
       "offering": "Redis Cache",
       "region": "Poland Central",
       "regionDisplayName": "Poland Central",
+      "sku": "Redis Enterprise",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Redis Cache",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Redis Enterprise",
       "state": "Closing Down"
     },
@@ -83662,6 +84324,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Service Bus",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Service Bus",
       "region": "Mexico Central",
@@ -83701,6 +84374,17 @@
       "offering": "Service Bus",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Service Bus",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -84194,6 +84878,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Service Bus",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Premium",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Service Bus",
       "region": "Mexico Central",
@@ -84241,6 +84936,17 @@
       "offering": "Service Bus",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Premium",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Service Bus",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Premium",
       "state": "GA"
     },
@@ -85418,6 +86124,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Site Recovery",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Site Recovery",
       "region": "Mexico Central",
@@ -85465,6 +86182,17 @@
       "offering": "Site Recovery",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Site Recovery",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -87192,6 +87920,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Storage",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Storage",
       "region": "Mexico Central",
@@ -88204,6 +88943,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Storage",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Data Lake Storage Gen2",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Storage",
       "region": "Mexico Central",
@@ -88744,17 +89494,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Storage",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Azure File Sync",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Storage",
       "region": "UAE Central",
@@ -89168,6 +89907,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Storage",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Azure Premium Files",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Storage",
       "region": "Mexico Central",
@@ -89215,6 +89965,17 @@
       "offering": "Storage",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Azure Premium Files",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Storage",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Azure Premium Files",
       "state": "GA"
     },
@@ -90763,6 +91524,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Storage",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Hot/Cool/Cold Blob Storage Tiers",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Storage",
       "region": "Mexico Central",
@@ -90810,6 +91582,17 @@
       "offering": "Storage",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Hot/Cool/Cold Blob Storage Tiers",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Storage",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Hot/Cool/Cold Blob Storage Tiers",
       "state": "GA"
     },
@@ -92134,6 +92917,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Storage",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Premium Block Blobs",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Storage",
       "region": "Mexico Central",
@@ -92170,6 +92964,17 @@
       "offering": "Storage",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Premium Block Blobs",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Storage",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Premium Block Blobs",
       "state": "GA"
     },
@@ -93002,6 +93807,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Storage",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Queues",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Storage",
       "region": "Mexico Central",
@@ -93049,6 +93865,17 @@
       "offering": "Storage",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Queues",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Storage",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Queues",
       "state": "GA"
     },
@@ -93558,6 +94385,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Storage",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Tables",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Storage",
       "region": "Mexico Central",
@@ -93605,6 +94443,17 @@
       "offering": "Storage",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Tables",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Storage",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Tables",
       "state": "GA"
     },
@@ -93831,6 +94680,14 @@
       "offering": "Storage",
       "region": "Australia East",
       "regionDisplayName": "Australia East",
+      "sku": "Ultra Disk Storage",
+      "state": "GA"
+    },
+    {
+      "geography": "Australia",
+      "offering": "Storage",
+      "region": "Australia Southeast",
+      "regionDisplayName": "Australia Southeast",
       "sku": "Ultra Disk Storage",
       "state": "GA"
     },
@@ -94569,17 +95426,6 @@
       "state": "GA"
     },
     {
-      "geography": "Malaysia",
-      "offering": "Virtual Machine Scale Sets",
-      "region": "Southeast Asia 3",
-      "regionDisplayName": "Southeast Asia 3 **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "",
-      "state": "GA"
-    },
-    {
       "geography": "Mexico",
       "offering": "Virtual Machine Scale Sets",
       "region": "Mexico Central",
@@ -95198,6 +96044,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -95615,17 +96472,6 @@
       "regionDisplayName": "South Africa West *",
       "regionFlags": [
         "restricted_access"
-      ],
-      "sku": "A0 - A7",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
       ],
       "sku": "A0 - A7",
       "state": "GA"
@@ -96114,6 +96960,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Av2-Series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -96660,17 +97517,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Azure Dedicated Host",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Virtual Machines",
       "region": "UAE Central",
@@ -97142,6 +97988,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "B-Series",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "B-Series",
       "state": "Closing Down"
     },
@@ -98842,6 +99699,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dadsv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -98889,6 +99757,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Dadsv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dadsv5-Series",
       "state": "GA"
     },
@@ -101761,6 +102640,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dasv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -101808,6 +102698,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Dasv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dasv5-Series",
       "state": "GA"
     },
@@ -105342,6 +106243,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ddsv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -105893,6 +106805,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ddsv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -106875,6 +107798,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Ddv4-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Ddv4-series",
       "state": "GA"
     },
@@ -107419,6 +108353,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ddv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -107926,6 +108871,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dldsv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -108829,6 +109785,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Dlsv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dlsv5-Series",
       "state": "GA"
     },
@@ -111516,17 +112483,6 @@
       "state": "Closing Down"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "DS-Series",
-      "state": "Closing Down"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Virtual Machines",
       "region": "UAE Central",
@@ -111582,14 +112538,6 @@
       "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
-      "sku": "DS-Series",
-      "state": "Closing Down"
-    },
-    {
-      "geography": "United States",
-      "offering": "Virtual Machines",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
       "sku": "DS-Series",
       "state": "Closing Down"
     },
@@ -111948,6 +112896,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "DSv2-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -111995,6 +112954,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "DSv2-Series",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "DSv2-Series",
       "state": "Closing Down"
     },
@@ -112550,6 +113520,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "DSv3-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -113039,6 +114020,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dsv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -113086,6 +114078,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Dsv4-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dsv4-series",
       "state": "GA"
     },
@@ -113637,6 +114640,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Dsv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dsv5-Series",
       "state": "GA"
     },
@@ -114581,6 +115595,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dv2-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -114628,6 +115653,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Dv2-Series",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Dv2-Series",
       "state": "Closing Down"
     },
@@ -115191,6 +116227,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dv3-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -115742,6 +116789,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -116293,6 +117351,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Dv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -116782,6 +117851,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Eadsv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -116829,6 +117909,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Eadsv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Eadsv5-Series",
       "state": "GA"
     },
@@ -117941,6 +119032,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "EASv4-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -117988,6 +119090,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "EASv4-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "EASv4-Series",
       "state": "GA"
     },
@@ -118481,6 +119594,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Easv5-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -118528,6 +119652,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Easv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Easv5-Series",
       "state": "GA"
     },
@@ -119632,6 +120767,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "EAv4-Series",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -119679,6 +120825,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "EAv4-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "EAv4-Series",
       "state": "GA"
     },
@@ -120234,6 +121391,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ebdsv5-series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -120781,6 +121949,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Ebsv5-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Ebsv5-series",
       "state": "GA"
     },
@@ -122742,6 +123921,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Edsv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -123278,6 +124468,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Edsv5-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Edsv5-series",
       "state": "GA"
     },
@@ -124254,6 +125455,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Edv4-series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -124790,6 +126002,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Edv5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Edv5-Series",
       "state": "GA"
     },
@@ -126273,6 +127496,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "ESv3-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -126798,6 +128032,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Esv4-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Esv4-series",
       "state": "GA"
     },
@@ -127338,6 +128583,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Esv5-series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Esv5-series",
       "state": "GA"
     },
@@ -128316,6 +129572,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Ev3-Series",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Ev3-Series",
       "state": "Closing Down"
     },
@@ -128887,6 +130154,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Ev4-series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -129434,6 +130712,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Ev5-Series",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Ev5-Series",
       "state": "GA"
     },
@@ -130005,6 +131294,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "F-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -132830,6 +134130,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "FS-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -133297,6 +134608,17 @@
       "state": "Closing Down"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Fsv2-Series",
+      "state": "Closing Down"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -133344,6 +134666,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Fsv2-Series",
+      "state": "Closing Down"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Fsv2-Series",
       "state": "Closing Down"
     },
@@ -137676,6 +139009,17 @@
       "state": "GA"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "M-Series",
+      "state": "GA"
+    },
+    {
       "geography": "South Africa",
       "offering": "Virtual Machines",
       "region": "South Africa North",
@@ -137725,17 +139069,6 @@
       "regionDisplayName": "Switzerland West *",
       "regionFlags": [
         "restricted_access"
-      ],
-      "sku": "M-Series",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
       ],
       "sku": "M-Series",
       "state": "GA"
@@ -138587,17 +139920,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Mdsv2 Medium Memory Series",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Virtual Machines",
       "region": "UAE Central",
@@ -139411,17 +140733,6 @@
       "offering": "Virtual Machines",
       "region": "Switzerland North",
       "regionDisplayName": "Switzerland North",
-      "sku": "Msv2 Medium Memory Series",
-      "state": "GA"
-    },
-    {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
       "sku": "Msv2 Medium Memory Series",
       "state": "GA"
     },
@@ -140180,17 +141491,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "Mv2 SKL-series",
-      "state": "GA"
-    },
-    {
       "geography": "United Arab Emirates",
       "offering": "Virtual Machines",
       "region": "UAE Central",
@@ -140471,14 +141771,6 @@
     {
       "geography": "United States",
       "offering": "Virtual Machines",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
-      "sku": "NCads A100 v4-Series",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Virtual Machines",
       "region": "South Central US",
       "regionDisplayName": "South Central US",
       "sku": "NCads A100 v4-Series",
@@ -140637,17 +141929,6 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "NCadsH100_v5-series",
-      "state": "GA"
-    },
-    {
       "geography": "United Kingdom",
       "offering": "Virtual Machines",
       "region": "UK South",
@@ -140676,14 +141957,6 @@
       "offering": "Virtual Machines",
       "region": "East US 2",
       "regionDisplayName": "East US 2",
-      "sku": "NCadsH100_v5-series",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Virtual Machines",
-      "region": "North Central US",
-      "regionDisplayName": "North Central US",
       "sku": "NCadsH100_v5-series",
       "state": "GA"
     },
@@ -141299,29 +142572,10 @@
       "state": "GA"
     },
     {
-      "geography": "Taiwan",
-      "offering": "Virtual Machines",
-      "region": "Taiwan North",
-      "regionDisplayName": "Taiwan North **",
-      "regionFlags": [
-        "early_access"
-      ],
-      "sku": "NDasr A100 v4-Series",
-      "state": "GA"
-    },
-    {
       "geography": "United States",
       "offering": "Virtual Machines",
       "region": "East US",
       "regionDisplayName": "East US",
-      "sku": "NDasr A100 v4-Series",
-      "state": "GA"
-    },
-    {
-      "geography": "United States",
-      "offering": "Virtual Machines",
-      "region": "East US 2",
-      "regionDisplayName": "East US 2",
       "sku": "NDasr A100 v4-Series",
       "state": "GA"
     },
@@ -142508,6 +143762,14 @@
       "state": "GA"
     },
     {
+      "geography": "Australia",
+      "offering": "Virtual Machines",
+      "region": "Australia Southeast",
+      "regionDisplayName": "Australia Southeast",
+      "sku": "Serial Console",
+      "state": "GA"
+    },
+    {
       "geography": "Austria",
       "offering": "Virtual Machines",
       "region": "Austria East",
@@ -142671,6 +143933,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Machines",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Serial Console",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Machines",
       "region": "Mexico Central",
@@ -142707,6 +143980,17 @@
       "offering": "Virtual Machines",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Serial Console",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Machines",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Serial Console",
       "state": "GA"
     },
@@ -143210,6 +144494,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Network",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Network",
       "region": "Mexico Central",
@@ -143257,6 +144552,17 @@
       "offering": "Virtual Network",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Network",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -143766,6 +145072,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Network",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Global Vnet Peering",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Network",
       "region": "Mexico Central",
@@ -143813,6 +145130,17 @@
       "offering": "Virtual Network",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Global Vnet Peering",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Network",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Global Vnet Peering",
       "state": "GA"
     },
@@ -144322,6 +145650,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Network",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Virtual Network Peering",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Network",
       "region": "Mexico Central",
@@ -144369,6 +145708,17 @@
       "offering": "Virtual Network",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Virtual Network Peering",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Network",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Virtual Network Peering",
       "state": "GA"
     },
@@ -144870,6 +146220,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual Network NAT",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual Network NAT",
       "region": "Mexico Central",
@@ -144917,6 +146278,17 @@
       "offering": "Virtual Network NAT",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual Network NAT",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -145402,6 +146774,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual WAN",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual WAN",
       "region": "Mexico Central",
@@ -145449,6 +146832,17 @@
       "offering": "Virtual WAN",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual WAN",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },
@@ -145915,6 +147309,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual WAN",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "ExpressRoute",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual WAN",
       "region": "Mexico Central",
@@ -145962,6 +147367,17 @@
       "offering": "Virtual WAN",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "ExpressRoute",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual WAN",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "ExpressRoute",
       "state": "GA"
     },
@@ -146436,6 +147852,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual WAN",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Point-to-site VPN Gateway",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual WAN",
       "region": "Mexico Central",
@@ -146483,6 +147910,17 @@
       "offering": "Virtual WAN",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Point-to-site VPN Gateway",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual WAN",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Point-to-site VPN Gateway",
       "state": "GA"
     },
@@ -146968,6 +148406,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "Virtual WAN",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "Site-to-Site VPN Gateway",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "Virtual WAN",
       "region": "Mexico Central",
@@ -147015,6 +148464,17 @@
       "offering": "Virtual WAN",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "Site-to-Site VPN Gateway",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "Virtual WAN",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "Site-to-Site VPN Gateway",
       "state": "GA"
     },
@@ -147583,6 +149043,17 @@
       "state": "Preview"
     },
     {
+      "geography": "Saudi Arabia",
+      "offering": "VMWatch",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "Preview"
+    },
+    {
       "geography": "South Africa",
       "offering": "VMWatch",
       "region": "South Africa North",
@@ -148088,6 +149559,17 @@
       "state": "GA"
     },
     {
+      "geography": "Malaysia",
+      "offering": "VPN Gateway",
+      "region": "Southeast Asia 3",
+      "regionDisplayName": "Southeast Asia 3 **",
+      "regionFlags": [
+        "early_access"
+      ],
+      "sku": "",
+      "state": "GA"
+    },
+    {
       "geography": "Mexico",
       "offering": "VPN Gateway",
       "region": "Mexico Central",
@@ -148135,6 +149617,17 @@
       "offering": "VPN Gateway",
       "region": "Qatar Central",
       "regionDisplayName": "Qatar Central",
+      "sku": "",
+      "state": "GA"
+    },
+    {
+      "geography": "Saudi Arabia",
+      "offering": "VPN Gateway",
+      "region": "Saudi Arabia East",
+      "regionDisplayName": "Saudi Arabia East **",
+      "regionFlags": [
+        "early_access"
+      ],
       "sku": "",
       "state": "GA"
     },

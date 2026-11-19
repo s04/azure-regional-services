@@ -1,5 +1,5 @@
 {
-  "dataHash": "5918eca768e57c50fa8f05749a6dcc3fa3f97ed7435f5c5edbeaee94d429daa9",
+  "dataHash": "b4fa37ec7dd40864409e3396b8566bf29968d2d66463656955185d92b741733a",
   "items": [
     {
       "armRegionName": "australiaeast",
@@ -134164,20 +134164,20 @@
       "armRegionName": "australiaeast",
       "armSkuName": "Standard_D1pls_v7",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "AU East",
       "meterId": "053bb370-0e63-5a6c-9655-5c07e5291a0b",
       "meterName": "D1pls v7 Spot",
       "productId": "DZH318XZR5CJ",
       "productName": "Virtual Machines Dplsv7 Series",
-      "retailPrice": 0.01468,
+      "retailPrice": 0.01256,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR5CJ/013R",
       "skuName": "D1pls v7 Spot",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.01468
+      "unitPrice": 0.01256
     },
     {
       "armRegionName": "australiaeast",
@@ -138230,20 +138230,20 @@
       "armRegionName": "brazilsouth",
       "armSkuName": "Standard_D4pls_v7",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "BR South",
       "meterId": "048adfd4-6ecc-5088-8951-fb49cf5d86f8",
       "meterName": "D4pls v7",
       "productId": "DZH318XZR5CJ",
       "productName": "Virtual Machines Dplsv7 Series",
-      "retailPrice": 0.405,
+      "retailPrice": 0.347,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR5CJ/0093",
       "skuName": "D4pls v7",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.405
+      "unitPrice": 0.347
     },
     {
       "armRegionName": "brazilsouth",
@@ -142087,39 +142087,39 @@
       "armRegionName": "eastus",
       "armSkuName": "Standard_D16pls_v7",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "US East",
       "meterId": "0401c86d-0ecb-5597-b189-9c5d7c24431c",
       "meterName": "D16pls v7",
       "productId": "DZH318XZR5CJ",
       "productName": "Virtual Machines Dplsv7 Series",
-      "retailPrice": 0.81,
+      "retailPrice": 0.693,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR5CJ/00NK",
       "skuName": "D16pls v7",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.81
+      "unitPrice": 0.693
     },
     {
       "armRegionName": "eastus",
       "armSkuName": "Standard_D48pls_v7",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "US East",
       "meterId": "0526d482-c9c9-548d-ae70-a7adeca197e4",
       "meterName": "D48pls v7 Spot",
       "productId": "DZH318XZR5CJ",
       "productName": "Virtual Machines Dplsv7 Series",
-      "retailPrice": 0.486,
+      "retailPrice": 0.4158,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR5CJ/00F4",
       "skuName": "D48pls v7 Spot",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.486
+      "unitPrice": 0.4158
     },
     {
       "armRegionName": "eastus",
@@ -145258,25 +145258,6 @@
     },
     {
       "armRegionName": "eastus2",
-      "armSkuName": "Standard_D64ads_v7",
-      "currencyCode": "USD",
-      "effectiveStartDate": "2025-11-01T00:00:00Z",
-      "location": "US East 2",
-      "meterId": "069440a7-2b59-5e95-96c8-c5156557d1a2",
-      "meterName": "D64ads v7 Spot",
-      "productId": "DZH318Z0TBHF",
-      "productName": "Virtual Machines Dadsv7 Series Windows",
-      "retailPrice": 1.218202,
-      "serviceFamily": "Compute",
-      "serviceId": "DZH313Z7MMC8",
-      "serviceName": "Virtual Machines",
-      "skuId": "DZH318Z0TBHF/008W",
-      "skuName": "D64ads v7 Spot",
-      "unitOfMeasure": "1 Hour",
-      "unitPrice": 1.218202
-    },
-    {
-      "armRegionName": "eastus2",
       "armSkuName": "Standard_D32alds_v7",
       "currencyCode": "USD",
       "effectiveStartDate": "2025-11-01T00:00:00Z",
@@ -147899,6 +147880,25 @@
     },
     {
       "armRegionName": "eastus2",
+      "armSkuName": "Standard_M128ps_v4",
+      "currencyCode": "USD",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
+      "location": "US East 2",
+      "meterId": "0517c62e-fc5c-5cd9-a60a-3346ae8e0fb9",
+      "meterName": "M128ps v4",
+      "productId": "DZH318XZR84F",
+      "productName": "Virtual Machines Mpsv4 Series Windows",
+      "retailPrice": 18.394,
+      "serviceFamily": "Compute",
+      "serviceId": "DZH313Z7MMC8",
+      "serviceName": "Virtual Machines",
+      "skuId": "DZH318XZR84F/014V",
+      "skuName": "M128ps v4",
+      "unitOfMeasure": "1 Hour",
+      "unitPrice": 18.394
+    },
+    {
+      "armRegionName": "eastus2",
       "armSkuName": "Standard_M176s-44_3_v3",
       "currencyCode": "USD",
       "effectiveStartDate": "2025-01-01T00:00:00Z",
@@ -149725,20 +149725,20 @@
       "armRegionName": "japaneast",
       "armSkuName": "Standard_D128pls_v7",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "JA East",
       "meterId": "02811e84-86a9-5a99-b9a9-6cf0d73cfce2",
       "meterName": "D128pls v7 Spot",
       "productId": "DZH318XZR5CJ",
       "productName": "Virtual Machines Dplsv7 Series",
-      "retailPrice": 1.879,
+      "retailPrice": 1.608,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR5CJ/004J",
       "skuName": "D128pls v7 Spot",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 1.879
+      "unitPrice": 1.608
     },
     {
       "armRegionName": "japaneast",
@@ -153620,20 +153620,20 @@
       "armRegionName": "northeurope",
       "armSkuName": "Standard_D16pls_v7",
       "currencyCode": "USD",
-      "effectiveStartDate": "2026-10-01T00:00:00Z",
+      "effectiveStartDate": "2026-11-01T00:00:00Z",
       "location": "EU North",
       "meterId": "01b01c54-41ea-5b5f-a22f-d4178474223e",
       "meterName": "D16pls v7 Spot",
       "productId": "DZH318XZR5CJ",
       "productName": "Virtual Machines Dplsv7 Series",
-      "retailPrice": 0.2316,
+      "retailPrice": 0.1982,
       "serviceFamily": "Compute",
       "serviceId": "DZH313Z7MMC8",
       "serviceName": "Virtual Machines",
       "skuId": "DZH318XZR5CJ/001N",
       "skuName": "D16pls v7 Spot",
       "unitOfMeasure": "1 Hour",
-      "unitPrice": 0.2316
+      "unitPrice": 0.1982
     },
     {
       "armRegionName": "northeurope",
@@ -180058,26 +180058,26 @@
       "unitCount": 12
     },
     {
-      "averageRetailPrice": 2.86295143,
+      "averageRetailPrice": 2.86294083,
       "cheapestSamples": [
         {
           "armRegionName": "australiaeast",
           "armSkuName": "Standard_D1pls_v7",
           "currencyCode": "USD",
-          "effectiveStartDate": "2026-10-01T00:00:00Z",
+          "effectiveStartDate": "2026-11-01T00:00:00Z",
           "location": "AU East",
           "meterId": "053bb370-0e63-5a6c-9655-5c07e5291a0b",
           "meterName": "D1pls v7 Spot",
           "productId": "DZH318XZR5CJ",
           "productName": "Virtual Machines Dplsv7 Series",
-          "retailPrice": 0.01468,
+          "retailPrice": 0.01256,
           "serviceFamily": "Compute",
           "serviceId": "DZH313Z7MMC8",
           "serviceName": "Virtual Machines",
           "skuId": "DZH318XZR5CJ/013R",
           "skuName": "D1pls v7 Spot",
           "unitOfMeasure": "1 Hour",
-          "unitPrice": 0.01468
+          "unitPrice": 0.01256
         },
         {
           "armRegionName": "australiaeast",
@@ -180159,7 +180159,7 @@
       "currency": "USD",
       "itemCount": 200,
       "maxRetailPrice": 41.918,
-      "minRetailPrice": 0.01468,
+      "minRetailPrice": 0.01256,
       "productCount": 138,
       "region": "australiaeast",
       "service": "Virtual Machines",
@@ -180168,7 +180168,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 4.35006811,
+      "averageRetailPrice": 4.3497781,
       "cheapestSamples": [
         {
           "armRegionName": "brazilsouth",
@@ -180278,7 +180278,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 3.85364422,
+      "averageRetailPrice": 3.85270822,
       "cheapestSamples": [
         {
           "armRegionName": "eastus",
@@ -180388,7 +180388,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 4.3419288,
+      "averageRetailPrice": 4.42780778,
       "cheapestSamples": [
         {
           "armRegionName": "eastus2",
@@ -180498,7 +180498,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 4.61843071,
+      "averageRetailPrice": 4.61707571,
       "cheapestSamples": [
         {
           "armRegionName": "japaneast",
@@ -180608,7 +180608,7 @@
       "unitCount": 1
     },
     {
-      "averageRetailPrice": 2.52026131,
+      "averageRetailPrice": 2.52009431,
       "cheapestSamples": [
         {
           "armRegionName": "northeurope",
