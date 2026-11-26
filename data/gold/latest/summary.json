@@ -25,7 +25,7 @@
       "topRegionsByOfferingCount": []
     }
   },
-  "generatedAt": "2026-11-25T17:15:11Z",
+  "generatedAt": "2026-11-26T16:56:11Z",
   "layers": {
     "bronze": "data/bronze/latest",
     "gold": "data/gold/latest",
